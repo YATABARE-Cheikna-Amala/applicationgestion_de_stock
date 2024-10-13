@@ -1,0 +1,17 @@
+﻿[Run Information]
+Version=CSPro 7.2
+AppType=Entry
+
+[DataEntryInit]
+Interactive=Ask
+
+[Files]
+Application=.\formulaire.ent
+InputData=.\data.csdb|CSPRODB
+
+
+[UserFiles]
+FICHIER=
+
+[Parameters]
+

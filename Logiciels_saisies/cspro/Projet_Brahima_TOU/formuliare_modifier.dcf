@@ -1,0 +1,521 @@
+﻿[Dictionary]
+Version=CSPro 7.7
+Label=Dic
+Name=DIC_DICT
+RecordTypeStart=1
+RecordTypeLen=1
+Positions=Relative
+ZeroFill=No
+DecimalChar=Yes
+SecurityOptions=85FA12C2B9DC12E956C798B11B8C7B26B518B9ECD6517D0C4AEF6CB3426F8261
+
+[Level]
+Label=Dic Level
+Name=DIC_LEVEL
+
+[IdItems]
+
+[Item]
+Label=Numéro du questionnaire
+Name=NUM_QUEST
+Start=2
+Len=5
+DataType=Numeric
+
+[Record]
+Label=Section 1. Consentement
+Name=SECTION1
+RecordTypeValue='1'
+RecordLen=16
+
+[Item]
+Label=Date
+Name=DATE1
+Start=7
+Len=8
+DataType=Numeric
+
+[Item]
+Label=Jour
+Name=JOUR1
+Start=7
+Len=2
+ItemType=SubItem
+DataType=Numeric
+ZeroFill=Yes
+
+[Item]
+Label=Mois
+Name=MOIS1
+Start=9
+Len=2
+ItemType=SubItem
+DataType=Numeric
+ZeroFill=Yes
+
+[Item]
+Label=Année
+Name=ANNEE1
+Start=11
+Len=4
+ItemType=SubItem
+DataType=Numeric
+
+[Item]
+Label=Fiche d’information lue et expliquée au participant
+Name=FICHE
+Start=15
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=Fiche d’information lue et expliquée au participant
+Name=FICHE_VS1
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=Consentement écrit donné par le participant
+Name=CONSENTEMENT
+Start=16
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=Consentement écrit donné par le participant
+Name=CONSENTEMENT_VS1
+Value=1;OUI
+Value=2;NON
+
+[Record]
+Label=Section 2. Informations d’identification individuelle du participant
+Name=SECTION2
+RecordTypeValue='2'
+RecordLen=288
+
+[Item]
+Label=2.1. District de santé
+Name=DISTRICT
+Start=7
+Len=3
+DataType=Numeric
+
+[ValueSet]
+Label=2.1. District de santé
+Name=DISTRICT_VS1
+Value=11;Kedougou
+Value=12;Salemata
+Value=13;Saraya
+
+[Item]
+Label=2.2. Poste de santé
+Name=POSTE
+Start=10
+Len=3
+DataType=Numeric
+
+[ValueSet]
+Label=2.2. Poste de santé
+Name=POSTE_VS1
+Value=1;de Dimboly
+Value=2;de Dalaba
+Value=3;de Syllacounda
+Value=4;de Fongolimbi
+Value=5;de Thiabedji
+Value=6;de Tinkoto
+Value=7;de Bantako
+Value=8;de ninefecha
+Value=9;de Bandafassi
+Value=10;Dindefelo
+Value=11;de Mako
+Value=12;de Tomboronkoto
+Value=13;District de kedougou
+Value=14;Centre de sante de Salemata
+Value=15;de Nepene
+Value=16;Oubadji
+Value=17;de Ethiolo
+Value=18;de Kewoye
+Value=19;de Dakately
+Value=20;District de Salemata
+Value=21;Centre de sante de Saraya
+Value=22;de Diakhaba
+Value=23;de Medina Baffe
+Value=24;de Nafadji
+Value=25;de Khossento
+Value=26;de Diakha Madina
+Value=27;de Saroudia
+Value=28;de Bembou
+Value=29;de Moussala
+Value=30;de Diakhaling
+Value=31;de Bambadji
+Value=32;de Missirah dantila
+Value=33;de M Sirrimana
+Value=34;District de Saraya
+
+[ValueSet]
+Label=2.2. Poste de santé
+Name=POSTE_VS11
+Value=1;de Dimboly
+Value=2;de Dalaba
+Value=3;de Syllacounda
+Value=4;de Fongolimbi
+Value=5;de Thiabedji
+Value=6;de Tinkoto
+Value=7;de Bantako
+Value=8;de ninefecha
+Value=9;de Bandafassi
+Value=10;Dindefelo
+Value=11;de Mako
+Value=12;de Tomboronkoto
+Value=13;District de kedougou
+
+[ValueSet]
+Label=2.2. Poste de santé
+Name=POSTE_VS12
+Value=14;Centre de sante de Salemata
+Value=15;de Nepene
+Value=16;Oubadji
+Value=17;de Ethiolo
+Value=18;de Kewoye
+Value=19;de Dakately
+Value=20;District de Salemata
+
+[ValueSet]
+Label=2.2. Poste de santé
+Name=POSTE_VS13
+Value=21;Centre de sante de Saraya
+Value=22;de Diakhaba
+Value=23;de Medina Baffe
+Value=24;de Nafadji
+Value=25;de Khossento
+Value=26;de Diakha Madina
+Value=27;de Saroudia
+Value=28;de Bembou
+Value=29;de Moussala
+Value=30;de Diakhaling
+Value=31;de Bambadji
+Value=32;de Missirah dantila
+Value=33;de M Sirrimana
+Value=34;District de Saraya
+
+[Item]
+Label=2.3. Prénom du Participant
+Name=PRENOM
+Start=13
+Len=30
+DataType=Alpha
+
+[Item]
+Label=2.4. Nom du Participant
+Name=NOM
+Start=43
+Len=30
+DataType=Alpha
+
+[Item]
+Label=2.5. Participant ID_NO
+Name=IDNO
+Start=73
+Len=3
+DataType=Numeric
+
+[Item]
+Label=2.6. Statut (Patient/Accompagnant)
+Name=STATUT
+Start=76
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=2.6. Statut (Patient/Accompagnant)
+Name=STATUT_VS1
+Value=1;Patient
+Value=2;Accompagnant
+
+[Item]
+Label=2.6.1  Combien de patients avez vous accompagnés
+Name=NBRPATIENTS
+Start=77
+Len=2
+DataType=Numeric
+
+[Item]
+Label=Information des patients
+Name=INFOPAT
+Start=79
+Len=20
+DataType=Alpha
+Occurrences=3
+
+[Item]
+Label=Nom
+Name=NOM1
+Start=79
+Len=10
+ItemType=SubItem
+DataType=Alpha
+
+[Item]
+Label=prenom
+Name=PRENOM1
+Start=80
+Len=10
+ItemType=SubItem
+DataType=Alpha
+
+[Item]
+Label=Pourquoi le patient vient-il au centre ?
+Name=SI_PATIENT
+Start=139
+Len=100
+DataType=Alpha
+
+[Item]
+Label=2.7. Quartier de résidence
+Name=QUARTIER
+Start=239
+Len=50
+DataType=Alpha
+
+[Record]
+Label=Section 3. Informations démographiques et professionnelles
+Name=SECTION3
+RecordTypeValue='3'
+RecordLen=44
+
+[Item]
+Label=3.1. Sexe du participant
+Name=SEXE
+Start=7
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=3.1. Sexe du participant
+Name=SEXE_VS1
+Value=1;Masculin
+Value=2;Féminin
+
+[Item]
+Label=3.2. En quelle année êtez-vous né ?
+Name=ANNEE_NAISS
+Start=8
+Len=4
+DataType=Numeric
+
+[Item]
+Label=3.3. Quel âge avez-vous eu lors de votre dernier anniversaire (en années) ?
+Name=AGE_ANNEE
+Start=12
+Len=3
+DataType=Numeric
+
+[Item]
+Label=Âge en mois (<1 an)
+Name=AGE_MOIS
+Start=15
+Len=2
+DataType=Numeric
+
+[Item]
+Label=3.4. Quel est votre statut matrimonial?
+Name=SIT_MAT
+Start=17
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=3.4. Quel est votre statut matrimonial?
+Name=SIT_MAT_VS1
+Value=1;Célibatiare
+Value=2;Marié(e)
+Value=3;Séparé/Divorcé(e)
+Value=4;Veuf(ve) / Autre
+
+[Item]
+Label=3.5. A quelle groupe ethnique appartenez-vous?
+Name=ETHNIE
+Start=18
+Len=2
+DataType=Numeric
+
+[ValueSet]
+Label=3.5. A quelle groupe ethnique appartenez-vous?
+Name=ETHNIE_VS1
+Value=1;Wolof
+Value=2;Sérère
+Value=3;Pulaar
+Value=4;Malinké
+Value=5;Bedik
+Value=6;Diakhanké
+Value=74;Autre
+Value=88;Préfère ne pas répondre
+
+[Item]
+Label=3.6. Quelle est votre religion?
+Name=RELIGION
+Start=20
+Len=2
+DataType=Numeric
+
+[ValueSet]
+Label=3.6. Quelle est votre religion?
+Name=RELIGION_VS1
+Value=1;Musulman
+Value=2; Chrétien
+Value=3;Traditionnel
+Value=4;Autre
+Value=88;Préfère ne pas répondre
+
+[Item]
+Label=3.7.  Quel est le plus haut niveau d'éducation que vous avez obtenu avant de quitter l'école?
+Name=EDUC
+Start=22
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=3.7.  Quel est le plus haut niveau d'éducation que vous avez obtenu avant de quitter l'école?
+Name=EDUC_VS1
+Value=1;Aucun (ou Coranique)
+Value=2;Elémentaire
+Value=3;Secondaire ou Technique
+Value=4;Universitaire
+
+[Item]
+Label=3.8.  Quelle est votre principale profession (la principale activité source de vos revenus)?
+Name=PROFESSION
+Start=23
+Len=2
+DataType=Numeric
+
+[ValueSet]
+Label=3.8.  Quelle est votre principale profession (la principale activité source de vos revenus)?
+Name=PROFESSION_VS1
+Value=1;Agriculture ou élevage
+Value=2;Cadre/Technicien/Gestion
+Value=3;Employé (ex. bureau)
+Value=4;Service (ex. chauffeur)
+Value=5;Commerce / Affaires
+Value=6;Ouvrier qualifié (ex. électricien, plombier)
+Value=7;Ouvrier non qualifié (ex. maçon, usine)
+Value=8;Retraité
+Value=9;Femme/Homme au foyer
+Value=10;Elève/Étudiant plein temps
+Value=11;Sans emploi / Chômage
+Value=12;Autre
+
+[Item]
+Label=Autre religion à préciser
+Name=AUTTRE
+Start=25
+Len=20
+DataType=Alpha
+
+[Record]
+Label=Section 4. Comportements à risque du paludisme
+Name=SECTION4
+RecordTypeValue='4'
+RecordLen=266
+
+[Item]
+Label=4.1. Avez-vous voyagé les 15 derniers jours précédents l’enquête ?
+Name=VOYAGE15
+Start=7
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=4.1. Avez-vous voyagé les 15 derniers jours précédents l’enquête ?
+Name=VOYAGE15_VS1
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=4.2. Si oui, dans quelle localité ?
+Name=VOYAGE15_1
+Start=8
+Len=50
+DataType=Alpha
+
+[Item]
+Label=4.4. Avez-vous eu la fièvre dans les 48H précédentes l’enquête ?
+Name=FIEVRE
+Start=58
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=4.4. Avez-vous eu la fièvre dans les 48H précédentes l’enquête ?
+Name=FIEVRE_VS1
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=4.5.  Qu’avez-vous pris comme médicament ?
+Name=MEDOCS
+Start=59
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=4.5.  Qu’avez-vous pris comme médicament ?
+Name=MEDOCS_VS1
+Value=1;Antipaludique
+Value=2;Autres
+
+[Item]
+Label=4.6. Avez-vous une moustiquaire ?
+Name=MOUSTIQ
+Start=60
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=4.6. Avez-vous une moustiquaire ?
+Name=MOUSTIQ_VS1
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=4.7.  l’avez-vous utilisé la nuit dernière ?
+Name=MOUSTIQ_LAST
+Start=61
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=4.7.  l’avez-vous utilisé la nuit dernière ?
+Name=MOUSTIQ_LAST_VS1
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=4.8.  Si oui à quelle fréquence l’avez-vous utilisé ce dernier trimestre?
+Name=MOUSTIQ_FREQ
+Start=62
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=4.8.  Si oui à quelle fréquence l’avez-vous utilisé ce dernier trimestre?
+Name=MOUSTIQ_FREQ_VS1
+Value=1; A peu près tous les jours
+Value=2; Parfois
+Value=3; Jamais
+
+[Item]
+Label=Température actuelle
+Name=TEMP
+Start=63
+Len=4
+DataType=Numeric
+Decimal=2
+DecimalChar=Yes
+
+[Item]
+Label=Commentaires et appreciations
+Name=COMMENTAIRES
+Start=67
+Len=200
+DataType=Alpha

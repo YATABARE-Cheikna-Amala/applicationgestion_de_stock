@@ -1,0 +1,1277 @@
+﻿Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+
+Date            Feb 10, 2018
+Start Time      20:25:10
+End Time        20:25:14
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\cours CsPro\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\cours CsPro\pro\masque.csdb
+
+Date            Feb 11, 2018
+Start Time      01:15:15
+End Time        01:15:36
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            1   Operator entered a value out of range            
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\cours CsPro\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\cours CsPro\pro\masque.csdb
+
+Date            Feb 11, 2018
+Start Time      01:16:14
+End Time        01:35:28
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990           13   Operator entered a value out of range            
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\cours CsPro\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\cours CsPro\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 11, 2018
+Start Time      13:08:15
+End Time        13:08:24
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            1   Operator entered a value out of range            
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\cours CsPro\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\cours CsPro\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 11, 2018
+Start Time      13:09:06
+End Time        13:09:52
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  92101            2   Case ids '%s' duplicate an existing case! Case id
+  99990            2   Operator entered a value out of range            
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\cours CsPro\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\cours CsPro\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 11, 2018
+Start Time      13:12:52
+End Time        13:15:39
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            3   Operator entered a value out of range            
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\cours CsPro\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\cours CsPro\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 12, 2018
+Start Time      17:55:08
+End Time        17:59:22
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            2   Operator entered a value out of range            
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\cours CsPro\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\cours CsPro\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 12, 2018
+Start Time      18:06:45
+End Time        18:13:01
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            2   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    144       1    -   champs obligatoire                                      -
+    150       1    -    Vous ne pouvez pas choisir *Aucun* et d'autres r       -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\cours CsPro\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\cours CsPro\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 12, 2018
+Start Time      18:22:38
+End Time        18:26:36
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            2   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    170       1    -    Vous ne pouvez pas choisir *Aucun* et d'autres r       -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\cours CsPro\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\cours CsPro\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 12, 2018
+Start Time      18:32:49
+End Time        18:34:42
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            1   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    170       1    -    Vous ne pouvez pas choisir *Aucun* et d'autres r       -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\cours CsPro\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\cours CsPro\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 12, 2018
+Start Time      18:37:01
+End Time        18:39:38
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            1   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    170       1    -    Vous ne pouvez pas choisir *Aucun* et d'autres r       -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\cours CsPro\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\cours CsPro\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 12, 2018
+Start Time      20:06:37
+End Time        20:07:13
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\cours CsPro\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\cours CsPro\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 12, 2018
+Start Time      20:09:38
+End Time        20:10:11
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\cours CsPro\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\cours CsPro\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 12, 2018
+Start Time      20:10:26
+End Time        21:12:29
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990           10   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    122       1    -   Champs obligatoire                                      -
+    164       1    -    Vous ne pouvez pas choisir *Aucun* et d'autres r       -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 12, 2018
+Start Time      22:51:11
+End Time        22:51:46
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            1   Operator entered a value out of range            
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 12, 2018
+Start Time      23:17:26
+End Time        23:18:11
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            1   Operator entered a value out of range            
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 12, 2018
+Start Time      23:43:28
+End Time        23:47:34
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            1   Operator entered a value out of range            
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 13, 2018
+Start Time      00:09:14
+End Time        00:10:22
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 13, 2018
+Start Time      00:11:26
+End Time        00:12:54
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            1   Operator entered a value out of range            
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 13, 2018
+Start Time      00:14:20
+End Time        00:16:39
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            2   Operator entered a value out of range            
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 13, 2018
+Start Time      00:20:27
+End Time        00:21:51
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            1   Operator entered a value out of range            
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 13, 2018
+Start Time      00:23:25
+End Time        00:24:28
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            1   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    114       1    -   Les personnes les plus agées doivent etre en haut       -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 13, 2018
+Start Time      00:25:29
+End Time        00:25:52
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            2   Operator entered a value out of range            
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 13, 2018
+Start Time      00:26:03
+End Time        00:27:19
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            3   Operator entered a value out of range            
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 13, 2018
+Start Time      00:33:12
+End Time        00:35:08
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            2   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    123       1    -   champs obligatoire                                      -
+    155       1    -   Les mois ne peuvent pas dépasser 12                     -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 13, 2018
+Start Time      00:43:12
+End Time        00:45:25
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            2   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    128       1    -   L'individu N° %d (%s) a été indiqué comme étant c       -
+    155       1    -   champs obligatoire                                      -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 13, 2018
+Start Time      00:50:26
+End Time        00:52:17
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            1   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    128       1    -   L'individu  N° %d (%s) a été indiqué comme étant        -
+    160       1    -   Les jours ne peuvent pas dépasser 31                    -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 13, 2018
+Start Time      01:08:25
+End Time        01:08:41
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            1   Operator entered a value out of range            
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 13, 2018
+Start Time      01:38:56
+End Time        01:40:54
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            3   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    128       1    -   L'individu  N° %d (%s) a été indiqué comme étant        -
+    172       1    -   Les mois ne peuvent pas dépasser 12                     -
+    185       1    -   La date de controle doit etre supérieur à la date       -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 13, 2018
+Start Time      12:54:07
+End Time        12:54:16
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 13, 2018
+Start Time      12:54:32
+End Time        12:54:40
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 13, 2018
+Start Time      12:54:51
+End Time        12:54:57
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 14, 2018
+Start Time      11:25:38
+End Time        11:26:26
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 14, 2018
+Start Time      11:58:49
+End Time        12:15:09
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            3   Operator entered a value out of range            
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 14, 2018
+Start Time      19:33:42
+End Time        19:37:54
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            2   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    128       1    -   L'individu  N° %d (%s) a été indiqué comme étant        -
+    166       1    -   Les jours ne peuvent pas dépasser 31                    -
+    185       1    -   La date de controle doit etre supérieur à la date       -
+    214       2    -   Le numero est code sur 9 positions                      -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 14, 2018
+Start Time      19:39:25
+End Time        19:40:04
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 14, 2018
+Start Time      21:47:52
+End Time        21:49:25
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    214       5    -   le nuero saisi est incorrecte,Veuillez rectifier        -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 14, 2018
+Start Time      21:53:46
+End Time        21:54:34
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            5   Operator entered a value out of range            
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 14, 2018
+Start Time      22:01:39
+End Time        22:02:02
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+     16       1    -   Le senegal n'a que 14 region                            -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 14, 2018
+Start Time      22:02:58
+End Time        22:05:03
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+     16       2    -   Le senegal n'a que 14 region,Veuillez rectifier         -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 14, 2018
+Start Time      22:05:24
+End Time        22:07:34
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            1   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+     16       3    -   Le senegal n'a que 14 region,Veuillez rectifier         -
+    133       1    -   L'individu  N° %d (%s) a été indiqué comme étant        -
+    166       1    -   Les minutes ne peuvent pas dépasser 60                  -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 14, 2018
+Start Time      22:12:00
+End Time        22:18:47
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            5   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    133       2    -   L'individu  N° %d (%s) a été indiqué comme étant        -
+    177       1    -   Les mois ne peuvent pas dépasser 12                     -
+    220       7    -   le nuero saisi est incorrecte,Veuillez rectifier        -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 14, 2018
+Start Time      22:58:34
+End Time        23:04:26
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            3   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    133       1    -   L'individu  N° %d (%s) a été indiqué comme étant        -
+    220       3    -   le numero saisi est incorrecte,Veuillez rectifier       -
+    228       1    -   le nuero saisi est incorrecte,Veuillez rectifier        -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 14, 2018
+Start Time      23:06:35
+End Time        23:10:52
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   1088            2   Invalid subscript: %n(%f) -- %p                  
+  99990            7   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    135       1    -   L'individu  N° %d (%s) a été indiqué comme étant        -
+    222       5    -   le numero saisi est incorrecte,Veuillez rectifier       -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 14, 2018
+Start Time      23:10:59
+End Time        23:12:20
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   1088            2   Invalid subscript: %n(%f) -- %p                  
+  99990            2   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    135       1    -   L'individu  N° %d (%s) a été indiqué comme étant        -
+    222       1    -   le numero saisi est incorrecte,Veuillez rectifier       -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 14, 2018
+Start Time      23:16:25
+End Time        23:28:00
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   1088            2   Invalid subscript: %n(%f) -- %p                  
+  99990            1   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    135       1    -   L'individu  N° %d (%s) a été indiqué comme étant        -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 14, 2018
+Start Time      23:28:45
+End Time        23:30:48
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   1088            2   Invalid subscript: %n(%f) -- %p                  
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+     16       1    -   Le senegal n'a que 14 region,Veuillez rectifier         -
+    135       1    -   L'individu  N° %d (%s) a été indiqué comme étant        -
+    170       4    -   Le prénom n'est pas bien écrit                          -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 14, 2018
+Start Time      23:55:13
+End Time        23:55:25
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 14, 2018
+Start Time      23:55:51
+End Time        23:59:24
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            3   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    131       1    -   L'individu  N° %d (%s) a été indiqué comme étant        -
+    147       1    -   Le prénom n'est pas bien écrit                          -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 14, 2018
+Start Time      23:59:34
+End Time        00:02:28
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            4   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    131       1    -   L'individu  N° %d (%s) a été indiqué comme étant        -
+    193       1    -   Les mois ne peuvent pas dépasser 12                     -
+    206       4    -   La date de controle doit etre supérieur à la date       -
+    212       1    -   Les mois ne peuvent pas dépasser 12                     -
+    247       1    -   le numero saisi est incorrecte,Veuillez rectifier       -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 15, 2018
+Start Time      00:02:35
+End Time        00:06:06
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            1   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    131       1    -   L'individu  N° %d (%s) a été indiqué comme étant        -
+    239       2    -   le numero saisi est incorrecte,Veuillez rectifier       -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 15, 2018
+Start Time      00:06:13
+End Time        00:06:50
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    145       2    -   champs obligatoire                                      -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 15, 2018
+Start Time      00:12:25
+End Time        00:15:20
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    131       2    -   L'individu  N° %d (%s) a été indiqué comme étant        -
+    153       1    -   Le prénom n'est pas bien écrit                          -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 15, 2018
+Start Time      00:18:16
+End Time        00:18:53
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 15, 2018
+Start Time      00:19:38
+End Time        00:20:27
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    131       2    -   L'individu  N° %d (%s) a été indiqué comme étant        -
+    145       1    -   champs obligatoire                                      -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 15, 2018
+Start Time      00:22:37
+End Time        00:23:47
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            1   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    131       1    -   L'individu  N° %d (%s) a été indiqué comme étant        -
+    153       2    -   Le prénom n'est pas bien écrit                          -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 15, 2018
+Start Time      00:35:21
+End Time        00:36:06
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 15, 2018
+Start Time      12:26:21
+End Time        16:20:46
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   1026            2   Id-variables not filled, please reenter          
+  99990           33   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    131       2    -   L'individu  N° %d (%s) a été indiqué comme étant        -
+    153       2    -   Le prénom n'est pas bien écrit                          -
+    164       3    -   Les personnes les plus agées doivent etre en prem       -
+    193       1    -   Les jours ne peuvent pas dépasser 31                    -
+    199       1    -   Les mois ne peuvent pas dépasser 12                     -
+    212       3    -   La date de controle doit etre supérieur à la date       -
+    245       3    -   le numero saisi est incorrecte,Veuillez rectifier       -
+    254       2    -   le numero saisi est incorrecte,Veuillez rectifier       -
+    277       6    -   Champs obligatoire                                      -
+    297       1    -   Champs obligatoire                                      -
+    319       1    -    Vous ne pouvez pas choisir *Aucun* et d'autres r       -
+    329       1    -   champs obligatoire                                      -
+    340       1    -    Vous ne pouvez pas choisir *Aucun* et d'autres r       -
+    526       1    -   Champs obligatoire                                      -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=C:\Users\clement\Desktop\pro\quart.txt
+
+Date            Feb 15, 2018
+Start Time      16:20:48
+End Time        16:21:10
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   1026            2   Id-variables not filled, please reenter          
+  91601            1   Ignoring operator EndLevel - the EndLevel switch 
+  99990           33   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    131       2    -   L'individu  N° %d (%s) a été indiqué comme étant        -
+    153       3    -   Le prénom n'est pas bien écrit                          -
+    164       3    -   Les personnes les plus agées doivent etre en prem       -
+    193       1    -   Les jours ne peuvent pas dépasser 31                    -
+    199       1    -   Les mois ne peuvent pas dépasser 12                     -
+    212       3    -   La date de controle doit etre supérieur à la date       -
+    245       3    -   le numero saisi est incorrecte,Veuillez rectifier       -
+    254       2    -   le numero saisi est incorrecte,Veuillez rectifier       -
+    277       6    -   Champs obligatoire                                      -
+    297       1    -   Champs obligatoire                                      -
+    319       1    -    Vous ne pouvez pas choisir *Aucun* et d'autres r       -
+    329       1    -   champs obligatoire                                      -
+    340       1    -    Vous ne pouvez pas choisir *Aucun* et d'autres r       -
+    526       1    -   Champs obligatoire                                      -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\masque.csdb
+<File>          FICHIER=
+
+Date            Feb 15, 2018
+Start Time      16:22:15
+End Time        16:23:31
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  91601            1   Ignoring operator EndLevel - the EndLevel switch 
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    153       4    -   Le prénom n'est pas bien écrit                          -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------

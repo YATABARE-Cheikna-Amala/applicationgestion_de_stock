@@ -1,0 +1,611 @@
+﻿Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\entry.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\test.csdb
+
+Date            Feb 21, 2024
+Start Time      22:43:04
+End Time        22:47:38
+
+
+System messages:
+
+  Number        Freq         Message Text                                                                               
+  ------        ----         ------------                                                                               
+   88111           1         Ignoring 'skip to @%s': referred target '%s' is an unknown symbol%s {%p}                   
+   88889           1         ATTENTION: Hors valeurs valides! Entrer une valeur valide pour %s%s                        
+   99990           1         Operator entered a value out of range                                                      
+
+User unnumbered messages:
+
+    Line        Freq    %    Message Text                                                                          Denom
+    ----        ----  -----  ------------                                                                          -----
+      10           2      -  Les jours ne peuvent pas dépasser 31                                                      -
+      17           1      -  Les mois ne peuvent pas dépasser 12                                                       -
+      41           1      -  Le prénom n'est pas bien écritcar contenant des caractères                                -
+      57           1      -  Le prénom n'est pas bien écrit                                                            -
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\entry.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\test.csdb
+
+Date            Feb 21, 2024
+Start Time      23:02:24
+End Time        23:08:02
+
+
+User unnumbered messages:
+
+    Line        Freq    %    Message Text                                                                          Denom
+    ----        ----  -----  ------------                                                                          -----
+      10           1      -  Les jours ne peuvent pas dépasser 31                                                      -
+      41           1      -  Le prénom n'est pas bien écritcar contenant des caractères                                -
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\entry.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\test.csdb
+
+Date            Feb 22, 2024
+Start Time      00:39:23
+End Time        00:39:36
+
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\entry.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\test.csdb
+
+Date            Feb 22, 2024
+Start Time      00:40:50
+End Time        00:42:54
+
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\entry.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\test.csdb
+
+Date            Feb 22, 2024
+Start Time      00:57:28
+End Time        00:59:47
+
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\entry.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\test.csdb
+
+Date            Feb 22, 2024
+Start Time      01:13:35
+End Time        01:18:07
+
+
+System messages:
+
+  Number        Freq         Message Text                                                                               
+  ------        ----         ------------                                                                               
+    1026           1         All of the ID fields were not filled, please reenter                                       
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\entry.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\test.csdb
+
+Date            Feb 22, 2024
+Start Time      01:22:34
+End Time        01:23:46
+
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\entry.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\test.csdb
+
+Date            Feb 22, 2024
+Start Time      01:32:29
+End Time        01:34:15
+
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\entry.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\test.csdb
+
+Date            Feb 22, 2024
+Start Time      01:35:32
+End Time        01:36:53
+
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\entry.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\test.csdb
+
+Date            Feb 22, 2024
+Start Time      01:39:27
+End Time        01:40:51
+
+
+User unnumbered messages:
+
+    Line        Freq    %    Message Text                                                                          Denom
+    ----        ----  -----  ------------                                                                          -----
+      80           1      -  Le nombre  mois ne peuvent pas dépasser 12                                                -
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\entry.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\test.csdb
+
+Date            Feb 22, 2024
+Start Time      01:42:59
+End Time        01:48:31
+
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\entry.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\test.csdb
+
+Date            Feb 22, 2024
+Start Time      01:48:42
+End Time        01:50:54
+
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\entry.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\test.csdb
+
+Date            Feb 22, 2024
+Start Time      02:07:10
+End Time        02:08:26
+
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\entry.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\test.csdb
+
+Date            Feb 22, 2024
+Start Time      02:10:38
+End Time        02:11:13
+
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\entry.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\test.csdb
+
+Date            Feb 22, 2024
+Start Time      02:12:07
+End Time        02:12:49
+
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\entry.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\test.csdb
+
+Date            Feb 22, 2024
+Start Time      08:09:07
+End Time        10:08:51
+
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\entry.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\test.csdb
+
+Date            Feb 22, 2024
+Start Time      14:25:07
+End Time        14:33:04
+
+
+System messages:
+
+  Number        Freq         Message Text                                                                               
+  ------        ----         ------------                                                                               
+   88889           2         ATTENTION: Hors valeurs valides! Entrer une valeur valide pour %s%s                        
+   99990           2         Operator entered a value out of range                                                      
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\entry.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\test.csdb
+
+Date            Feb 22, 2024
+Start Time      14:35:17
+End Time        14:36:05
+
+
+System messages:
+
+  Number        Freq         Message Text                                                                               
+  ------        ----         ------------                                                                               
+   88889           2         ATTENTION: Hors valeurs valides! Entrer une valeur valide pour %s%s                        
+   99990           2         Operator entered a value out of range                                                      
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\entry.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\test.csdb
+
+Date            Feb 22, 2024
+Start Time      15:03:49
+End Time        15:04:46
+
+
+System messages:
+
+  Number        Freq         Message Text                                                                               
+  ------        ----         ------------                                                                               
+   88889           4         ATTENTION: Hors valeurs valides! Entrer une valeur valide pour %s%s                        
+   99990           4         Operator entered a value out of range                                                      
+
+
+A compilation error file (entry.ent.err) has been created for your application.
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\entry.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\test.csdb
+
+Date            Feb 22, 2024
+Start Time      15:25:26
+End Time        15:27:53
+
+
+System messages:
+
+  Number        Freq         Message Text                                                                               
+  ------        ----         ------------                                                                               
+   88889           1         ATTENTION: Hors valeurs valides! Entrer une valeur valide pour %s%s                        
+   99990           1         Operator entered a value out of range                                                      
+
+
+A compilation error file (entry.ent.err) has been created for your application.
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\entry.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\test.csdb
+
+Date            Feb 22, 2024
+Start Time      15:28:09
+End Time        15:35:39
+
+
+
+A compilation error file (entry.ent.err) has been created for your application.
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\entry.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\test.csdb
+
+Date            Feb 22, 2024
+Start Time      22:30:47
+End Time        22:33:03
+
+
+
+A compilation error file (entry.ent.err) has been created for your application.
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\entry.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\test.csdb
+
+Date            Feb 22, 2024
+Start Time      22:33:28
+End Time        23:38:29
+
+
+
+A compilation error file (entry.ent.err) has been created for your application.
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\entry.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\test.csdb
+
+Date            Feb 22, 2024
+Start Time      23:48:48
+End Time        23:52:07
+
+
+System messages:
+
+  Number        Freq         Message Text                                                                               
+  ------        ----         ------------                                                                               
+   88889           3         ATTENTION: Hors valeurs valides! Entrer une valeur valide pour %s%s                        
+   99990           3         Operator entered a value out of range                                                      
+
+
+A compilation error file (entry.ent.err) has been created for your application.
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\entry.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\test.csdb
+
+Date            Feb 23, 2024
+Start Time      15:37:48
+End Time        15:41:19
+
+
+User unnumbered messages:
+
+    Line        Freq    %    Message Text                                                                          Denom
+    ----        ----  -----  ------------                                                                          -----
+      92           1      -  Le prénom n'est pas bien écrit car contenant des caractères non acceptés dans             -
+                             un prénom                                                                                  
+
+
+A compilation error file (entry.ent.err) has been created for your application.
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\entry.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\test.csdb
+
+Date            Feb 23, 2024
+Start Time      15:42:05
+End Time        15:56:43
+
+
+System messages:
+
+  Number        Freq         Message Text                                                                               
+  ------        ----         ------------                                                                               
+   88889           4         ATTENTION: Hors valeurs valides! Entrer une valeur valide pour %s%s                        
+   99990           4         Operator entered a value out of range                                                      
+
+User unnumbered messages:
+
+    Line        Freq    %    Message Text                                                                          Denom
+    ----        ----  -----  ------------                                                                          -----
+     108           1      -  Votre nom n'est pas bien écrit car non acceptés dans un prénom                            -
+
+
+A compilation error file (entry.ent.err) has been created for your application.
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\entry.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\test.csdb
+
+Date            Feb 23, 2024
+Start Time      16:02:57
+End Time        16:04:08
+
+
+User unnumbered messages:
+
+    Line        Freq    %    Message Text                                                                          Denom
+    ----        ----  -----  ------------                                                                          -----
+      92           1      -  Le prénom n'est pas bien écrit car contenant des caractères non acceptés dans             -
+                             un prénom                                                                                  
+
+
+A compilation error file (entry.ent.err) has been created for your application.
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\entry.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\test.csdb
+
+Date            Feb 23, 2024
+Start Time      16:20:15
+End Time        16:21:07
+
+
+
+A compilation error file (entry.ent.err) has been created for your application.
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\entry.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\test.csdb
+
+Date            Feb 23, 2024
+Start Time      16:33:39
+End Time        16:35:22
+
+
+User unnumbered messages:
+
+    Line        Freq    %    Message Text                                                                          Denom
+    ----        ----  -----  ------------                                                                          -----
+     116           1      -  l'année que vous avez donnnée est incorrecte n'est pas correcte                           -
+
+
+A compilation error file (entry.ent.err) has been created for your application.
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\entry.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\test.csdb
+
+Date            Feb 23, 2024
+Start Time      16:36:25
+End Time        16:39:25
+
+
+User unnumbered messages:
+
+    Line        Freq    %    Message Text                                                                          Denom
+    ----        ----  -----  ------------                                                                          -----
+     116           1      -  l'année que vous avez donnnée est incorrecte n'est pas correcte                           -
+
+
+A compilation error file (entry.ent.err) has been created for your application.
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\entry.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\test.csdb
+
+Date            Feb 23, 2024
+Start Time      16:42:25
+End Time        16:43:15
+
+
+
+A compilation error file (entry.ent.err) has been created for your application.
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\entry.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\test.csdb
+
+Date            Feb 23, 2024
+Start Time      17:11:22
+End Time        17:11:40
+
+
+
+A compilation error file (entry.ent.err) has been created for your application.
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\entry.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\test.csdb
+
+Date            Feb 23, 2024
+Start Time      19:03:53
+End Time        19:04:53
+
+
+
+A compilation error file (entry.ent.err) has been created for your application.
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\entry.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\test.csdb
+
+Date            Feb 23, 2024
+Start Time      19:10:09
+End Time        19:10:19
+
+
+
+A compilation error file (entry.ent.err) has been created for your application.
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\entry.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\test.csdb
+
+Date            Feb 23, 2024
+Start Time      19:13:40
+End Time        19:14:23
+
+
+
+A compilation error file (entry.ent.err) has been created for your application.
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\entry.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\test.csdb
+
+Date            Feb 23, 2024
+Start Time      19:31:36
+End Time        19:31:47
+
+
+
+A compilation error file (entry.ent.err) has been created for your application.
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\entry.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Projet_Brahima_TOU\test.csdb
+
+Date            Feb 23, 2024
+Start Time      19:32:05
+End Time        19:32:12
+
+
+
+A compilation error file (entry.ent.err) has been created for your application.
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------

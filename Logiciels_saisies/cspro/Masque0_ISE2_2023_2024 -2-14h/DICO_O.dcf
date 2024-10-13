@@ -1,0 +1,455 @@
+﻿[Dictionary]
+Version=CSPro 7.7
+Label=DICO_O
+Name=DICO_O_DICT
+RecordTypeStart=1
+RecordTypeLen=1
+Positions=Relative
+ZeroFill=No
+DecimalChar=Yes
+SecurityOptions=AED7C7B4AE85EB7A608C8B31642915AF45664DC7B7D8B06053E04F8EFB84F3BC
+
+[Level]
+Label=DICO_O Level
+Name=DICO_O_LEVEL
+
+[IdItems]
+
+[Item]
+Label=Numéro de questionnaire
+Name=NUMQ
+Start=2
+Len=5
+DataType=Numeric
+
+[Record]
+Label=RENSEIGNEMENTS SIGNALETIQUES
+Name=SECTION0
+RecordTypeValue='2'
+RecordLen=28
+
+[Item]
+Label=Q0. Région
+Name=QO
+Start=7
+Len=3
+DataType=Numeric
+
+[ValueSet]
+Label=Q0. Région
+Name=QO_VS1
+Value=600;DAKAR
+Value=601;DIOURBEL
+Value=602;FATICK
+Value=603;KAFFRINE
+Value=604;KAOLACK
+Value=605;KEDOUGOU
+Value=606;KOLDA
+Value=607;LOUGA
+Value=608;MATAM
+Value=609;SAINT-LOUIS
+Value=610;SEDHIOU
+Value=611;TAMBACOUNDA
+Value=612;THIES
+Value=613;ZIGUINCHOR
+
+[Item]
+Label=Q1.Dans quel département  habitez-vous
+Name=Q1
+Start=10
+Len=5
+DataType=Numeric
+
+[ValueSet]
+Label=Q1.Dans quel département  habitez-vous
+Name=Q1_VS1
+Value=60007;DEP. DAKAR
+Value=60014;DEP. GUEDIAWAYE
+Value=60033;DEP. PIKINE
+Value=60036;DEP. RUFISQUE
+Value=60002;DEP. BAMBEY
+Value=60008;DEP. DIOURBEL
+Value=60028;DEP. MBACKE
+Value=60009;DEP. FATICK
+Value=60010;DEP. FOUNDIOUGNE
+Value=60011;DEP. GOSSAS
+Value=60004;DEP. BIRKELANE
+Value=60016;DEP. KAFFRINE
+Value=60023;DEP. KOUNGHEUL
+Value=60026;DEP. MALEME HODDAR
+Value=60015;DEP. GUIGUINEO
+Value=60018;DEP. KAOLACK
+Value=60031;DEP. NIORO
+Value=60020;DEP. KEDOUGOU
+Value=60038;DEP. SALEMATA
+Value=60039;DEP. SARAYA
+Value=60021;DEP. KOLDA
+Value=60030;DEP. MEDINA YORO FOULAH
+Value=60044;DEP. VELINGARA
+Value=60019;DEP. KEBEMER
+Value=60024;DEP. LINGUERE
+Value=60025;DEP. LOUGA
+Value=60017;DEP. KANEL
+Value=60027;DEP. MATAM
+Value=60006;DEP. DAGANA
+Value=60034;DEP. PODOR
+Value=60037;DEP. SAINT-LOUIS
+Value=60005;DEP. BOUNKILING
+Value=60013;DEP. GOUDOMP
+Value=60040;DEP. SEDHIOU
+Value=60001;DEP. BAKEL
+
+[Item]
+Label=Q1. Dans quel commune habitez-vous ?
+Name=COMM
+Start=15
+Len=5
+DataType=Numeric
+
+[Item]
+Label=Q1_1.Dans quel Unité primaire d'échantillonnage (UPE) vit-il?
+Name=UPE
+Start=20
+Len=5
+DataType=Numeric
+
+[ValueSet]
+Label=Q1_1.Dans quel Unité primaire d'échantillonnage (UPE) vit-il?
+Name=UPE_VS1
+Value=60046;Médina
+Value=60047;Grand Yoff
+Value=60048;Parcelles Assainies
+Value=60054;Grand Dakar
+Value=60059;Gueule Tapée/Fass/Colobane
+Value=60061;Yoff
+Value=60062;Biscuiterie
+Value=60064;Ouakam
+Value=60065;Liberté
+Value=60068;Cambérène
+Value=60069;Hann Bel Air
+Value=60077;Ngor
+Value=60053;Golf
+Value=60055;Wakhinane Nimzatt
+Value=60056;Sam Notaire
+Value=60070;Médina Gounass
+Value=60049;Diamaguène Sicap Mbao
+Value=60050;Yeumbeul Nord
+Value=60051;Djida Thiaroye Kao
+Value=60052;Yeumbeul Sud
+Value=60057;Keur Massar
+Value=60063;Pikine Ouest
+Value=60066;Guinaw Rail Sud
+Value=60067;Pikine Nord
+Value=60072;Pikine Est
+Value=60073;Diamaguène- Diak Sao
+Value=60074;Guinaw Rail Nord
+Value=60075;Grand Mbao
+Value=60076;Tiroye Gare
+Value=60058;Rufisque Nord
+Value=60060;Rufisque Est
+Value=60071;Rufisque Ouest
+Value=60078;CR de Yenne
+Value=60080;CR NGOYE
+Value=60081;CR REFANE
+Value=60082;CR GAWANE
+Value=60087;CA BAMBEY
+Value=60083;CR TAIBA MOUTOUPHA
+Value=60085;CA DIOURBEL
+Value=60079;CR TOUBA MOSQUEE
+Value=60084;CR KAEL
+Value=60086;CA MBACKE
+Value=60091;CR TATTAGUINE
+Value=60094;CR FIMELA
+Value=60095;CR DIOUROUP
+Value=60096;CR NDIOB
+Value=60098;CR PALMARIN FACAO
+Value=60099;CA FATICK
+Value=60088;CR DIOSSONG
+Value=60089;CR TOUBACOUTA
+Value=60092;CR DJILOR (Une partie)
+Value=60093;CR KEUR SALOUM DIANE
+Value=60090;CR MBAR
+Value=60097;CR PATAR-LIA
+Value=60100;CA GOSSAS
+Value=60101;CR MABO
+Value=60105;CR BIRKELANE ( KEUR MBOUCKI et TOUBA MBELLA )
+Value=60104;CR KATHIOTTE
+Value=60106;CR DIOKOUL MBELBOUCK
+Value=60111;CR GNIBY
+Value=60113;CA KAFFRINE
+Value=60102;CR IDA-MOURIDE
+Value=60107;CR MAKA-YOPP
+Value=60108;CR SALY ESCALE (FASS THIECKENE)
+Value=60109;CR LOUR ESCALE
+Value=60112;CR GAINTHE - PATHE
+Value=60103;CR MALEME HODDAR
+Value=60110;CR DIANKE SOUF
+Value=60115;CR WACK - NGOUNA
+Value=60117;CR KEUR MABA DIAKHOU
+Value=60121;CR MBOSS
+Value=60122;CR GAGNICK
+Value=60118;CR KEUR SOCE
+Value=60119;CR THIARE
+Value=60123;CA KAOLACK
+Value=60124;CA GANDIAYE
+Value=60114;CR PAOS KOTO
+Value=60116;CR PROKHANE
+Value=60120;CR KAYEMOR
+Value=60200;CR BANDAFASSI
+Value=60206;CR FONGOLIMBI
+Value=60207;CA kedougou
+Value=60201;CR SALEMATA
+Value=60205;CR DAKATELY
+Value=60202;CR KHOSSANTO
+Value=60203;CR SARAYA
+Value=60204;CR MISSIRAH SIRIMANA
+Value=60127;CR MAMPATIM
+Value=60133;CR BAGADADJI
+Value=60136;CA KOLDA
+Value=60137;CA SALIKEGNE
+Value=60126;CR NDORNA
+Value=60132;CR FAFACOUROU
+Value=60125;CR MEDINA-GOUNASS
+Value=60128;CR KANDIAYE
+Value=60129;CR PAROUMBA
+Value=60130;CR KANDIA
+Value=60131;CR SINTHIANG-KOUNDARA
+Value=60134;CR LINKERING
+Value=60135;CR BONCONTO
+Value=60151;CR DAROU MOUSTY
+Value=60154;CR THIOLOM FALL
+Value=60155;CR DEALI
+Value=60157;CR SAGATTA DJOLOF
+Value=60160;CR KAMB
+Value=60163;CA DAHRA
+Value=60152;CR SAKAL
+Value=60153;CR COKI
+Value=60156;CR NDIAGNE
+Value=60158;CR THIAMENE CAYOR
+Value=60159;CR GANDE
+Value=60161;CR SYER
+Value=60162;CA LOUGA
+Value=60165;CR SINTHIOU-BAMAMBE
+Value=60168;CR OURO SIDY
+Value=60169;CR ORKADIERE
+Value=60170;CR BOKILADJI
+Value=60171;CR AOURE
+Value=60175;CA KANEL
+Value=60164;CR BOKIDIAWE
+Value=60166;CR NABADJI-CIVOL
+Value=60167;CR OGO
+Value=60172;CR DABIA
+Value=60173;CR OREFONDE
+Value=60174;CA MATAM
+Value=60176;CR ROSS BETHIO
+Value=60179;CR MBANE
+Value=60185;CA. RICHARD-TOLL
+Value=60186;CA ROSSO SENEGAL
+Value=60177;CR GUEDE VILLAGE
+Value=60178;CR AERE LAO
+Value=60180;CR MEDINA NDIATBE
+Value=60181;CR PETE
+Value=60183;CR MBOUMBA
+Value=60182;CR MPAL
+Value=60184;CA SAINT - LOUIS
+Value=60138;CR BOGHAL NDIAMCOUTA
+Value=60139;EX CR DIAROUME
+Value=60144;CR BOUNKILING (Une partie)
+Value=60150;CA MEDINA WANDIFA
+Value=60140;CR SAMINE-ESCALE (Une partie)
+Value=60142;CR DIATTACOUNDA (Une partie)
+Value=60143;CR TANAFF (Une partie)
+Value=60147;CR DJIBANAR
+Value=60149;CR NIAGHA
+Value=60141;CR DIENDE
+Value=60145;CR DJIREDJI
+Value=60146;CR SANSAMBA
+Value=60148;CR BEMET-BIDJINI
+Value=60191;CR BALLOU
+Value=60192;CR MOUDERI
+Value=60194;CR GABOU
+Value=60195;CR BELE
+Value=60199;CA BAKEL
+Value=60196;CR KOTHIARY
+Value=60187;CR KOUTHIABA OUOLOF
+Value=60189;CR BAMBA NDIAYENE
+Value=60197;CR NDAME
+Value=60188;CR MISSIRAH
+Value=60190;CR KAHENE (Une partie)
+Value=60193;CR NDOGA BABACAR
+Value=60198;CA deTAMBA
+Value=60209;CR NDIAGANIAO
+Value=60210;CR MALICOUNDA
+Value=60211;CR SINDIA
+Value=60212;CR FISSEL
+Value=60216;CR SANDIARA
+Value=60222;CA MBOUR
+Value=60223;CA JOAL-FADIOUTH
+Value=60215;CR DIENDER GUEDJI
+Value=60219;CR THIENABA
+Value=60221;CA THIES
+Value=60224;CA POUT
+Value=60225;CA KHOMBOLE
+Value=60208;CR DAROU KHOUDOSS
+Value=60213;CR MERINA-DAKHAR
+Value=60214;CR NOTTO GOUYE DIAMA
+Value=60217;CR PIRE GOUREYE
+Value=60218;CR CHERIF LO
+Value=60220;CR MBAYENE
+Value=60226;CR TENGHORY
+Value=60227;CR KAFOUNTINE
+Value=60231;CR SUELLE
+Value=60232;CR MLOMP
+Value=60234;CA BIGNONA
+Value=60228;CR DJEMBERING
+Value=60229;CR MLOMP
+Value=60230;CR OUKOUT
+Value=60233;CA ZIGUINCHOR
+
+[Item]
+Label=Q2. Sexe (Masculin = 1 ;   Féminin = 2)
+Name=Q2
+Start=25
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=Q2. Sexe (Masculin = 1 ;   Féminin = 2)
+Name=Q2_VS1
+Value=1;Masculin
+Value=2;Féminin
+
+[Item]
+Label=Q3. Quel est votre âge exact
+Name=Q3
+Start=26
+Len=2
+DataType=Numeric
+
+[Item]
+Label=Q4. Age (18-24ans=1 ;  25-30ans=2;  31-40ans=3 ;   41-50ans=4 ;   51ans et +=5)
+Name=Q4
+Start=28
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=Q4.Quelle est votre tranche d'age
+Name=Q4_VS1
+Value=1;18-24ans
+Value=2;25-30ans
+Value=3;31-40ans
+Value=4;41-50ans
+Value=5;51ans et +
+
+[Record]
+Label=PREMIERE PARTIE
+Name=SECTION1
+RecordTypeValue='3'
+RecordLen=11
+
+[Item]
+Label=Q5. A votre avis, quelles sont les raisons de la naissance de cette rébellion ?
+Name=Q5
+Start=7
+Len=1
+DataType=Numeric
+Occurrences=4
+
+[ValueSet]
+Label=Q5. A votre avis, quelles sont les raisons de la naissance de cette rébellion ?
+Name=Q5_VS1
+Link=16139776
+Value=1;Economiques
+Value=2;Politiques
+Value=3;Religieuses
+Value=4;Idéologiques
+Value=9;Aucune autre raison
+
+[Item]
+Label=Q5BIS. A votre avis, quelle est la raison principale de la naissance de cette rébellion ?
+Name=Q5BIS
+Start=11
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=Q5BIS. A votre avis, quelle est la raison principale de la naissance de cette rébellion ?
+Name=Q5BIS_VS1
+Link=16139776
+
+[Record]
+Label=DEUXIEME PARTIE
+Name=SECTION2
+RecordTypeValue='4'
+RecordLen=51
+
+[Item]
+Label=Q6_1. la CEDEAO
+Name=Q6_1
+Start=7
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=Q6_1. la CEDEAO
+Name=Q6_1_VS1
+Link=101963176
+Value=1;Aide le pays
+Value=2;Est neutre
+Value=3;Aide les rebelles
+
+[Item]
+Label=Q6_2.La France
+Name=Q6_2
+Start=8
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=Q6_2.La France
+Name=Q6_2_VS1
+Link=101963176
+
+[Item]
+Label=Q6_3.Les Etats Unis
+Name=Q6_3
+Start=9
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=Q6_3.Les Etats Unis
+Name=Q6_3_VS1
+Link=101963176
+
+[Item]
+Label=Q6_4.  Les partis politiques
+Name=Q6_4
+Start=10
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=Q6_4.  Les partis politiques
+Name=Q6_4_VS1
+Link=101963176
+
+[Item]
+Label=Q6_5.  la société civile
+Name=Q6_5
+Start=11
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=Q6_5.  la société civile
+Name=Q6_5_VS1
+Link=101963176
+
+[Item]
+Label=Q7. Pour les plus de 30 ans. Pour qui avez-vous voté lors du premier tour de  l’élection présidentielle de 2002 ?
+Name=Q7
+Start=12
+Len=40
+DataType=Alpha

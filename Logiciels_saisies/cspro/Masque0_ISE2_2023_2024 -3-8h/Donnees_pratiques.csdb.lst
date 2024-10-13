@@ -1,0 +1,164 @@
+﻿Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -3-8h\MASQUE0_EXEMPLE1.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -3-8h\Donnees_pratiques.csdb
+
+Date            Oct 07, 2023
+Start Time      08:31:22
+End Time        08:36:44
+
+
+User numbered messages:
+
+  Number        Freq    %    Message Text                                                                          Denom
+  ------        ----  -----  ------------                                                                          -----
+       3           1      -  Le GPS est fonctionnel sur le terminal                                                    -
+
+User unnumbered messages:
+
+    Line        Freq    %    Message Text                                                                          Denom
+    ----        ----  -----  ------------                                                                          -----
+      37           1      -  Le signal GPS ne peut etre acquis                                                         -
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -3-8h\MASQUE0_EXEMPLE1.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -3-8h\Donnees_pratiques.csdb
+
+Date            Oct 07, 2023
+Start Time      08:54:04
+End Time        08:56:58
+
+
+User numbered messages:
+
+  Number        Freq    %    Message Text                                                                          Denom
+  ------        ----  -----  ------------                                                                          -----
+       3           1      -  Le GPS est fonctionnel sur le terminal                                                    -
+
+User unnumbered messages:
+
+    Line        Freq    %    Message Text                                                                          Denom
+    ----        ----  -----  ------------                                                                          -----
+      37           1      -  Le signal GPS ne peut etre acquis                                                         -
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -3-8h\MASQUE0_EXEMPLE1.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -3-8h\Donnees_pratiques.csdb
+
+Date            Oct 07, 2023
+Start Time      09:12:15
+End Time        09:14:43
+
+
+User numbered messages:
+
+  Number        Freq    %    Message Text                                                                          Denom
+  ------        ----  -----  ------------                                                                          -----
+       2           1      -  Attention  agent %s ! Incohenerence entre %s-%s et  %s-%s .Verifier  et                   -
+                             corriger.                                                                                  
+       3           1      -  Le GPS est fonctionnel sur le terminal                                                    -
+
+User unnumbered messages:
+
+    Line        Freq    %    Message Text                                                                          Denom
+    ----        ----  -----  ------------                                                                          -----
+      37           1      -  Le signal GPS ne peut etre acquis                                                         -
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -3-8h\MASQUE0_EXEMPLE1.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -3-8h\Donnees_pratiques.csdb
+
+Date            Oct 07, 2023
+Start Time      09:15:28
+End Time        09:17:19
+
+
+User numbered messages:
+
+  Number        Freq    %    Message Text                                                                          Denom
+  ------        ----  -----  ------------                                                                          -----
+       2           1      -  Attention  agent %s ! Incohenerence entre %s-%s et  %s-%s .Verifier  et                   -
+                             corriger.                                                                                  
+       3           1      -  Le GPS est fonctionnel sur le terminal                                                    -
+
+User unnumbered messages:
+
+    Line        Freq    %    Message Text                                                                          Denom
+    ----        ----  -----  ------------                                                                          -----
+      37           1      -  Le signal GPS ne peut etre acquis                                                         -
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -3-8h\MASQUE0_EXEMPLE1.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -3-8h\Donnees_pratiques.csdb
+
+Date            Oct 07, 2023
+Start Time      09:22:28
+End Time        09:25:39
+
+
+System messages:
+
+  Number        Freq         Message Text                                                                               
+  ------        ----         ------------                                                                               
+   88889           1         ATTENTION: Hors valeurs valides! Entrer une valeur valide pour %s%s                        
+   99990           1         Operator entered a value out of range                                                      
+
+User numbered messages:
+
+  Number        Freq    %    Message Text                                                                          Denom
+  ------        ----  -----  ------------                                                                          -----
+       3           1      -  Le GPS est fonctionnel sur le terminal                                                    -
+
+User unnumbered messages:
+
+    Line        Freq    %    Message Text                                                                          Denom
+    ----        ----  -----  ------------                                                                          -----
+      37           1      -  Le signal GPS ne peut etre acquis                                                         -
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -3-8h\MASQUE0_EXEMPLE1.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -3-8h\Donnees_pratiques.csdb
+
+Date            Oct 07, 2023
+Start Time      09:40:35
+End Time        09:42:30
+
+
+System messages:
+
+  Number        Freq         Message Text                                                                               
+  ------        ----         ------------                                                                               
+   88889           1         ATTENTION: Hors valeurs valides! Entrer une valeur valide pour %s%s                        
+   99990           1         Operator entered a value out of range                                                      
+
+User numbered messages:
+
+  Number        Freq    %    Message Text                                                                          Denom
+  ------        ----  -----  ------------                                                                          -----
+       2           3      -  Attention  agent %s ! Incohenerence entre %s-%s et  %s-%s .Verifier  et                   -
+                             corriger.                                                                                  
+       3           1      -  Le GPS est fonctionnel sur le terminal                                                    -
+
+User unnumbered messages:
+
+    Line        Freq    %    Message Text                                                                          Denom
+    ----        ----  -----  ------------                                                                          -----
+      37           1      -  Le signal GPS ne peut etre acquis                                                         -
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------

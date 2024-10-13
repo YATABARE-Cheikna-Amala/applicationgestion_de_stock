@@ -1,0 +1,128 @@
+﻿Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<Empty>>
+<File>          FICHIER=
+
+Date            Feb 13, 2018
+Start Time      01:04:24
+End Time        01:04:35
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  10102            1   Could not open the data source %s: %s            
+  10106            1   Due to errors, the data source for %s is set to a
+  99990            1   Operator entered a value out of range            
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<Empty>>
+<File>          FICHIER=
+
+Date            Feb 13, 2018
+Start Time      01:04:53
+End Time        01:05:03
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  10102            1   Could not open the data source %s: %s            
+  10106            1   Due to errors, the data source for %s is set to a
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<Empty>>
+<File>          FICHIER=
+
+Date            Feb 13, 2018
+Start Time      01:06:23
+End Time        01:06:24
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  10102            1   Could not open the data source %s: %s            
+  10106            1   Due to errors, the data source for %s is set to a
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<Empty>>
+<File>          FICHIER=
+
+Date            Feb 15, 2018
+Start Time      16:36:04
+End Time        16:36:45
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  10102            1   Could not open the data source %s: %s            
+  10106            1   Due to errors, the data source for %s is set to a
+  99990            1   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    153       1    -   Le prénom n'est pas bien écrit                          -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<Empty>>
+<File>          FICHIER=
+
+Date            Feb 15, 2018
+Start Time      16:37:04
+End Time        16:37:07
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  10102            1   Could not open the data source %s: %s            
+  10106            1   Due to errors, the data source for %s is set to a
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<Empty>>
+<File>          FICHIER=
+
+Date            Feb 15, 2018
+Start Time      16:38:53
+End Time        16:38:55
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  10102            1   Could not open the data source %s: %s            
+  10106            1   Due to errors, the data source for %s is set to a
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------

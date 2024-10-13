@@ -1,0 +1,32 @@
+﻿[FormFile]
+Version=CSPro 7.7
+Name=DICO_O_FF
+Label=MASQUE0_EXEMPLE1
+DefaultTextFont=-013 0000 0000 0000 0700 0000 0000 0000 0000 0000 0000 0000 0000 Arial
+FieldEntryFont=0018 0000 0000 0000 0600 0000 0000 0000 0000 0000 0000 0000 0000 Courier New
+Type=OperatorControlled
+  
+[Dictionaries]
+File=.\DICO_O.dcf
+  
+[Form]
+Name=FORM000
+Label=DICO_O Level
+Level=1
+Size=0,0
+  
+  
+[EndForm]
+  
+[Level]
+Name=DICO_O_LEVEL
+Label=DICO_O Level
+  
+[Group]
+Required=Yes
+Name=DICO_O_LEVEL_FORM
+Label=DICO_O Level
+Form=1
+Max=1
+[EndGroup]
+  

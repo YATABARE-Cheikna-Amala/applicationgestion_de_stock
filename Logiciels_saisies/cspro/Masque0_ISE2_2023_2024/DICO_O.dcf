@@ -1,0 +1,154 @@
+﻿[Dictionary]
+Version=CSPro 7.7
+Label=DICO_O
+Name=DICO_O_DICT
+RecordTypeStart=1
+RecordTypeLen=1
+Positions=Relative
+ZeroFill=No
+DecimalChar=Yes
+SecurityOptions=AED7C7B4AE85EB7A608C8B31642915AF45664DC7B7D8B06053E04F8EFB84F3BC
+
+[Level]
+Label=DICO_O Level
+Name=DICO_O_LEVEL
+
+[IdItems]
+
+[Item]
+Label=Numéro de questionnaire
+Name=NUMQ
+Start=2
+Len=5
+DataType=Numeric
+
+[Record]
+Label=DICO_O Record
+Name=DICO_O_REC
+RecordTypeValue='1'
+RecordLen=6
+
+[Record]
+Label=RENSEIGNEMENTS SIGNALETIQUES   
+Name=SECTION0
+RecordTypeValue='2'
+RecordLen=14
+
+[Item]
+Label=Q0. Région 
+Name=QO
+Start=7
+Len=3
+DataType=Numeric
+
+[Item]
+Label=Q1. Dans quelle commune  habitez-vous ?
+Name=Q1
+Start=10
+Len=1
+DataType=Numeric
+
+[Item]
+Label=Q2. Sexe (Masculin = 1 ;   Féminin = 2) 
+Name=Q2
+Start=11
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=Q2. Sexe (Masculin = 1 ;   Féminin = 2) 
+Name=Q2_VS1
+Value=1;Masculin
+Value=2;Féminin 
+
+[Item]
+Label=Q3. Quel est votre âge exact
+Name=Q3
+Start=12
+Len=2
+DataType=Numeric
+
+[Item]
+Label=Q4. Age (18-24ans=1 ;  25-30ans=2;  31-40ans=3 ;   41-50ans=4 ;   51ans et +=5) 
+Name=Q4
+Start=14
+Len=1
+DataType=Numeric
+
+[ValueSet]
+Label=Q4.Quelle est votre tranche d'age 
+Name=Q4_VS1
+Value=1;18-24ans
+Value=2;25-30ans
+Value=3;31-40ans
+Value=4;41-50ans
+Value=5;51ans et +
+
+[Record]
+Label=PREMIERE PARTIE
+Name=SECTION1
+RecordTypeValue='3'
+RecordLen=11
+
+[Item]
+Label=Q5. A votre avis, quelles sont les raisons de la naissance de cette rébellion ?
+Name=Q5
+Start=7
+Len=1
+DataType=Numeric
+Occurrences=4
+
+[Item]
+Label=Q5BIS. A votre avis, quelle est la raison principale de la naissance de cette rébellion ?
+Name=Q5BIS
+Start=11
+Len=1
+DataType=Numeric
+
+[Record]
+Label=DEUXIEME PARTIE
+Name=SECTION2
+RecordTypeValue='4'
+RecordLen=12
+
+[Item]
+Label=Q6_1. Pensez vous que la CEDEAO suivantes aident le pays/aident les rebelles/sont  neutres dans la gestion de la crise ?
+Name=Q6_1
+Start=7
+Len=1
+DataType=Numeric
+
+[Item]
+Label=Q6_2. Pensez vous que la France suivantes aident le pays/aident les rebelles/sont  neutres dans la gestion de la crise ?
+Name=Q6_2
+Start=8
+Len=1
+DataType=Numeric
+
+[Item]
+Label=Q6_3. Pensez vous que les Etats Unis suivantes aident le pays/aident les rebelles/sont  neutres dans la gestion de la crise ?
+Name=Q6_3
+Start=9
+Len=1
+DataType=Numeric
+
+[Item]
+Label=Q6_4. Pensez vous que les partis politiques suivantes aident le pays/aident les rebelles/sont  neutres dans la gestion de la crise ?
+Name=Q6_4
+Start=10
+Len=1
+DataType=Numeric
+
+[Item]
+Label=Q6_5. Pensez vous que la société civile suivantes aident le pays/aident les rebelles/sont  neutres dans la gestion de la crise ?
+Name=Q6_5
+Start=11
+Len=1
+DataType=Numeric
+
+[Item]
+Label=Q7. Pour les plus de 30 ans. Pour qui avez-vous voté lors du premier tour de  l’élection présidentielle de 2002 ?
+Name=Q7
+Start=12
+Len=1
+DataType=Numeric

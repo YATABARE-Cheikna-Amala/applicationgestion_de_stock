@@ -1,0 +1,15 @@
+﻿[CSPro Application]
+Version=CSPro 7.7
+Label=MASQUE0_EXEMPLE1
+Name=MASQUE0_EXEMPLE1
+AppType=DataEntry
+[AppCode]
+File=.\MASQUE0_EXEMPLE1.ent.apc
+[Message]
+File=.\MASQUE0_EXEMPLE1.ent.mgf
+[Help]
+File=.\MASQUE0_EXEMPLE1.ent.qsf
+[Forms]
+File=.\MASQUE0_EXEMPLE1.fmf
+[Dictionary Types]
+Dict-Type=.\DICO_O.dcf,Input,.\MASQUE0_EXEMPLE1.fmf

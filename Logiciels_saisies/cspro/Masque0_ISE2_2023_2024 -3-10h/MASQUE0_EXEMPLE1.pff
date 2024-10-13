@@ -1,0 +1,7 @@
+﻿[Run Information]
+Version=CSPro 7.7
+AppType=Entry
+
+[Files]
+Application=.\MASQUE0_EXEMPLE1.ent
+InputData=.\Donnees_pratiques.csdb

@@ -1,0 +1,4646 @@
+﻿[Dictionary]
+Version=CSPro 7.0
+Label=Projet
+Name=PROJET_DICT
+RecordTypeStart=1
+RecordTypeLen=1
+Positions=Relative
+ZeroFill=No
+DecimalChar=Yes
+
+[Level]
+Label=Projet questionnaire
+Name=PROJET
+
+[IdItems]
+
+[Item]
+Label=numero du questionnaire
+Name=NUM_QUEST
+Start=2
+Len=3
+
+[Record]
+Label=SECTION 0 : IDENTIFICATION DU MÉNAGE
+Name=SECTION_0_IDENTIFICATION_DU_ME
+RecordTypeValue='A'
+RecordLen=45
+
+[Item]
+Label=01: Région
+Name=O_1
+Start=5
+Len=2
+
+[ValueSet]
+Label=01: Région
+Name=O_1_VS1
+Value=1;DAKAR
+Value=2;ZIGUINCHOR
+Value=3;DIOURBEL
+Value=4;SAINT-LOUIS
+Value=5;TAMBACOUNDA
+Value=6;KAOLACK
+Value=7;THIES
+Value=8;LOUGA
+Value=9;FATICK
+Value=10;KOLDA
+Value=11;MATAM
+Value=12;KAFFRINE
+Value=13;KEDOUGOU
+Value=14;SEDHIOU
+
+[Item]
+Label=02: Département
+Name=O_2
+Start=7
+Len=3
+
+[Item]
+Label=03 : Arrondissement.
+Name=O_3
+Start=10
+Len=6
+
+[Item]
+Label=04 : Commune/CR
+Name=O_4
+Start=16
+Len=8
+
+[Item]
+Label=05 : N° DR_RGPHAE
+Name=O_5
+Start=24
+Len=3
+
+[Item]
+Label=06 : N° DR _EIFIS
+Name=O_6
+Start=27
+Len=3
+
+[Item]
+Label=07 : Quartier/Village/Hameau
+Name=O_7
+Start=30
+Len=13
+
+[Item]
+Label=08 : Milieu
+Name=O_8
+Start=43
+Len=1
+
+[ValueSet]
+Label=08 : Milieu
+Name=O_8_VS1
+Value=1;Urbain
+Value=2;Rural
+
+[Item]
+Label=09 : N° Ménage
+Name=O_9
+Start=44
+Len=2
+
+[Record]
+Label=COORDONNEE DU KISH
+Name=KISH
+RecordTypeValue='D'
+RecordLen=814
+
+[Item]
+Label=Membre ménage
+Name=MEMBRE_MENAGE
+Start=5
+Len=53
+DataType=Alpha
+Occurrences=10
+
+[Item]
+Label=Prenom et Noms
+Name=PRENOM_ET_NOMS
+Start=5
+Len=50
+ItemType=SubItem
+DataType=Alpha
+
+[Item]
+Label=Age
+Name=AGE
+Start=55
+Len=3
+ItemType=SubItem
+
+[ValueSet]
+Label=Age
+Name=AGE_VS1
+Value=18;18ans
+Value=19;19ans
+Value=20;20ans
+Value=21;21ans
+Value=22;22ans
+Value=23;23ans
+Value=24;24ans
+Value=25;25ans
+Value=26;26ans
+Value=27;27ans
+Value=28;28ans
+Value=29;29ans
+Value=30;30ans
+Value=31;31ans
+Value=32;32ans
+Value=33;33ans
+Value=34;34ans
+Value=35;35ans
+Value=36;36ans
+Value=37;37ans
+Value=38;38ans
+Value=39;39ans
+Value=40;40ans
+Value=41;41ans
+Value=42;42ans
+Value=43;43ans
+Value=44;44ans
+Value=45;45ans
+Value=46;46ans
+Value=47;47ans
+Value=48;48ans
+Value=49;49ans
+Value=50;50ans
+Value=51;51ans
+Value=52;52ans
+Value=53;53ans
+Value=54;54ans
+Value=55;55ans
+Value=56;56ans
+Value=57;57ans
+Value=58;58ans
+Value=59;59ans
+Value=60;60ans
+Value=61;61ans
+Value=62;62ans
+Value=63;63ans
+Value=64;64ans
+Value=65;65ans
+Value=66;66ans
+Value=67;67ans
+Value=68;68ans
+Value=69;69ans
+Value=70;70ans
+Value=71;71ans
+Value=72;72ans
+Value=73;73ans
+Value=74;74ans
+Value=75;75ans
+Value=76;76ans
+Value=77;77ans
+Value=78;78ans
+Value=79;79ans
+Value=80;80ans
+Value=81;81ans
+Value=82;82ans
+Value=83;83ans
+Value=84;84ans
+Value=85;85ans
+Value=86;86ans
+Value=87;87ans
+Value=88;88ans
+Value=89;89ans
+Value=90;90ans
+Value=91;91ans
+Value=92;92ans
+Value=93;93ans
+Value=94;94ans
+Value=95;95ans
+Value=96;96ans
+Value=97;97ans
+Value=98;98ans
+Value=99;99ans
+Value=100;100ans
+Value=101;101ans
+Value=102;102ans
+Value=103;103ans
+Value=104;104ans
+Value=105;105ans
+Value=106;106ans
+Value=107;107ans
+Value=108;108ans
+Value=109;109ans
+Value=110;110ans
+
+[Item]
+Label=Nom du chef de ménage
+Name=NOM_CM
+Start=535
+Len=50
+DataType=Alpha
+
+[Item]
+Label=Début de l'interview
+Name=DEB_INTERVIEW
+Start=585
+Len=4
+
+[Item]
+Label=heure1
+Name=HEURE1
+Start=585
+Len=2
+ItemType=SubItem
+
+[Item]
+Label=Minutes1
+Name=MINUTES1
+Start=587
+Len=2
+ItemType=SubItem
+
+[Item]
+Label=Date de l'interview (jj/mm/aa)
+Name=DATE_INTERVIEW
+Start=589
+Len=8
+
+[Item]
+Label=JOUR1
+Name=JOUR1
+Start=589
+Len=2
+ItemType=SubItem
+
+[Item]
+Label=MOIS1
+Name=MOIS1
+Start=591
+Len=2
+ItemType=SubItem
+
+[Item]
+Label=ANNEE1
+Name=ANNEE1
+Start=593
+Len=4
+ItemType=SubItem
+
+[Item]
+Label=Date de contrôle  (jj/mm/aa)
+Name=DATE_CONTROLE
+Start=597
+Len=8
+
+[Item]
+Label=JOUR2
+Name=JOUR2
+Start=597
+Len=2
+ItemType=SubItem
+
+[Item]
+Label=MOIS2
+Name=MOISA
+Start=599
+Len=2
+ItemType=SubItem
+
+[Item]
+Label=ANNEE2
+Name=ANNEE2
+Start=601
+Len=4
+ItemType=SubItem
+
+[Item]
+Label=Enquêteur
+Name=ENQUETEUR
+Start=605
+Len=3
+
+[Item]
+Label=Chef d’équipe
+Name=CHEF_EQUIPE
+Start=608
+Len=2
+
+[Item]
+Label=Résultat de la visite
+Name=RESULT_VISITE
+Start=610
+Len=1
+
+[ValueSet]
+Label=Résultat de la visite
+Name=RESULT_VISITE_VS1
+Value=1;Complet avec 1er ménage tiré
+Value=2;Rempli avec ménage de remplacement/refus
+Value=3;Rempli avec ménage de remplacement/ménage tiré non trouvé
+Value=4;Incomplet
+
+[Item]
+Label=Coordonnées des personnes de référence
+Name=COORD_REF
+Start=611
+Len=68
+DataType=Alpha
+Occurrences=3
+OccurrenceLabel=1,Individu Kish
+OccurrenceLabel=2,Personne de référence 2
+OccurrenceLabel=3,Personne de référence 3
+
+[Item]
+Label=Prenom et Nom
+Name=PRENOM_NOM
+Start=611
+Len=50
+ItemType=SubItem
+DataType=Alpha
+
+[Item]
+Label=N° téléphone 1
+Name=NUM_TEL1
+Start=661
+Len=9
+ItemType=SubItem
+
+[Item]
+Label=N° téléphone 2
+Name=NUM_TEL2
+Start=670
+Len=9
+ItemType=SubItem
+
+[Record]
+Label=I.SITUATIONS SOCIO-ECONOMIQUE
+Name=SECTION_I
+RecordTypeValue='1'
+RecordLen=315
+
+[Item]
+Label=I.1.	Sexe de la personne interviewée
+Name=I_1
+Start=5
+Len=1
+
+[ValueSet]
+Label=I.1.	Sexe de la personne interviewée
+Name=I_1_VS1
+Value=1;Homme
+Value=2;Femme
+
+[Item]
+Label=I.2.	Quelle est la taille de votre ménage incluant vous-même
+Name=I_2
+Start=6
+Len=1
+
+[ValueSet]
+Label=I.2.	Quelle est la taille de votre ménage incluant vous-même
+Name=I_2_VS1
+Value=1;1 personne
+Value=2;2 personne
+Value=3;3 à 5 personnes
+Value=4;6 à 10 personnes
+Value=5;11 à 15 personnes
+Value=6;plus de 15 personnes
+
+[Item]
+Label=I.3.	Quelle est votre situation matrimoniale
+Name=I_3
+Start=7
+Len=1
+
+[ValueSet]
+Label=I.3.	Quelle est votre situation matrimoniale
+Name=I_3_VS1
+Value=1;Marié
+Value=2;Veuf
+Value=3;Divorcé
+Value=4;Célibataire
+
+[Item]
+Label=I.4. Quelle est votre tranche d' âge?
+Name=I_4
+Start=8
+Len=1
+
+[ValueSet]
+Label=I.4. Quelle est votre tranche d' âge?
+Name=I_4_VS1
+Value=1;Entre 18 et 24 ans
+Value=2;Entre 25 et 34 ans
+Value=3;Entre 35 et 44 ans
+Value=4;Entre 45 et 54 ans
+Value=5;Entre 55 et 64 ans
+Value=6;65 ans et plus
+
+[Item]
+Label=I.5.	Quel est votre niveau d’instruction
+Name=I_5
+Start=9
+Len=1
+
+[ValueSet]
+Label=I.5.	Quel est votre niveau d’instruction
+Name=I_5_VS1
+Value=1;Aucun
+Value=2;Primaire
+Value=3;6ème à 3ème
+Value=4;2ème à Terminale
+Value=5;Bac à Bac+3
+Value=6;Bac+4 et superieur
+Value=7;Arabistant/Ecole coranique
+Value=8;Alphabétisé en langue nationale
+
+[Item]
+Label=I.6. Quelle est votre profession
+Name=I_6
+Start=10
+Len=2
+
+[ValueSet]
+Label=I.6. Quelle est votre profession
+Name=I_6_VS1
+Value=1;Ouvrier
+Value=2;Employé salarié
+Value=3;Commerçant établi
+Value=4;Petit détaillant
+Value=5;Marchand ambulant
+Value=6;Profession libérale
+Value=7;Corps habillé
+Value=8;Artisan
+Value=9;Enseignant
+Value=10;Chauffeur
+Value=11;Mareyeur
+Value=12;Retraité
+Value=13;Étudiant
+Value=99;Autre
+
+[Item]
+Label=I.6.a Autre profession à préciser
+Name=I_6_A
+Start=12
+Len=70
+DataType=Alpha
+
+[Item]
+Label=I.7.	Êtes-vous actuellement actif sur le marché du travail
+Name=I_7
+Start=82
+Len=1
+
+[ValueSet]
+Label=I.7.	Êtes-vous actuellement actif sur le marché du travail
+Name=I_7_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=I.8. Dans quel secteur d’activité
+Name=I_8
+Start=83
+Len=2
+
+[ValueSet]
+Label=I.8. Dans quel secteur d’activité
+Name=I_8_VS1
+Value=1;Industrie
+Value=2;Commerce
+Value=3;BTP
+Value=4;Services
+Value=5;Education
+Value=6;Santé
+Value=7;Administration
+Value=8;Artisanat
+Value=9;Agricuture
+Value=10;Elevage
+Value=11;Pêche
+Value=12;Energie
+Value=99;Autre
+
+[Item]
+Label=I.8.a Autre secteur d'activité à préciser
+Name=I_8_A
+Start=85
+Len=70
+DataType=Alpha
+
+[Item]
+Label=I.9.  Quel a été votre revenu mensuel moyen au cours de la dernière année
+Name=I_9
+Start=155
+Len=1
+
+[ValueSet]
+Label=I.9.  Quel a été votre revenu mensuel moyen au cours de la dernière année
+Name=I_9_VS1
+Value=0;Aucun revenu
+Value=1;Moins de 50 000
+Value=2;50 000 à 100 000
+Value=3;100 000 à 200 000
+Value=4;200 000 à 300 000
+Value=5;300 000 à 500 000
+Value=7;500 000 à 1 million
+Value=8;Plus de 1 million
+
+[Item]
+Label=I.10.	Par rapport à l’année précédente, vos revenus ont-ils augmenté, diminué ou demeuré stables
+Name=I_10
+Start=156
+Len=1
+
+[ValueSet]
+Label=I.10.	Par rapport à l’année précédente, vos revenus ont-ils augmenté, diminué ou demeuré stables
+Name=I_10_VS1
+Value=1;Augmenté
+Value=2;Diminué
+Value=3;Démeuré stables
+
+[Item]
+Label=I.11.a Salaire régulier (mensuel)
+Name=I_11_A
+Start=157
+Len=1
+
+[ValueSet]
+Label=I.11.a Salaire régulier (mensuel)
+Name=I_11_A_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Peu
+Value=4;Pas du tout
+
+[Item]
+Label=I.11.b Salaire journalier (contractuel)
+Name=I_11_B
+Start=158
+Len=1
+
+[ValueSet]
+Label=I.11.b Salaire journalier (contractuel)
+Name=I_11_B_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Peu
+Value=4;Pas du tout
+
+[Item]
+Label=I.11.c Revenu d’une entreprise
+Name=I_11_C
+Start=159
+Len=1
+
+[ValueSet]
+Label=I.11.c Revenu d’une entreprise
+Name=I_11_C_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Peu
+Value=4;Pas du tout
+
+[Item]
+Label=I.11.d Vente de produits agricoles
+Name=I_11_D
+Start=160
+Len=1
+
+[ValueSet]
+Label=I.11.d Vente de produits agricoles
+Name=I_11_D_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Peu
+Value=4;Pas du tout
+
+[Item]
+Label=I.11.e Vente d’autres produits (non agricoles)
+Name=I_11_E
+Start=161
+Len=1
+
+[ValueSet]
+Label=I.11.e Vente d’autres produits (non agricoles)
+Name=I_11_E_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Peu
+Value=4;Pas du tout
+
+[Item]
+Label=I.11.f Revenu tiré d’un loyer
+Name=I_11_F
+Start=162
+Len=1
+
+[ValueSet]
+Label=I.11.f Revenu tiré d’un loyer
+Name=I_11_F_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Peu
+Value=4;Pas du tout
+
+[Item]
+Label=I.11.g Revenu de pension
+Name=I_11_G
+Start=163
+Len=1
+
+[ValueSet]
+Label=I.11.g Revenu de pension
+Name=I_11_G_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Peu
+Value=4;Pas du tout
+
+[Item]
+Label=I.11.h Transfert d’argent
+Name=I_11_H
+Start=164
+Len=1
+
+[ValueSet]
+Label=I.11.h Transfert d’argent
+Name=I_11_H_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Peu
+Value=4;Pas du tout
+
+[Item]
+Label=I.11.i État sénégalais (bourse familiale)
+Name=I_11_I
+Start=165
+Len=1
+
+[ValueSet]
+Label=I.11.i État sénégalais (bourse familiale)
+Name=I_11_I_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Peu
+Value=4;Pas du tout
+
+[Item]
+Label=I.11.j Autre source à préciser
+Name=I_11_J
+Start=166
+Len=70
+DataType=Alpha
+
+[Item]
+Label=I.11.k Qualificatiion de l'autre source précisée
+Name=I_11_K
+Start=236
+Len=1
+
+[ValueSet]
+Label=I.11.k Qualificatiion de l'autre source précisée
+Name=I_11_K_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Peu
+Value=4;Pas du tout
+
+[Item]
+Label=I.12.a Loyer et services publics (eau, électricité, etc.)
+Name=I_12_A
+Start=237
+Len=1
+
+[ValueSet]
+Label=I.12.a Loyer et services publics (eau, électricité, etc.)
+Name=I_12_A_VS1
+Value=1;Souvent
+Value=2;A l'aoccasion
+Value=3;Jamais
+
+[Item]
+Label=I.12.b Achat de nourriture
+Name=I_12_B
+Start=238
+Len=1
+
+[ValueSet]
+Label=I.12.b Achat de nourriture
+Name=I_12_B_VS1
+Value=1;Souvent
+Value=2;A l'aoccasion
+Value=3;Jamais
+
+[Item]
+Label=I.12.c Frais de scolarité et fournitures scolaires
+Name=I_12_C
+Start=239
+Len=1
+
+[ValueSet]
+Label=I.12.c Frais de scolarité et fournitures scolaires
+Name=I_12_C_VS1
+Value=1;Souvent
+Value=2;A l'aoccasion
+Value=3;Jamais
+
+[Item]
+Label=I.12.d rais de scolarité et fournitures scolaires
+Name=I_12_D
+Start=240
+Len=1
+
+[ValueSet]
+Label=I.12.d rais de scolarité et fournitures scolaires
+Name=I_12_D_VS1
+Value=1;Souvent
+Value=2;A l'aoccasion
+Value=3;Jamais
+
+[Item]
+Label=I.12.e Fêtes religieuses (Tabaski, Magal, Gamou, Noël, etc.)
+Name=I_12_E
+Start=241
+Len=1
+
+[ValueSet]
+Label=I.12.e Fêtes religieuses (Tabaski, Magal, Gamou, Noël, etc.)
+Name=I_12_E_VS1
+Value=1;Souvent
+Value=2;A l'aoccasion
+Value=3;Jamais
+
+[Item]
+Label=I.12.f Autres dépences à préciser
+Name=I_12_F
+Start=242
+Len=70
+DataType=Alpha
+
+[Item]
+Label=I.12.g Qualification des autres dépenses à préciser
+Name=I_12_G
+Start=312
+Len=1
+
+[ValueSet]
+Label=I.12.g Qualification des autres dépenses à préciser
+Name=I_12_G_VS1
+Value=1;Souvent
+Value=2;A l'aoccasion
+Value=3;Jamais
+
+[Item]
+Label=I.13.a Je dispose d’une réserve pour faire face aux imprévus
+Name=I_I13_A
+Start=313
+Len=1
+
+[ValueSet]
+Label=I.13.a Je dispose d’une réserve pour faire face aux imprévus
+Name=I_I13_A_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=I.13.b Je dois ajuster mes dépenses en fonction de mes revenus
+Name=I_13_B
+Start=314
+Len=1
+
+[ValueSet]
+Label=I.13.b Je dois ajuster mes dépenses en fonction de mes revenus
+Name=I_13_B_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=I.13.c Mes dépenses dépassent souvent mes revenus
+Name=I_13_C
+Start=315
+Len=1
+
+[ValueSet]
+Label=I.13.c Mes dépenses dépassent souvent mes revenus
+Name=I_13_C_VS1
+Value=1;Oui
+Value=2;Non
+
+[Record]
+Label=II.CONNAISSANCE DES SERVICES FINANCIERS / ÉDUCATION FINANCIÈRE
+Name=SECTION_II
+RecordTypeValue='2'
+RecordLen=203
+
+[Item]
+Label=II.1.Quelles banques implantées au Sénégal connaissez-vous?
+Name=II_1
+Start=5
+Len=3
+DataType=Alpha
+
+[ValueSet]
+Label=II.1.Quelles banques implantées au Sénégal connaissez-vous?
+Name=II_1_VS1
+Value='a  ';AUCUNE
+Value='b  ';CBAO (Compagnie Bancaire de l’Afrique de l’Ouest) / Groupe Attijari
+Value='c  ';SGBS (Société Générale de Banque Suisse)
+Value='d  ';CNCAS (Caisse Nationale de Crédit Agricole du Sénégal)
+Value='e  ';ECOBANK
+Value='f  ';BICIS (Banque Internationale pour le Commerce et l’Industrie du Sénégal)
+Value='g  ';BOA (Bank of Africa)
+Value='h  ';ORA Bank
+Value='i  ';CDS(Crédit du Sénégal)
+Value='j  ';UBA (United Bank of Africa)
+Value='k  ';BAS(Banque Atlantique du Sénégal)
+Value='l  ';BHS (Banque de l’Habitat du Sénégal)
+Value='m  ';BIMAO (Banque des Institutions Mutualistes d’Afrique de l’Ouest)
+Value='n  ';BIS (Banque Islamique du Sénégal)
+Value='o  ';BSIC (Banque Sahélo Saharienne pour l’Investissement et le Commerce)
+Value='p  ';CITIBANK
+Value='q  ';ICB (International Commercial Bank)
+Value='r  ';DIAMOND BANK
+Value='s  ';BNDE (Banque Nationale de Développement Économique)
+Value='9  ';Autre
+
+[Item]
+Label=II.1a Autre Banque à préciser
+Name=II_1A
+Start=8
+Len=70
+DataType=Alpha
+
+[Item]
+Label=II.2.Quels systèmes financiers décentralisés ou SFD (institutions de microfinance, mutuelleset coopératives d’épargne et de crédit)implantés au Sénégal connaissez-vous?
+Name=II_2
+Start=78
+Len=3
+DataType=Alpha
+
+[ValueSet]
+Label=II.2.Quels systèmes financiers décentralisés ou SFD (institutions de microfinance, mutuelleset coopératives d’épargne et de crédit)implantés au Sénégal connaissez-vous?
+Name=II_2_VS1
+Value='a  ';AUCUNE
+Value='b  ';CMS (Crédit Mutuel du Sénégal)
+Value='c  ';PAMECAS
+Value='d  ';ACEP
+Value='e  ';Fides Microfinance SA
+Value='f  ';U-IMCEC (Union des Institutions Mutualistes Communautaires d’Épargne et de Crédit)
+Value='g  ';Union INTER-CREC
+Value='h  ';MECAP (Mutuelle d’Épargne et de Crédit des Agents du Secteur Public et Parapublic)
+Value='i  ';CAURIE-MF
+Value='j  ';REMEC Niayes
+Value='k  ';MicroCred - Sénégal
+Value='l  ';DJOMEC
+Value='m  ';MEC FEPRODES
+Value='n  ';UMECAS
+Value='o  ';COOPEC-RESOPP
+Value='p  ';URMECS
+Value='q  ';MEC APROVAG
+Value='r  ';MEC FADEC Ndiambour
+Value='s  ';MEC Delta
+Value='t  ';UFM Louga
+Value='9  ';Autre
+
+[Item]
+Label=II.2a Autre systeme financier décentralisé ou SFD à préciser
+Name=II_2A
+Start=81
+Len=25
+DataType=Alpha
+
+[Item]
+Label=II.3. 	Connaissez-vous les services financiers offerts par la Poste?
+Name=II_3
+Start=106
+Len=1
+
+[ValueSet]
+Label=II.3. 	Connaissez-vous les services financiers offerts par la Poste?
+Name=II_3_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=II.4.a Compte d’épargne
+Name=II_4_A
+Start=107
+Len=1
+
+[ValueSet]
+Label=II.4.a Compte d’épargne
+Name=II_4_A_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=II.4.b Dépôt à terme
+Name=II_4_B
+Start=108
+Len=1
+
+[ValueSet]
+Label=II.4.b Dépôt à terme
+Name=II_4_B_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=II.4.c Découvert bancaire
+Name=II_4_C
+Start=109
+Len=1
+
+[ValueSet]
+Label=II.4.c Découvert bancaire
+Name=II_4_C_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=II.4.d Carte bancaire
+Name=II_4_D
+Start=110
+Len=1
+
+[ValueSet]
+Label=II.4.d Carte bancaire
+Name=II_4_D_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=II.4.e Chèque
+Name=II_4_E
+Start=111
+Len=1
+
+[ValueSet]
+Label=II.4.e Chèque
+Name=II_4_E_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=II.4.f Guichet automatique bancaire
+Name=II_4_F
+Start=112
+Len=1
+
+[ValueSet]
+Label=II.4.f Guichet automatique bancaire
+Name=II_4_F_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=II.4.g Microcrédit
+Name=II_4_G
+Start=113
+Len=1
+
+[ValueSet]
+Label=II.4.g Microcrédit
+Name=II_4_G_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=II.4.h Différé de paiement
+Name=II_4_H
+Start=114
+Len=1
+
+[ValueSet]
+Label=II.4.h Différé de paiement
+Name=II_4_H_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=II.4.i Banque à distance (mobile banking)
+Name=II_4_I
+Start=115
+Len=1
+
+[ValueSet]
+Label=II.4.i Banque à distance (mobile banking)
+Name=II_4_I_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=II.4.j Transfert rapide d’argent
+Name=II_4_J
+Start=116
+Len=1
+
+[ValueSet]
+Label=II.4.j Transfert rapide d’argent
+Name=II_4_J_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=II.4..k Taux effectif global / Coût réel du crédit
+Name=II_4_K
+Start=117
+Len=1
+
+[ValueSet]
+Label=II.4..k Taux effectif global / Coût réel du crédit
+Name=II_4_K_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=II.4.l Terminal de paiement électronique (TPE)
+Name=II_4_L
+Start=118
+Len=1
+
+[ValueSet]
+Label=II.4.l Terminal de paiement électronique (TPE)
+Name=II_4_L_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=II.4.m Finance islamique
+Name=II_4_M
+Start=119
+Len=1
+
+[ValueSet]
+Label=II.4.m Finance islamique
+Name=II_4_M_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=II.5.a J’arrive à épargner même quand mes revenus sont faibles
+Name=II_5_A
+Start=120
+Len=1
+
+[ValueSet]
+Label=II.5.a J’arrive à épargner même quand mes revenus sont faibles
+Name=II_5_A_VS1
+Value=1;D'accord
+Value=2;Désaccord
+
+[Item]
+Label=II.5.b Je préfère garder mon épargne chez moi ou dans une tontine plutôt que dans une IF
+Name=II_5_B
+Start=121
+Len=1
+
+[ValueSet]
+Label=II.5.b Je préfère garder mon épargne chez moi ou dans une tontine plutôt que dans une IF
+Name=II_5_B_VS1
+Value=1;D'accord
+Value=2;Désaccord
+
+[Item]
+Label=II.5.c Seuls les employés salariés peuvent ouvrir un compte dans une IF
+Name=II_5_C
+Start=122
+Len=1
+
+[ValueSet]
+Label=II.5.c Seuls les employés salariés peuvent ouvrir un compte dans une IF
+Name=II_5_C_VS1
+Value=1;D'accord
+Value=2;Désaccord
+
+[Item]
+Label=II.5.d On peut facilement vivre sa vie sans avoir un compte bancaire
+Name=II_5_D
+Start=123
+Len=1
+
+[ValueSet]
+Label=II.5.d On peut facilement vivre sa vie sans avoir un compte bancaire
+Name=II_5_D_VS1
+Value=1;D'accord
+Value=2;Désaccord
+
+[Item]
+Label=II.5.e Je préfère compter sur mes propres ressources plutôt que d’emprunter
+Name=II_5_E
+Start=124
+Len=1
+
+[ValueSet]
+Label=II.5.e Je préfère compter sur mes propres ressources plutôt que d’emprunter
+Name=II_5_E_VS1
+Value=1;D'accord
+Value=2;Désaccord
+
+[Item]
+Label=II.5.f J’accepterais de payer des intérêts pour obtenir un crédit
+Name=II_5_F
+Start=125
+Len=1
+
+[ValueSet]
+Label=II.5.f J’accepterais de payer des intérêts pour obtenir un crédit
+Name=II_5_F_VS1
+Value=1;D'accord
+Value=2;Désaccord
+
+[Item]
+Label=II.5.g Il est important de rembourser une dette à la date prévue
+Name=II_5_G
+Start=126
+Len=1
+
+[ValueSet]
+Label=II.5.g Il est important de rembourser une dette à la date prévue
+Name=II_5_G_VS1
+Value=1;D'accord
+Value=2;Désaccord
+
+[Item]
+Label=II.5.h Détenir une police d’assurance est une bonne façon de se protéger contre les risques
+Name=II_5_H
+Start=127
+Len=1
+
+[ValueSet]
+Label=II.5.h Détenir une police d’assurance est une bonne façon de se protéger contre les risques
+Name=II_5_H_VS1
+Value=1;D'accord
+Value=2;Désaccord
+
+[Item]
+Label=II.6.a Mobilisation et utilisation de l’épargne
+Name=II_6_A
+Start=128
+Len=1
+
+[ValueSet]
+Label=II.6.a Mobilisation et utilisation de l’épargne
+Name=II_6_A_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=II.6.b Utilisation et remboursement d’un prêt
+Name=II_6_B
+Start=129
+Len=1
+
+[ValueSet]
+Label=II.6.b Utilisation et remboursement d’un prêt
+Name=II_6_B_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=II.6.c Budget et planification financière
+Name=II_6_C
+Start=130
+Len=1
+
+[ValueSet]
+Label=II.6.c Budget et planification financière
+Name=II_6_C_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=II.6.d Comptabilité de base
+Name=II_6_D
+Start=131
+Len=1
+
+[ValueSet]
+Label=II.6.d Comptabilité de base
+Name=II_6_D_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=II.6.e Gestion d’une petite entreprise ou d’une activité génératrice de revenus
+Name=II_6_E
+Start=132
+Len=1
+
+[ValueSet]
+Label=II.6.e Gestion d’une petite entreprise ou d’une activité génératrice de revenus
+Name=II_6_E_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=II.6.f Gestion d’une association, d’un groupement ou d’une coopérative
+Name=II_6_F
+Start=133
+Len=1
+
+[ValueSet]
+Label=II.6.f Gestion d’une association, d’un groupement ou d’une coopérative
+Name=II_6_F_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=II.6.g Autre à préciser
+Name=II_6_G2
+Start=134
+Len=70
+DataType=Alpha
+
+[Record]
+Label=III.ACCÈS PHYSIQUE AUX SERVICES FINANCIERS
+Name=SECTION_III
+RecordTypeValue='3'
+RecordLen=30
+
+[Item]
+Label=III.1.a Accès à une banque
+Name=III_1_A
+Start=5
+Len=1
+
+[ValueSet]
+Label=III.1.a Accès à une banque
+Name=III_1_A_VS1
+Value=1;Très facile
+Value=2;Facile
+Value=3;Moyennementfacile
+Value=4;Difficile
+Value=5;Très difficile
+
+[Item]
+Label=III.1.b Accès à un SFD (mutuelle ou coopérative d’épargne et de crédit, association, SA)
+Name=III_1_B
+Start=6
+Len=1
+
+[ValueSet]
+Label=III.1.b Accès à un SFD (mutuelle ou coopérative d’épargne et de crédit, association, SA)
+Name=III_1_B_VS1
+Value=1;Très facile
+Value=2;Facile
+Value=3;Moyennementfacile
+Value=4;Difficile
+Value=5;Très difficile
+
+[Item]
+Label=III.1.c Accès à un bureau de poste
+Name=III_1_C
+Start=7
+Len=1
+
+[ValueSet]
+Label=III.1.c Accès à un bureau de poste
+Name=III_1_C_VS1
+Value=1;Très facile
+Value=2;Facile
+Value=3;Moyennementfacile
+Value=4;Difficile
+Value=5;Très difficile
+
+[Item]
+Label=III.1.d Accès à une boutique/supérette
+Name=III_1_D
+Start=8
+Len=1
+
+[ValueSet]
+Label=III.1.d Accès à une boutique/supérette
+Name=III_1_D_VS1
+Value=1;Très facile
+Value=2;Facile
+Value=3;Moyennementfacile
+Value=4;Difficile
+Value=5;Très difficile
+
+[Item]
+Label=III.1.e Accès à une station de service
+Name=III_1_E
+Start=9
+Len=1
+
+[ValueSet]
+Label=III.1.e Accès à une station de service
+Name=III_1_E_VS1
+Value=1;Très facile
+Value=2;Facile
+Value=3;Moyennementfacile
+Value=4;Difficile
+Value=5;Très difficile
+
+[Item]
+Label=III.2.a D’une banque
+Name=III_2_A
+Start=10
+Len=1
+
+[ValueSet]
+Label=III.2.a D’une banque
+Name=III_2_A_VS1
+Value=1;Moins de 1 km
+Value=2;Entre 1 et 5 km
+Value=3;Entre 6 et 10 km
+Value=4;Plus de 10 km
+
+[Item]
+Label=III.2.b D'un SFD (mutuelle ou coopérative d’épargne et de crédit, association, SA)
+Name=III_2_B
+Start=11
+Len=1
+
+[ValueSet]
+Label=III.2.b D'un SFD (mutuelle ou coopérative d’épargne et de crédit, association, SA)
+Name=III_2_B_VS1
+Value=1;Moins de 1 km
+Value=2;Entre 1 et 5 km
+Value=3;Entre 6 et 10 km
+Value=4;Plus de 10 km
+
+[Item]
+Label=III.2.c D'un bureau de poste
+Name=III_2_C
+Start=12
+Len=1
+
+[ValueSet]
+Label=III.2.c D'un bureau de poste
+Name=III_2_C_VS1
+Value=1;Moins de 1 km
+Value=2;Entre 1 et 5 km
+Value=3;Entre 6 et 10 km
+Value=4;Plus de 10 km
+
+[Item]
+Label=III.2.d D'une boutique/supérette
+Name=III_2_D
+Start=13
+Len=1
+
+[ValueSet]
+Label=III.2.d D'une boutique/supérette
+Name=III_2_D_VS1
+Value=1;Moins de 1 km
+Value=2;Entre 1 et 5 km
+Value=3;Entre 6 et 10 km
+Value=4;Plus de 10 km
+
+[Item]
+Label=III.2.e D'une station de service
+Name=III_2_E
+Start=14
+Len=1
+
+[ValueSet]
+Label=III.2.e D'une station de service
+Name=III_2_E_VS1
+Value=1;Moins de 1 km
+Value=2;Entre 1 et 5 km
+Value=3;Entre 6 et 10 km
+Value=4;Plus de 10 km
+
+[Item]
+Label=III.3.a D’une banque
+Name=III_3_A
+Start=15
+Len=1
+
+[ValueSet]
+Label=III.3.a D’une banque
+Name=III_3_A_VS1
+Value=1;Moins de 15 minutes
+Value=2;Entre 15 et 30 minutes
+Value=3;Entre 31 et 60 minutes
+Value=4;Plus d’une heure
+
+[Item]
+Label=III.3.b D'un SFD (mutuelle ou coopérative d’épargne et de crédit, association, SA)
+Name=III_3_B
+Start=16
+Len=1
+
+[ValueSet]
+Label=III.3.b D'un SFD (mutuelle ou coopérative d’épargne et de crédit, association, SA)
+Name=III_3_B_VS1
+Value=1;Moins de 15 minutes
+Value=2;Entre 15 et 30 minutes
+Value=3;Entre 31 et 60 minutes
+Value=4;Plus d’une heure
+
+[Item]
+Label=III.3.c D'un bureau de poste
+Name=III_3_C
+Start=17
+Len=1
+
+[ValueSet]
+Label=III.3.c D'un bureau de poste
+Name=III_3_C_VS1
+Value=1;Moins de 15 minutes
+Value=2;Entre 15 et 30 minutes
+Value=3;Entre 31 et 60 minutes
+Value=4;Plus d’une heure
+
+[Item]
+Label=III.3.d D'une boutique/supérette
+Name=III_3_D
+Start=18
+Len=1
+
+[ValueSet]
+Label=III.3.d D'une boutique/supérette
+Name=III_3_D_VS1
+Value=1;Moins de 15 minutes
+Value=2;Entre 15 et 30 minutes
+Value=3;Entre 31 et 60 minutes
+Value=4;Plus d’une heure
+
+[Item]
+Label=III.3.e D'une station de service
+Name=III_3_E
+Start=19
+Len=1
+
+[ValueSet]
+Label=III.3.e D'une station de service
+Name=III_3_E_VS1
+Value=1;Moins de 15 minutes
+Value=2;Entre 15 et 30 minutes
+Value=3;Entre 31 et 60 minutes
+Value=4;Plus d’une heure
+
+[Item]
+Label=III.4.a Des banque
+Name=III_4_A
+Start=20
+Len=1
+
+[ValueSet]
+Label=III.4.a Des banque
+Name=III_4_A_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=III.4.b  Des SFD (mutuelle ou coopérative d’épargne et de crédit, association, SA)
+Name=III_4_B
+Start=21
+Len=1
+
+[ValueSet]
+Label=III.4.b  Des SFD (mutuelle ou coopérative d’épargne et de crédit, association, SA)
+Name=III_4_B_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=III.4.c Du bureau de poste
+Name=III_4_C
+Start=22
+Len=1
+
+[ValueSet]
+Label=III.4.c Du bureau de poste
+Name=III_4_C_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=III.4.d Des boutique/supérette
+Name=III_4_D
+Start=23
+Len=1
+
+[ValueSet]
+Label=III.4.d Des boutique/supérette
+Name=III_4_D_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=III.4.e Des station de service
+Name=III_4_E
+Start=24
+Len=1
+
+[ValueSet]
+Label=III.4.e Des station de service
+Name=III_4_E_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=III.5.a École primaire ou secondaire
+Name=III_5_A
+Start=25
+Len=1
+
+[ValueSet]
+Label=III.5.a École primaire ou secondaire
+Name=III_5_A_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=III.5.b Centre de santé
+Name=III_5_B
+Start=26
+Len=1
+
+[ValueSet]
+Label=III.5.b Centre de santé
+Name=III_5_B_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=III.5.c Gare routière
+Name=III_5_C
+Start=27
+Len=1
+
+[ValueSet]
+Label=III.5.c Gare routière
+Name=III_5_C_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=III.5.d Bureau de poste
+Name=III_5_D
+Start=28
+Len=1
+
+[ValueSet]
+Label=III.5.d Bureau de poste
+Name=III_5_D_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=III.5.e Banque
+Name=III_5_E
+Start=29
+Len=1
+
+[ValueSet]
+Label=III.5.e Banque
+Name=III_5_E_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=III.5.f SFD (mutuelle ou coopérative d’épargne et de crédit, association, SA)
+Name=III_5_F
+Start=30
+Len=1
+
+[ValueSet]
+Label=III.5.f SFD (mutuelle ou coopérative d’épargne et de crédit, association, SA)
+Name=III_5_F_VS1
+Value=1;Oui
+Value=2;Non
+
+[Record]
+Label=IV.ACCÈS ET UTILISATION DES MOYENS DE PAIEMENT
+Name=SECTION_IV
+RecordTypeValue='7'
+RecordLen=18
+
+[Item]
+Label=IV.1.a Une carte nationale d’identité ou un passeport
+Name=IV_1_A
+Start=5
+Len=1
+
+[ValueSet]
+Label=IV.1.a Une carte nationale d’identité ou un passeport
+Name=IV_1_A_VS1
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=IV.1.b Un téléphone portable
+Name=IV_1_B
+Start=6
+Len=1
+
+[ValueSet]
+Label=IV.1.b Un téléphone portable
+Name=IV_1_B_VS1
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=IV.1.c Une adresse de messagerie (e-mail)
+Name=IV_1_C
+Start=7
+Len=1
+
+[ValueSet]
+Label=IV.1.c Une adresse de messagerie (e-mail)
+Name=IV_1_C_VS1
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=IV.1.d Une carte de guichet automatique ou carte bancaire
+Name=IV_1_D
+Start=8
+Len=1
+
+[ValueSet]
+Label=IV.1.d Une carte de guichet automatique ou carte bancaire
+Name=IV_1_D_VS1
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=IV.1.e Une carte prépayée
+Name=IV_1_E
+Start=9
+Len=1
+
+[ValueSet]
+Label=IV.1.e Une carte prépayée
+Name=IV_1_E_VS1
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=IV.1.f Un chéquier
+Name=IV_1_F
+Start=10
+Len=1
+
+[ValueSet]
+Label=IV.1.f Un chéquier
+Name=IV_1_F_VS1
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=IV.1.g Un carnet ou une carte de membre d’un SFD (mutuelle ou coopérative d’épargne et de crédit, association, SA)
+Name=IV_1_G
+Start=11
+Len=1
+
+[ValueSet]
+Label=IV.1.g Un carnet ou une carte de membre d’un SFD (mutuelle ou coopérative d’épargne et de crédit, association, SA)
+Name=IV_1_G_VS1
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=IV.2.a Argent comptant (cash)
+Name=IV_2_A
+Start=12
+Len=1
+
+[ValueSet]
+Label=IV.2.a Argent comptant (cash)
+Name=IV_2_A_VS1
+Value=1;Souvent
+Value=2;A l'occasion
+Value=3;Jamais
+
+[Item]
+Label=IV.2.b Carte bancaire
+Name=IV_2_B
+Start=13
+Len=1
+
+[ValueSet]
+Label=IV.2.b Carte bancaire
+Name=IV_2_B_VS1
+Value=1;Souvent
+Value=2;A l'occasion
+Value=3;Jamais
+
+[Item]
+Label=IV.2.c Chèque
+Name=IV_2_C
+Start=14
+Len=1
+
+[ValueSet]
+Label=IV.2.c Chèque
+Name=IV_2_C_VS1
+Value=1;Souvent
+Value=2;A l'occasion
+Value=3;Jamais
+
+[Item]
+Label=IV.2.d Ordre de prélèvement ou virement bancaire
+Name=IV_2_D
+Start=15
+Len=1
+
+[ValueSet]
+Label=IV.2.d Ordre de prélèvement ou virement bancaire
+Name=IV_2_D_VS1
+Value=1;Souvent
+Value=2;A l'occasion
+Value=3;Jamais
+
+[Item]
+Label=IV.2.e Crédit du commerçant
+Name=IV_2_E
+Start=16
+Len=1
+
+[ValueSet]
+Label=IV.2.e Crédit du commerçant
+Name=IV_2_E_VS1
+Value=1;Souvent
+Value=2;A l'occasion
+Value=3;Jamais
+
+[Item]
+Label=IV.2.f Téléphone portable
+Name=IV_2_F
+Start=17
+Len=1
+
+[ValueSet]
+Label=IV.2.f Téléphone portable
+Name=IV_2_F_VS1
+Value=1;Souvent
+Value=2;A l'occasion
+Value=3;Jamais
+
+[Item]
+Label=IV.2.g Paiement en marchandises (troc)
+Name=IV_2_G
+Start=18
+Len=1
+
+[ValueSet]
+Label=IV.2.g Paiement en marchandises (troc)
+Name=IV_2_G_VS1
+Value=1;Souvent
+Value=2;A l'occasion
+Value=3;Jamais
+
+[Record]
+Label=V.ACCÈS ET UTILISATION DE L’ÉPARGNE
+Name=SECTION_V
+RecordTypeValue='8'
+RecordLen=409
+
+[Item]
+Label=V.1 Est-ce que vous arrivez à épargner (mettre de l’argent de côté) sur une base régulière ?
+Name=V_1
+Start=5
+Len=1
+
+[ValueSet]
+Label=V.1 Est-ce que vous arrivez à épargner (mettre de l’argent de côté) sur une base régulière ?
+Name=V_1_VS1
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=V.2 Où gardez-vous votre epargne?
+Name=V_2_A
+Start=6
+Len=3
+DataType=Alpha
+
+[ValueSet]
+Label=V.2 Où gardez-vous votre epargne?
+Name=V_2_A_VS1
+Value='1  ';Avec moi ou sur moi
+Value='2  ';À la maison dans un endroit sûr
+Value='3  ';Dans une association ou tontine
+Value='4  ';Dans une banque
+Value='5  ';Dans un SFD (mutuelle ou coopérative d’épargne et de crédit, association, SA)
+Value='6  ';Dans un compte postal
+Value='7  ';Dans mon téléphone portable
+Value='8  ';Chez une autre personne
+Value='9  ';En nature (bétail, volaille, stocks, bijoux, etc.)
+Value='0  ';Autre
+
+[Item]
+Label=V.2.a Autre à preciser
+Name=V_2_B
+Start=9
+Len=70
+DataType=Alpha
+
+[Item]
+Label=V.3 Avez-vous un compte
+Name=V_3
+Start=79
+Len=1
+
+[ValueSet]
+Label=V.3 Avez-vous un compte
+Name=V_3_VS1
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=V.4 Etes- vous interessés
+Name=V_4
+Start=80
+Len=1
+
+[ValueSet]
+Label=V.4 Etes- vous interessés
+Name=V_4_VS1
+Value=1;OUI
+Value=2;A certaines conditions
+Value=3;NON
+
+[Item]
+Label=V.5 Citez les trois (3) principales raisons ou conditions pour lesquelles vous n'avez vous n'ouvzert un compte dans une institution financière ou à la poste
+Name=V_5_A
+Start=81
+Len=3
+DataType=Alpha
+
+[ValueSet]
+Label=V.5 Citez les trois (3) principales raisons ou conditions pour lesquelles vous n'avez vous n'ouvzert un compte dans une institution financière ou à la poste
+Name=V_5_A_VS1
+Value='a  ';Considérations religieuses
+Value='b  ';Je ne suis pas assez instruit, informé
+Value='c  ';Je n’ai pas suffisamment de revenu en argent
+Value='d  ';Je préfère garder mon argent sur moi ou chez moi
+Value='e  ';Je n’ai pas confiance dans les institutions financières
+Value='f  ';Je ne suis pas habitué à entrer dans une IF
+Value='g  ';Les IF sont situées trop loin
+Value='h  ';Les formalités administratives sont trop compliquées
+Value='i  ';Le dépôt minimum exigé est trop élevé
+Value='j  ';Les frais de tenue de compte et agiossont trop élevés
+Value='k  ';Les produits et services offerts ne répondent pas à mes besoins
+Value='l  ';J’ai besoin de la permission d’une autre personne pour ouvrir un compte
+Value='0  ';Autre
+
+[Item]
+Label=V.5.a Autre (preciser)
+Name=V_5_B
+Start=84
+Len=70
+DataType=Alpha
+
+[Item]
+Label=V.6 Vous arrive-t-il d'utiliser le compte d'une autre personne pour effectuer des transactions bancaires?
+Name=V_6
+Start=154
+Len=1
+
+[ValueSet]
+Label=V.6 Vous arrive-t-il d'utiliser le compte d'une autre personne pour effectuer des transactions bancaires?
+Name=V_6_VS1
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=V.6.a Quelle personne?
+Name=V_6_A
+Start=155
+Len=2
+
+[ValueSet]
+Label=V.6.a Quelle personne?
+Name=V_6_A_VS1
+Value=1;Membre de la famille
+Value=2;Ami
+Value=3;Boutiquier / commerçant
+Value=99;Autre
+
+[Item]
+Label=V.6.b Autre (preciser)
+Name=V_6_B
+Start=157
+Len=70
+DataType=Alpha
+
+[Item]
+Label=V.7 Citez les trois (3) principaux critères qui vous ont guidé dans le choix d'une institution finacière
+Name=V_7_A
+Start=227
+Len=3
+DataType=Alpha
+
+[ValueSet]
+Label=V.7 Citez les trois (3) principaux critères qui vous ont guidé dans le choix d'une institution finacière
+Name=V_7_A_VS1
+Value='a  ';Sécurité des fonds
+Value='b  ';Accès facile à mon argent
+Value='c  ';Proximité/Accessibilité des agences
+Value='d  ';Heures d’ouverture
+Value='e  ';Possibilité d’accéder au crédit
+Value='f  ';Temps d’attente aux guichets
+Value='g  ';Taux d’intérêt élevé sur l’épargne
+Value='h  ';Taux d’intérêt bas sur le crédit
+Value='i  ';Amabilité du personnel
+Value='j  ';Qualité du service
+Value='k  ';Coût des services
+Value='0  ';Autre
+
+[Item]
+Label=V.7.a Autre( preciser)
+Name=V_7_B
+Start=230
+Len=70
+DataType=Alpha
+
+[ValueSet]
+Label=V.7.a Autre( preciser)
+Name=V_7_B_VS1
+Value='1                                                                     ';Très
+
+[Item]
+Label=V.8 Depuis combien de temps avez-vous un compte dans une institution financière ou à la Poste?
+Name=V_8
+Start=300
+Len=1
+
+[ValueSet]
+Label=V.8 Depuis combien de temps avez-vous un compte dans une institution financière ou à la Poste?
+Name=V_8_VS1
+Value=1;Depuis moins de 1 an
+Value=2;Depuis 1 à 5 ans
+Value=3;Depuis 6 à 10 ans
+Value=4;Depuis plus de 10 ans
+
+[Item]
+Label=V.9.a Dans les banques
+Name=V_9_A
+Start=301
+Len=1
+
+[ValueSet]
+Label=V.9.a Dans les banques
+Name=V_9_A_VS1
+Value=1;0
+Value=2;1
+Value=3;2
+Value=4;3
+Value=5;Plus de 3
+
+[Item]
+Label=V.9.b Dans un SFD (institution de miocrofinance ou mutuelle/ coopérative d'épargne et de crédit)
+Name=V_9_B
+Start=302
+Len=1
+
+[ValueSet]
+Label=V.9.b Dans un SFD (institution de miocrofinance ou mutuelle/ coopérative d'épargne et de crédit)
+Name=V_9_B_VS1
+Value=1;0
+Value=2;1
+Value=3;2
+Value=4;3
+Value=5;Plus de 3
+
+[Item]
+Label=V.9.c A la poste
+Name=V_9_C
+Start=303
+Len=1
+
+[ValueSet]
+Label=V.9.c A la poste
+Name=V_9_C_VS1
+Value=1;0
+Value=2;1
+Value=3;2
+Value=4;3
+Value=5;Plus de 3
+
+[Item]
+Label=V.10.a Compte courant
+Name=V_10_A
+Start=304
+Len=1
+
+[ValueSet]
+Label=V.10.a Compte courant
+Name=V_10_A_VS1
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=V.10.b Compte courant postal (CCP)
+Name=V_10_B
+Start=305
+Len=1
+
+[ValueSet]
+Label=V.10.b Compte courant postal (CCP)
+Name=V_10_B_VS1
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=V.10.c Compte d’épargne
+Name=V_10_C
+Start=306
+Len=1
+
+[ValueSet]
+Label=V.10.c Compte d’épargne
+Name=V_10_C_VS1
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=V.10.d Plan épargne logement
+Name=V_10_D
+Start=307
+Len=1
+
+[ValueSet]
+Label=V.10.d Plan épargne logement
+Name=V_10_D_VS1
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=V.10.e Plan épargne logement
+Name=V_10_E
+Start=308
+Len=1
+
+[ValueSet]
+Label=V.10.e Plan épargne logement
+Name=V_10_E_VS1
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=V.10.f Compte d’épargne pour mineur
+Name=V_10_F
+Start=309
+Len=1
+
+[ValueSet]
+Label=V.10.f Compte d’épargne pour mineur
+Name=V_10_F_VS1
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=V.10.g Dépôt à terme (DAT)
+Name=V_10_G
+Start=310
+Len=1
+
+[ValueSet]
+Label=V.10.g Dépôt à terme (DAT)
+Name=V_10_G_VS1
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=V.10.h Compte en devise
+Name=V_10_H
+Start=311
+Len=1
+
+[ValueSet]
+Label=V.10.h Compte en devise
+Name=V_10_H_VS1
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=V.11 Citez trois (3) raisons pour lesquelles vous avez ouvert un compte.
+Name=V_11_A
+Start=312
+Len=3
+DataType=Alpha
+
+[ValueSet]
+Label=V.11 Citez trois (3) raisons pour lesquelles vous avez ouvert un compte.
+Name=V_11_A_VS1
+Value='a  ';Pour épargner
+Value='b  ';Pour domicilier/virermon salaire
+Value='c  ';Pour avoir accès au crédit
+Value='d  ';Pour avoir facilement accès à mon argent quand j’en ai besoin
+Value='e  ';Pour mettre mon argent en sécurité
+Value='f  ';Pour gagner des intérêts
+Value='g  ';Pour couvrir les dépenses sociales (scolarité, santé)
+Value='h  ';Pour couvrir les urgences (funérailles, etc.)
+Value='i  ';Pour couvrir les besoins de mon entreprise, de mon activité économique
+Value='j  ';Pour financer un investissement (maison, terrain, etc.)
+Value='0  ';Autre (preciser)
+
+[Item]
+Label=V.11.a Autre (Preciser)
+Name=V_11_B
+Start=315
+Len=70
+DataType=Alpha
+
+[Item]
+Label=V.12.a Déposer de l’argent dans le compte
+Name=V_12_A
+Start=385
+Len=1
+
+[ValueSet]
+Label=V.12.a Déposer de l’argent dans le compte
+Name=V_12_A_VS1
+Value=1;Souvent
+Value=2;A l'occasion
+Value=3;Jamais
+
+[Item]
+Label=V.12.b Retirer de l’argent du compte
+Name=V_12_B
+Start=386
+Len=1
+
+[ValueSet]
+Label=V.12.b Retirer de l’argent du compte
+Name=V_12_B_VS1
+Value=1;Souvent
+Value=2;A l'occasion
+Value=3;Jamais
+
+[Item]
+Label=V.12.c Demander un relevé de compte
+Name=V_12_C
+Start=387
+Len=1
+
+[ValueSet]
+Label=V.12.c Demander un relevé de compte
+Name=V_12_C_VS1
+Value=1;Souvent
+Value=2;A l'occasion
+Value=3;Jamais
+
+[Item]
+Label=V.12.d Signer ou remettre un chèque
+Name=V_12_D
+Start=388
+Len=1
+
+[ValueSet]
+Label=V.12.d Signer ou remettre un chèque
+Name=V_12_D_VS1
+Value=1;Souvent
+Value=2;A l'occasion
+Value=3;Jamais
+
+[Item]
+Label=V.13.a La localisation et l’accessibilité des agences
+Name=V_13_A
+Start=389
+Len=1
+
+[ValueSet]
+Label=V.13.a La localisation et l’accessibilité des agences
+Name=V_13_A_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=V.13.b La sécurité des lieux
+Name=V_13_B
+Start=390
+Len=1
+
+[ValueSet]
+Label=V.13.b La sécurité des lieux
+Name=V_13_B_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=V.13.c Les heures d’ouverture
+Name=V_13_C
+Start=391
+Len=1
+
+[ValueSet]
+Label=V.13.c Les heures d’ouverture
+Name=V_13_C_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=V.13.d Les procédures d’ouverture de compte
+Name=V_13_D
+Start=392
+Len=1
+
+[ValueSet]
+Label=V.13.d Les procédures d’ouverture de compte
+Name=V_13_D_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=V.13.e Le dépôt minimum exigé
+Name=V_13_E
+Start=393
+Len=1
+
+[ValueSet]
+Label=V.13.e Le dépôt minimum exigé
+Name=V_13_E_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=V.13.f Les frais de transaction et de tenue de compte
+Name=V_13_F
+Start=394
+Len=1
+
+[ValueSet]
+Label=V.13.f Les frais de transaction et de tenue de compte
+Name=V_13_F_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=V.13.g Les temps d’attente aux guichets
+Name=V_13_G
+Start=395
+Len=1
+
+[ValueSet]
+Label=V.13.g Les temps d’attente aux guichets
+Name=V_13_G_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=V.13.h Le taux de rémunération offert sur l’épargne
+Name=V_13_H
+Start=396
+Len=1
+
+[ValueSet]
+Label=V.13.h Le taux de rémunération offert sur l’épargne
+Name=V_13_H_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=V.13.i Le taux de rémunération offert sur l’épargne
+Name=V_13_I
+Start=397
+Len=1
+
+[ValueSet]
+Label=V.13.i Le taux de rémunération offert sur l’épargne
+Name=V_13_I_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=V.13.j L’adéquation des produits offerts avec mes besoins
+Name=V_13_J
+Start=398
+Len=1
+
+[ValueSet]
+Label=V.13.j L’adéquation des produits offerts avec mes besoins
+Name=V_13_J_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=V.13.k Le service offert
+Name=V_13_K
+Start=399
+Len=1
+
+[ValueSet]
+Label=V.13.k Le service offert
+Name=V_13_K_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=V.13.l L’amabilité du personnel
+Name=V_13_L
+Start=400
+Len=1
+
+[ValueSet]
+Label=V.13.l L’amabilité du personnel
+Name=V_13_L_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=V.13.m La communication des tarifs et conditions des services
+Name=V_13_M
+Start=401
+Len=1
+
+[ValueSet]
+Label=V.13.m La communication des tarifs et conditions des services
+Name=V_13_M_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=V.13.n La disponibilité et l’exactitude des relevés de compte
+Name=V_13_N
+Start=402
+Len=1
+
+[ValueSet]
+Label=V.13.n La disponibilité et l’exactitude des relevés de compte
+Name=V_13_N_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=V.13.o L’appui conseil et l’éducation financière
+Name=V_13_O
+Start=403
+Len=1
+
+[ValueSet]
+Label=V.13.o L’appui conseil et l’éducation financière
+Name=V_13_O_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=V.13.p Le traitement et le suivi des réclamations
+Name=V_13_P
+Start=404
+Len=1
+
+[ValueSet]
+Label=V.13.p Le traitement et le suivi des réclamations
+Name=V_13_P_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=V.14 Avez-vous déjà formulé une réclamation auprès de votre institution financière ?
+Name=V_14
+Start=405
+Len=1
+
+[ValueSet]
+Label=V.14 Avez-vous déjà formulé une réclamation auprès de votre institution financière ?
+Name=V_14_VS1
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=V.14.a Quel est votre dégré de satisfaction?
+Name=V_14_A
+Start=406
+Len=1
+
+[ValueSet]
+Label=V.14.a Quel est votre dégré de satisfaction?
+Name=V_14_A_VS1
+Value=1;Très satisfait
+Value=2;Assez satisfait
+Value=3;Pas du tout satisfait
+
+[Item]
+Label=V.15 Au cours des 12 derniers mois, avez-vous changé d’institution financière?
+Name=V_15
+Start=407
+Len=1
+
+[ValueSet]
+Label=V.15 Au cours des 12 derniers mois, avez-vous changé d’institution financière?
+Name=V_15_VS1
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=V.15.a Lesquelles?
+Name=V_15_A
+Start=408
+Len=1
+
+[ValueSet]
+Label=V.15.a Lesquelles?
+Name=V_15_A_VS1
+Value=1;D’une banque vers une autre banque
+Value=2;D’une banque vers un SFD
+Value=3;D’un SFD vers une banque
+Value=4;D’un SFD vers un autre SFD
+Value=5;De la Poste vers une banque
+Value=6;D’une banque vers la Poste
+Value=7;De la Poste vers un SFD
+Value=8;D’un SFD vers la Poste
+
+[Item]
+Label=V.16   Au cours des 12 derniers mois, avez-vous fermé un compte dans une institution financière?
+Name=V_16
+Start=409
+Len=1
+
+[ValueSet]
+Label=V.16   Au cours des 12 derniers mois, avez-vous fermé un compte dans une institution financière?
+Name=V_16_VS1
+Value=1;OUI
+Value=2;NON
+
+[Record]
+Label=VI.ACCÈS ET UTILISATION DU CRÉDIT
+Name=SECTION_VI
+RecordTypeValue='9'
+RecordLen=257
+
+[Item]
+Label=VI.1  Au cours des 12 derniers mois, avez-vous demandé un crédit ou un découvert dans une institution financière ?
+Name=VI_1
+Start=5
+Len=1
+
+[ValueSet]
+Label=VI.1  Au cours des 12 derniers mois, avez-vous demandé un crédit ou un découvert dans une institution financière ?
+Name=VI_1_VS1
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=VI.2 Citez trois (3) raisons vous ayant empêché ou découragé de demander un crédit
+Name=VI_2_A
+Start=6
+Len=3
+DataType=Alpha
+
+[ValueSet]
+Label=VI.2 Citez trois (3) raisons vous ayant empêché ou découragé de demander un crédit
+Name=VI_2_A_VS1
+Value='a  ';Considérations religieuses
+Value='b  ';Je ne réponds pas aux critères d’éligibilité
+Value='c  '; Le montant de l’apport exigé est trop élevé
+Value='d  ';Le montant offert est insuffisant
+Value='e  ';Je n’ai pas besoin du crédit
+Value='f  ';J’ai accès à d’autres sources de crédit
+Value='g  ';Je ne veux pas m’endetter
+Value='h  ';Je ne serai pas capable de rembourser
+Value='i  ';J’ai peur qu’on vienne saisir mes biens si je n’arrive pas à rembourser
+Value='k  ';Je n’ai pas d’information, je ne sais pas où aller et comment faire
+Value='l  ';Les types de produits de prêt proposés ne conviennent pas à mes besoins
+Value='m  ';Les procédures de demande sont trop complexes
+Value='n  ';Je n’ai pas de garanties à offrir
+Value='o  ';Le coût du crédit (taux d’intérêt) est trop élevé
+Value='0  ';Autre (préciser) :
+
+[Item]
+Label=VI.2.a Autre
+Name=VI_2_B
+Start=9
+Len=70
+DataType=Alpha
+
+[Item]
+Label=VI.3 Votre demande de crédit ou de découvert a-t-elle été acceptée ?
+Name=VI_3
+Start=79
+Len=1
+
+[ValueSet]
+Label=VI.3 Votre demande de crédit ou de découvert a-t-elle été acceptée ?
+Name=VI_3_VS1
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=VI.4 Pour quelle(s) raison(s) votre demande a-t-elle été refusée ?
+Name=VI_4_A
+Start=80
+Len=3
+DataType=Alpha
+
+[ValueSet]
+Label=VI.4 Pour quelle(s) raison(s) votre demande a-t-elle été refusée ?
+Name=VI_4_A_VS1
+Value='1  ';Je n’ai pas pu fournir l’apport demandé
+Value='2  ';Je n’al pas de relevé de paie (salaire)
+Value='3  '; Mon revenu est trop faible
+Value='4  ';J’ai d’autres dettes à rembourser
+Value='5  ';Je n’ai pas pu fournir les garanties matérielles exigées
+Value='0  '; Autre (préciser) :
+
+[Item]
+Label=VI.4.a Autre (préciser)
+Name=VI_4_B
+Start=83
+Len=70
+DataType=Alpha
+
+[Item]
+Label=VI.5.a Dans une banque
+Name=VI_5_A
+Start=153
+Len=1
+
+[ValueSet]
+Label=VI.5.a Dans une banque
+Name=VI_5_A_VS1
+Value=1;0
+Value=2;1
+Value=3;2
+Value=4;3
+Value=5;Plus de 3
+
+[Item]
+Label=VI.5.b Dans un SFD (mutuelle ou coopérative d’épargne et de crédit, association, SA)
+Name=VI_5_B
+Start=154
+Len=1
+
+[ValueSet]
+Label=VI.5.b Dans un SFD (mutuelle ou coopérative d’épargne et de crédit, association, SA)
+Name=VI_5_B_VS1
+Value=1;0
+Value=2;1
+Value=3;2
+Value=4;3
+Value=5;Plus de 3
+
+[Item]
+Label=VI.5.c A la poste
+Name=VI_5_C
+Start=155
+Len=1
+
+[ValueSet]
+Label=VI.5.c A la poste
+Name=VI_5_C_VS1
+Value=1;0
+Value=2;1
+Value=3;2
+Value=4;3
+Value=5;Plus de 3
+
+[Item]
+Label=VI.6.a Avance sur salaire / Decouvert
+Name=VI_6_A
+Start=156
+Len=1
+
+[ValueSet]
+Label=VI.6.a Avance sur salaire / Decouvert
+Name=VI_6_A_VS1
+Value=1;Crédit  #1
+Value=2;Crédit  #2
+Value=3;Crédit  #3
+Value=4;Crédit  #4
+Value=5;Crédit  #5
+
+[Item]
+Label=VI.6.b Prêt personnel / Crédit a la cosommation
+Name=VI_6_B
+Start=157
+Len=1
+
+[ValueSet]
+Label=VI.6.b Prêt personnel / Crédit a la cosommation
+Name=VI_6_B_VS1
+Value=1;Crédit  #1
+Value=2;Crédit  #2
+Value=3;Crédit  #3
+Value=4;Crédit  #4
+Value=5;Crédit  #5
+
+[Item]
+Label=VI.6.c Crédit de campagne
+Name=VI_6_C
+Start=158
+Len=1
+
+[ValueSet]
+Label=VI.6.c Crédit de campagne
+Name=VI_6_C_VS1
+Value=1;Crédit  #1
+Value=2;Crédit  #2
+Value=3;Crédit  #3
+Value=4;Crédit  #4
+Value=5;Crédit  #5
+
+[Item]
+Label=VI.6.d Crédit équipement
+Name=VI_6_D
+Start=159
+Len=1
+
+[ValueSet]
+Label=VI.6.d Crédit équipement
+Name=VI_6_D_VS1
+Value=1;Crédit  #1
+Value=2;Crédit  #2
+Value=3;Crédit  #3
+Value=4;Crédit  #4
+Value=5;Crédit  #5
+
+[Item]
+Label=VI.6.e Crédit investissement
+Name=VI_6_E
+Start=160
+Len=1
+
+[ValueSet]
+Label=VI.6.e Crédit investissement
+Name=VI_6_E_VS1
+Value=1;Crédit  #1
+Value=2;Crédit  #2
+Value=3;Crédit  #3
+Value=4;Crédit  #4
+Value=5;Crédit  #5
+
+[Item]
+Label=VI.6.f Crédit immobilier / habitat
+Name=VI_6_F
+Start=161
+Len=1
+
+[ValueSet]
+Label=VI.6.f Crédit immobilier / habitat
+Name=VI_6_F_VS1
+Value=1;Crédit  #1
+Value=2;Crédit  #2
+Value=3;Crédit  #3
+Value=4;Crédit  #4
+Value=5;Crédit  #5
+
+[Item]
+Label=VI.6.g Fonds de roulement
+Name=VI_6_G
+Start=162
+Len=1
+
+[ValueSet]
+Label=VI.6.g Fonds de roulement
+Name=VI_6_G_VS1
+Value=1;Crédit  #1
+Value=2;Crédit  #2
+Value=3;Crédit  #3
+Value=4;Crédit  #4
+Value=5;Crédit  #5
+
+[Item]
+Label=VI.6.h Micro crédit
+Name=VI_6_H
+Start=163
+Len=1
+
+[ValueSet]
+Label=VI.6.h Micro crédit
+Name=VI_6_H_VS1
+Value=1;Crédit  #1
+Value=2;Crédit  #2
+Value=3;Crédit  #3
+Value=4;Crédit  #4
+Value=5;Crédit  #5
+
+[Item]
+Label=VI.6.I Crédit de groupe / solidaire
+Name=VI_6_I
+Start=164
+Len=1
+
+[ValueSet]
+Label=VI.6.I Crédit de groupe / solidaire
+Name=VI_6_I_VS1
+Value=1; Crédit #1
+Value=2;Crédit  #2
+Value=3;Crédit  #3
+Value=4;Crédit  #4
+Value=5;Crédit  #5
+
+[Item]
+Label=VI.6.j Autre (préciser)
+Name=VI_6_J
+Start=165
+Len=70
+DataType=Alpha
+
+[Item]
+Label=VI.6.k correspondant de l'autre à préciser
+Name=VI_6_K
+Start=235
+Len=1
+
+[ValueSet]
+Label=VI.6.k correspondant de l'autre à préciser
+Name=VI_6_K_VS1
+Value=1;Crédit  #1
+Value=2;Crédit  #2
+Value=3;Crédit  #3
+Value=4;Crédit  #4
+Value=5;Crédit  #5
+
+[Item]
+Label=VI.7.a A court terme (moins d'un an)
+Name=VI_7_A
+Start=236
+Len=1
+
+[ValueSet]
+Label=VI.7.a A court terme (moins d'un an)
+Name=VI_7_A_VS1
+Value=1;Crédit  #1
+Value=2;Crédit  #2
+Value=3;Crédit  #3
+Value=4;Crédit  #4
+Value=5;Crédit  #5
+
+[Item]
+Label=VI.7.b A moyen terme (entre 1 et 3 ans)
+Name=VI_7_B
+Start=237
+Len=1
+
+[ValueSet]
+Label=VI.7.b A moyen terme (entre 1 et 3 ans)
+Name=VI_7_B_VS1
+Value=1;Crédit  #1
+Value=2;Crédit  #2
+Value=3;Crédit  #3
+Value=4;Crédit  #4
+Value=5;Crédit  #5
+
+[Item]
+Label=VI.7.c A long terme (plus de 3 ans)
+Name=VI_7_C
+Start=238
+Len=1
+
+[ValueSet]
+Label=VI.7.c A long terme (plus de 3 ans)
+Name=VI_7_C_VS1
+Value=1;Crédit  #1
+Value=2;Crédit  #2
+Value=3;Crédit  #3
+Value=4;Crédit  #4
+Value=5;Crédit  #5
+
+[Item]
+Label=VI.8.a Moins de 50 000 FCFA
+Name=VI_8_A
+Start=239
+Len=1
+
+[ValueSet]
+Label=VI.8.a Moins de 50 000 FCFA
+Name=VI_8_A_VS1
+Value=1;Crédit  #1
+Value=2;Crédit  #2
+Value=3;Crédit  #3
+Value=4;Crédit  #4
+Value=5;Crédit  #5
+
+[Item]
+Label=VI.8.b Entre 50 000 et 100 000 FCFA
+Name=VI_8_B
+Start=240
+Len=1
+
+[ValueSet]
+Label=VI.8.b Entre 50 000 et 100 000 FCFA
+Name=VI_8_B_VS1
+Value=1;Crédit  #1
+Value=2;Crédit  #2
+Value=3;Crédit  #3
+Value=4;Crédit  #4
+Value=5;Crédit  #5
+
+[Item]
+Label=VI.8.c Entre 100 000 et 200 000 FCFA
+Name=VI_8_C
+Start=241
+Len=1
+
+[ValueSet]
+Label=VI.8.c Entre 100 000 et 200 000 FCFA
+Name=VI_8_C_VS1
+Value=1;Crédit  #1
+Value=2;Crédit  #2
+Value=3;Crédit  #3
+Value=4;Crédit  #4
+Value=5;Crédit  #5
+
+[Item]
+Label=VI.8.d Entre 200 000 et 500 000 FCFA
+Name=VI_8_D
+Start=242
+Len=1
+
+[ValueSet]
+Label=VI.8.d Entre 200 000 et 500 000 FCFA
+Name=VI_8_D_VS1
+Value=1;Crédit  #1
+Value=2;Crédit  #2
+Value=3;Crédit  #3
+Value=4;Crédit  #4
+Value=5;Crédit  #5
+
+[Item]
+Label=VI.8.e Entre 500 000 et 1 million FCFA
+Name=VI_8_E
+Start=243
+Len=1
+
+[ValueSet]
+Label=VI.8.e Entre 500 000 et 1 million FCFA
+Name=VI_8_E_VS1
+Value=1;Crédit  #1
+Value=2;Crédit  #2
+Value=3;Crédit  #3
+Value=4;Crédit  #4
+Value=5;Crédit  #5
+
+[Item]
+Label=VI.8.f Entre 1 million et 5 millions FCFA
+Name=VI_8_F
+Start=244
+Len=1
+
+[ValueSet]
+Label=VI.8.f Entre 1 million et 5 millions FCFA
+Name=VI_8_F_VS1
+Value=1;Crédit  #1
+Value=2;Crédit  #2
+Value=3;Crédit  #3
+Value=4;Crédit  #4
+Value=5;Crédit  #5
+
+[Item]
+Label=VI.8.g Plus de 5 millions FCFA
+Name=VI_8_G
+Start=245
+Len=1
+
+[ValueSet]
+Label=VI.8.g Plus de 5 millions FCFA
+Name=VI_8_G_VS1
+Value=1;Crédit  #1
+Value=2;Crédit  #2
+Value=3;Crédit  #3
+Value=4;Crédit  #4
+Value=5;Crédit  #5
+
+[Item]
+Label=VI.9.a Les différents types de produits de crédit proposés
+Name=VI_9_A
+Start=246
+Len=1
+
+[ValueSet]
+Label=VI.9.a Les différents types de produits de crédit proposés
+Name=VI_9_A_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=VI.9.b Les procédures administratives à remplir
+Name=VI_9_B
+Start=247
+Len=1
+
+[ValueSet]
+Label=VI.9.b Les procédures administratives à remplir
+Name=VI_9_B_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=VI.9.c Les frais de dossier et les commissions à payer
+Name=VI_9_C
+Start=248
+Len=1
+
+[ValueSet]
+Label=VI.9.c Les frais de dossier et les commissions à payer
+Name=VI_9_C_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=VI.9.d Les délais d’approbation des crédits
+Name=VI_9_D
+Start=249
+Len=1
+
+[ValueSet]
+Label=VI.9.d Les délais d’approbation des crédits
+Name=VI_9_D_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=VI.9.e Les garanties ou cautions exigées
+Name=VI_9_E
+Start=250
+Len=1
+
+[ValueSet]
+Label=VI.9.e Les garanties ou cautions exigées
+Name=VI_9_E_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=VI.9.f Les montants de crédit proposés
+Name=VI_9_F
+Start=251
+Len=1
+
+[ValueSet]
+Label=VI.9.f Les montants de crédit proposés
+Name=VI_9_F_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=VI.9.g La durée des crédits
+Name=VI_9_G
+Start=252
+Len=1
+
+[ValueSet]
+Label=VI.9.g La durée des crédits
+Name=VI_9_G_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=VI.9.h Le calendrier des remboursements
+Name=VI_9_H
+Start=253
+Len=1
+
+[ValueSet]
+Label=VI.9.h Le calendrier des remboursements
+Name=VI_9_H_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=VI.9.i Les taux d’intérêt appliqués sur les crédits
+Name=VI_9_I
+Start=254
+Len=1
+
+[ValueSet]
+Label=VI.9.i Les taux d’intérêt appliqués sur les crédits
+Name=VI_9_I_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=VI.9.J Les pénalités à payer en cas de retard de paiement
+Name=VI_9_J
+Start=255
+Len=1
+
+[ValueSet]
+Label=VI.9.J Les pénalités à payer en cas de retard de paiement
+Name=VI_9_J_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=VI.9.k Les pratiques de recouvrement
+Name=VI_9_K
+Start=256
+Len=1
+
+[ValueSet]
+Label=VI.9.k Les pratiques de recouvrement
+Name=VI_9_K_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=VI.9.l L’accompagnement et le conseil aux clients
+Name=VI_9_L
+Start=257
+Len=1
+
+[ValueSet]
+Label=VI.9.l L’accompagnement et le conseil aux clients
+Name=VI_9_L_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Record]
+Label=VII.ACCES ET UTILISATION DU TRANSFERT D'ARGENT
+Name=SECTION_VII
+RecordTypeValue='4'
+RecordLen=27
+
+[Item]
+Label=VII.1.a Par une banque
+Name=VII_1_A
+Start=5
+Len=1
+
+[ValueSet]
+Label=VII.1.a Par une banque
+Name=VII_1_A_VS1
+Value=1;Une fois
+Value=2;Deux      fois
+Value=3;Trois     fois
+Value=4;Plus de trois fois
+Value=5;Jamais
+
+[Item]
+Label=VII.1.b Par un SFD
+Name=VII_1_B
+Start=6
+Len=1
+
+[ValueSet]
+Label=VII.1.b Par un SFD
+Name=VII_1_B_VS1
+Value=1;Une fois
+Value=2;Deux      fois
+Value=3;Trois     fois
+Value=4;Plus de trois fois
+Value=5;Jamais
+
+[Item]
+Label=VII.1.c Par la Poste
+Name=VII_1_C
+Start=7
+Len=1
+
+[ValueSet]
+Label=VII.1.c Par la Poste
+Name=VII_1_C_VS1
+Value=1;Une fois
+Value=2;Deux      fois
+Value=3;Trois     fois
+Value=4;Plus de trois fois
+Value=5;Jamais
+
+[Item]
+Label=VII.1.d Par un agent indépendant autorisé
+Name=VII_1_D
+Start=8
+Len=1
+
+[ValueSet]
+Label=VII.1.d Par un agent indépendant autorisé
+Name=VII_1_D_VS1
+Value=1;Une fois
+Value=2;Deux      fois
+Value=3;Trois     fois
+Value=4;Plus de trois fois
+Value=5;Jamais
+
+[Item]
+Label=VII.1.e Par téléphone portable
+Name=VII_1_E
+Start=9
+Len=1
+
+[ValueSet]
+Label=VII.1.e Par téléphone portable
+Name=VII_1_E_VS1
+Value=1;Une fois
+Value=2;Deux      fois
+Value=3;Trois     fois
+Value=4;Plus de trois fois
+Value=5;Jamais
+
+[Item]
+Label=VII.1.f Par un autre moyen (famille, proches, etc.)
+Name=VII_1_F
+Start=10
+Len=1
+
+[ValueSet]
+Label=VII.1.f Par un autre moyen (famille, proches, etc.)
+Name=VII_1_F_VS1
+Value=1;Une fois
+Value=2;Deux      fois
+Value=3;Trois     fois
+Value=4;Plus de trois fois
+Value=5;Jamais
+
+[Item]
+Label=VII.2  Quel est le montant envoyé ou reçu de l’intérieur du pays à chaque fois en moyenne ?
+Name=VII_2
+Start=11
+Len=1
+
+[ValueSet]
+Label=VII.2  Quel est le montant envoyé ou reçu de l’intérieur du pays à chaque fois en moyenne ?
+Name=VII_2_VS1
+Value=1;Moins de 25 000
+Value=2;Entre 25 000 et 50 000
+Value=3;Entre 50 000 et 100 000
+Value=4;Entre 100 000 et 200 000
+Value=5;Entre 200 000 et 500 000
+Value=6;Plus de 500 000
+
+[Item]
+Label=VII.3.a Par une banque
+Name=VII_3_A
+Start=12
+Len=1
+
+[ValueSet]
+Label=VII.3.a Par une banque
+Name=VII_3_A_VS1
+Value=1;Une fois
+Value=2;Deux      fois
+Value=3;Trois     fois
+Value=4;Plus de trois fois
+Value=5;Jamais
+
+[Item]
+Label=VII.3.b Par un SFD
+Name=VII_3_B
+Start=13
+Len=1
+
+[ValueSet]
+Label=VII.3.b Par un SFD
+Name=VII_3_B_VS1
+Value=1;Une fois
+Value=2;Deux      fois
+Value=3;Trois     fois
+Value=4;Plus de trois fois
+Value=5;Jamais
+
+[Item]
+Label=VII.3.c Par la Poste
+Name=VII_3_C
+Start=14
+Len=1
+
+[ValueSet]
+Label=VII.3.c Par la Poste
+Name=VII_3_C_VS1
+Value=1;Une fois
+Value=2;Deux      fois
+Value=3;Trois     fois
+Value=4;Plus de trois fois
+Value=5;Jamais
+
+[Item]
+Label=VII.3.d Par un agent independant autorisé
+Name=VII_3_D
+Start=15
+Len=1
+
+[ValueSet]
+Label=VII.3.d Par un agent independant autorisé
+Name=VII_3_D_VS1
+Value=1;Une fois
+Value=2;Deux      fois
+Value=3;Trois     fois
+Value=4;Plus de trois fois
+Value=5;Jamais
+
+[Item]
+Label=VII.3.e Par téléphone portable
+Name=VII_3_E
+Start=16
+Len=1
+
+[ValueSet]
+Label=VII.3.e Par téléphone portable
+Name=VII_3_E_VS1
+Value=1;Une fois
+Value=2;Deux      fois
+Value=3;Trois     fois
+Value=4;Plus de trois fois
+Value=5;Jamais
+
+[Item]
+Label=VII.3.f Par un autre moyen (famille, proches, etc.)
+Name=VII_3_F
+Start=17
+Len=1
+
+[ValueSet]
+Label=VII.3.f Par un autre moyen (famille, proches, etc.)
+Name=VII_3_F_VS1
+Value=1;Une fois
+Value=2;Deux      fois
+Value=3;Trois     fois
+Value=4;Plus de trois fois
+Value=5;Jamais
+
+[Item]
+Label=VII.4 Quel est le montant envoyé ou reçu de l’extérieur du pays à chaque fois en moyenne ?
+Name=VII_4
+Start=18
+Len=1
+
+[ValueSet]
+Label=VII.4 Quel est le montant envoyé ou reçu de l’extérieur du pays à chaque fois en moyenne ?
+Name=VII_4_VS1
+Value=1;Moins de 25 000
+Value=2;Entre 25 000 et 50 000
+Value=3;Entre 50 000 et 100 000
+Value=4;Entre 100 000 et 200 000
+Value=5;Entre 200 000 et 500 000
+Value=6;Plus de 500 000
+
+[Item]
+Label=VII.5.a Les procédures à suivre
+Name=VII_5_A
+Start=19
+Len=1
+
+[ValueSet]
+Label=VII.5.a Les procédures à suivre
+Name=VII_5_A_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=VII.5.b Les pièces et documents à fournir
+Name=VII_5_B
+Start=20
+Len=1
+
+[ValueSet]
+Label=VII.5.b Les pièces et documents à fournir
+Name=VII_5_B_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=VII.5.c Le temps d’attente au guichet
+Name=VII_5_C
+Start=21
+Len=1
+
+[ValueSet]
+Label=VII.5.c Le temps d’attente au guichet
+Name=VII_5_C_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=VII.5.d Les délais de transmission de l’argent
+Name=VII_5_D
+Start=22
+Len=1
+
+[ValueSet]
+Label=VII.5.d Les délais de transmission de l’argent
+Name=VII_5_D_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=VII.5.e Les frais à payer
+Name=VII_5_E
+Start=23
+Len=1
+
+[ValueSet]
+Label=VII.5.e Les frais à payer
+Name=VII_5_E_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=VII.5.f La qualité du service
+Name=VII_5_F
+Start=24
+Len=1
+
+[ValueSet]
+Label=VII.5.f La qualité du service
+Name=VII_5_F_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=VII.5.g L’amabilité du personnel
+Name=VII_5_G
+Start=25
+Len=1
+
+[ValueSet]
+Label=VII.5.g L’amabilité du personnel
+Name=VII_5_G_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=VII.5.h La sécurité des lieux
+Name=VII_5_H
+Start=26
+Len=1
+
+[ValueSet]
+Label=VII.5.h La sécurité des lieux
+Name=VII_5_H_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=VII.5.i Les horaires d’ouverture
+Name=VII_5_I
+Start=27
+Len=1
+
+[ValueSet]
+Label=VII.5.i Les horaires d’ouverture
+Name=VII_5_I_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Record]
+Label=VIII.ACCES ET UTILISATION DE LA MONNAIE ELECTRONIQUE(mobile banking)
+Name=SECTION_VIII
+RecordTypeValue='5'
+RecordLen=102
+
+[Item]
+Label=VIII.1.a Orange Money
+Name=VIII_1_A
+Start=5
+Len=1
+
+[ValueSet]
+Label=VIII.1.a Orange Money
+Name=VIII_1_A_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=VIII.1.b Tigo Cash
+Name=VIII_1_B
+Start=6
+Len=1
+
+[ValueSet]
+Label=VIII.1.b Tigo Cash
+Name=VIII_1_B_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=VIII.1.c Wari
+Name=VIII_1_C
+Start=7
+Len=1
+
+[ValueSet]
+Label=VIII.1.c Wari
+Name=VIII_1_C_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=VIII.1.d Joni Joni
+Name=VIII_1_D
+Start=8
+Len=1
+
+[ValueSet]
+Label=VIII.1.d Joni Joni
+Name=VIII_1_D_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=VIII.1.e Gim Ferlo
+Name=VIII_1_E
+Start=9
+Len=1
+
+[ValueSet]
+Label=VIII.1.e Gim Ferlo
+Name=VIII_1_E_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=VIII.2.  Êtes-vous intéressé à ouvrir un compte de monnaie électronique ?
+Name=VIII_2
+Start=10
+Len=1
+
+[ValueSet]
+Label=VIII.2.  Êtes-vous intéressé à ouvrir un compte de monnaie électronique ?
+Name=VIII_2_VS1
+Value=1;Oui
+Value=2; À certaines conditions
+Value=3;Non
+
+[Item]
+Label=VIII.3 Citez trois (3) raisons ou conditions qui vous empêchent ou vous découragent d’utiliser les services de monnaie électronique (mobile banking).
+Name=VIII_3_A
+Start=11
+Len=3
+DataType=Alpha
+
+[ValueSet]
+Label=VIII.3 Citez trois (3) raisons ou conditions qui vous empêchent ou vous découragent d’utiliser les services de monnaie électronique (mobile banking).
+Name=VIII_3_A_VS1
+Value='a  ';Je ne possède pas de téléphone portable
+Value='b  '; Difficultés de manipulation du téléphone portable
+Value='c  ';Je ne connais pas les sociétés ou leurs produits
+Value='d  ';Je n’ai pas confiance dans ces services
+Value='e  ';Je n’ai pas besoin de ces services
+Value='f  '; Je préfère me déplacer et avoir un contact personnel
+Value='g  ';Coût d’utilisation trop élevé
+Value='h  ';Problème de couverture réseau
+Value='i  ';Absence ou panne d’électricité
+Value='j  ';Les procédures d’accès sont trop complexes
+Value='k  '; Pas assez de détaillants à proximité de mon domicile ou lieu de travail
+Value='l  '; Les types de produits proposés ne conviennent pas à mes besoins
+Value='m  ';Manque de liquidité au niveau des points de service
+Value='9  ';Autres a preciser
+
+[Item]
+Label=VIII.3.a Autres à preciser
+Name=VIII_3_B
+Start=14
+Len=70
+DataType=Alpha
+
+[Item]
+Label=VIII.4.a Envoyer ou recevoir de l’argent
+Name=VIII_4_A
+Start=84
+Len=1
+
+[ValueSet]
+Label=VIII.4.a Envoyer ou recevoir de l’argent
+Name=VIII_4_A_VS1
+Value=1;Souvent
+Value=2; A l’occasion
+Value=3;Jamais
+
+[Item]
+Label=VIII.4.b Acheter des unités ou des crédits
+Name=VIII_4_B
+Start=85
+Len=1
+
+[ValueSet]
+Label=VIII.4.b Acheter des unités ou des crédits
+Name=VIII_4_B_VS1
+Value=1;Souvent
+Value=2; A l’occasion
+Value=3;Jamais
+
+[Item]
+Label=VIII.4.c Déposer ou retirer de l’argent sur mon compte
+Name=VIII_4_C
+Start=86
+Len=1
+
+[ValueSet]
+Label=VIII.4.c Déposer ou retirer de l’argent sur mon compte
+Name=VIII_4_C_VS1
+Value=1;Souvent
+Value=2; A l’occasion
+Value=3;Jamais
+
+[Item]
+Label=VIII.4.d Virer de l’argent sur un autre compte
+Name=VIII_4_D
+Start=87
+Len=1
+
+[ValueSet]
+Label=VIII.4.d Virer de l’argent sur un autre compte
+Name=VIII_4_D_VS1
+Value=1;Souvent
+Value=2; A l’occasion
+Value=3;Jamais
+
+[Item]
+Label=VIII.4.e Recevoir ma pension ou mon salaire
+Name=VIII_4_E
+Start=88
+Len=1
+
+[ValueSet]
+Label=VIII.4.e Recevoir ma pension ou mon salaire
+Name=VIII_4_E_VS1
+Value=1;Souvent
+Value=2; A l’occasion
+Value=3;Jamais
+
+[Item]
+Label=VIII.4.f Consulter mon solde
+Name=VIII_4_F
+Start=89
+Len=1
+
+[ValueSet]
+Label=VIII.4.f Consulter mon solde
+Name=VIII_4_F_VS1
+Value=1;Souvent
+Value=2; A l’occasion
+Value=3;Jamais
+
+[Item]
+Label=VIII.4.g Recevoir des alertes SMS
+Name=VIII_4_G
+Start=90
+Len=1
+
+[ValueSet]
+Label=VIII.4.g Recevoir des alertes SMS
+Name=VIII_4_G_VS1
+Value=1;Souvent
+Value=2; A l’occasion
+Value=3;Jamais
+
+[Item]
+Label=VIII.4.h Payer des factures à distance
+Name=VIII_4_H
+Start=91
+Len=1
+
+[ValueSet]
+Label=VIII.4.h Payer des factures à distance
+Name=VIII_4_H_VS1
+Value=1;Souvent
+Value=2; A l’occasion
+Value=3;Jamais
+
+[Item]
+Label=VIII.4.i Payer des achats au marché ou dans une boutique
+Name=VIII_4_I
+Start=92
+Len=1
+
+[ValueSet]
+Label=VIII.4.i Payer des achats au marché ou dans une boutique
+Name=VIII_4_I_VS1
+Value=1;Souvent
+Value=2; A l’occasion
+Value=3;Jamais
+
+[Item]
+Label=VIII.4.j Rembourser un prêt
+Name=VIII_4_J
+Start=93
+Len=1
+
+[ValueSet]
+Label=VIII.4.j Rembourser un prêt
+Name=VIII_4_J_VS1
+Value=1;Souvent
+Value=2; A l’occasion
+Value=3;Jamais
+
+[Item]
+Label=VIII.5.a Les procédures d’ouverture de compte
+Name=VIII_5_A
+Start=94
+Len=1
+
+[ValueSet]
+Label=VIII.5.a Les procédures d’ouverture de compte
+Name=VIII_5_A_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=VIII.5.b La couverture géographique du réseau
+Name=VIII_5_B
+Start=95
+Len=1
+
+[ValueSet]
+Label=VIII.5.b La couverture géographique du réseau
+Name=VIII_5_B_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=VIII.5.c La fiabilité du réseau
+Name=VIII_5_C
+Start=96
+Len=1
+
+[ValueSet]
+Label=VIII.5.c La fiabilité du réseau
+Name=VIII_5_C_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=VIII.5.d La gamme des services offerts
+Name=VIII_5_D
+Start=97
+Len=1
+
+[ValueSet]
+Label=VIII.5.d La gamme des services offerts
+Name=VIII_5_D_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=VIII.5.e Le coût des transactions
+Name=VIII_5_E
+Start=98
+Len=1
+
+[ValueSet]
+Label=VIII.5.e Le coût des transactions
+Name=VIII_5_E_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=VIII.5.f La sécurité des transactions
+Name=VIII_5_F
+Start=99
+Len=1
+
+[ValueSet]
+Label=VIII.5.f La sécurité des transactions
+Name=VIII_5_F_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=VIII.5.g L’accès aux informations sur le compte
+Name=VIII_5_G
+Start=100
+Len=1
+
+[ValueSet]
+Label=VIII.5.g L’accès aux informations sur le compte
+Name=VIII_5_G_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=VIII.6.Avez-vous déjà formulé une réclamation auprès de votre fournisseur de monnaie électronique ?
+Name=VIII_6_A
+Start=101
+Len=1
+
+[ValueSet]
+Label=VIII.6.Avez-vous déjà formulé une réclamation auprès de votre fournisseur de monnaie électronique ?
+Name=VIII_6_A_VS1
+Value=1;oui
+Value=2;non
+
+[Item]
+Label=VIII.6.a Qualification
+Name=VIII_6_B
+Start=102
+Len=1
+
+[ValueSet]
+Label=VIII.6.a Qualification
+Name=VIII_6_B_VS1
+Value=1;Très satisfait
+Value=2;Assez satisfait
+Value=3;Pas du tout satisfait
+
+[Record]
+Label=IX.ACCES ET UTILISATION DES ASSURANCES
+Name=SECTION_IX
+RecordTypeValue='6'
+RecordLen=390
+
+[Item]
+Label=IX.1 Quelles compagnies d’assurance implantées au Sénégal connaissez-vous ?
+Name=IX_1_A
+Start=5
+Len=3
+DataType=Alpha
+
+[ValueSet]
+Label=IX.1 Quelles compagnies d’assurance implantées au Sénégal connaissez-vous ?
+Name=IX_1_A_VS1
+Value='a  ';ALLIANZ
+Value='b  ';AMSA
+Value='c  ';ASKIA
+Value='d  ';AXA
+Value='e  ';CGA
+Value='f  ';CNAAS
+Value='g  ';CNART
+Value='h  ';NSIA
+Value='i  ';PREVOYANCE
+Value='j  ';SAAR
+Value='k  ';SALAMA
+Value='l  ';SECURITE (ASS)
+Value='m  ';SONAM
+Value='n  ';UASEN
+Value='9  ';Autre (préciser)
+
+[Item]
+Label=IX.1.a Autre à preciser
+Name=IX_1_B
+Start=8
+Len=70
+DataType=Alpha
+
+[Item]
+Label=IX.2.	Souscrivez-vous présentement à une police d’assurance ou êtes-vous couvert par une police d’assurance?
+Name=IX_2
+Start=78
+Len=1
+
+[ValueSet]
+Label=IX.2.	Souscrivez-vous présentement à une police d’assurance ou êtes-vous couvert par une police d’assurance?
+Name=IX_2_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=IX.3.  Êtes-vous intéressé à acheter une police d’assurance ?
+Name=IX_3
+Start=79
+Len=1
+
+[ValueSet]
+Label=IX.3.  Êtes-vous intéressé à acheter une police d’assurance ?
+Name=IX_3_VS1
+Value=1;oui
+Value=2;À certaines conditions
+Value=3;non
+
+[Item]
+Label=IX.4 Quels types de risques voudriez-vous faire couvrir par votre police d’assurance ?
+Name=IX_4_A
+Start=80
+Len=3
+DataType=Alpha
+
+[ValueSet]
+Label=IX.4 Quels types de risques voudriez-vous faire couvrir par votre police d’assurance ?
+Name=IX_4_A_VS1
+Value='a  ';Décès
+Value='b  ';Remboursement d’un prêt en cas de décès
+Value='c  ';Incendie, vol et risques divers
+Value='d  ';Responsabilité civile (ex. en cas d’accident automobile)
+Value='e  ';Maladie
+Value='f  '; Assurance agricole / récolte
+Value='g  ';Voyage
+Value='h  ';Retraite
+Value='i  ';Responsabilité professionnelle
+Value='9  ';Autre (préciser)
+
+[Item]
+Label=IX.4.a Autre à préciser
+Name=IX_4_B
+Start=83
+Len=70
+DataType=Alpha
+
+[Item]
+Label=IX.5 Citez trois (3) raisons pour lesquelles vous n’êtes pas assuré.
+Name=IX_5_A
+Start=153
+Len=3
+DataType=Alpha
+
+[ValueSet]
+Label=IX.5 Citez trois (3) raisons pour lesquelles vous n’êtes pas assuré.
+Name=IX_5_A_VS1
+Value='a  ';Considérations religieuses
+Value='b  ';Je n’ai jamais entendu parler des assurances
+Value='c  ';Je ne sais pas où aller
+Value='d  ';Le chef de ménage n’est pas assuré
+Value='e  ';Je n’ai pas besoin d’une assurance
+Value='f  '; Le coût est trop élevé / Je n’ai pas les moyens
+Value='g  ';Les procédures sont trocomplexes / Je ne sais pas comment ça marche
+Value='h  ';Je n’ai pas confiance dans les compagnies d‘assurance
+Value='i  ';Les types de produits d’assurance proposés ne conviennent pas à mes besoins
+Value='j  ';L’assurance est pour les activités formelles
+Value='9  ';Autre (préciser)
+
+[Item]
+Label=IX.5.a Autre à préciser
+Name=IX_5_B
+Start=156
+Len=70
+DataType=Alpha
+
+[Item]
+Label=IX.6.a.Comment avez-vous accédé à votre assurance ?
+Name=IX_6
+Start=226
+Len=5
+DataType=Alpha
+
+[ValueSet]
+Label=IX.6.a.Comment avez-vous accédé à votre assurance ?
+Name=IX_6_VS1
+Value='1    ';Auprès d’un courtier en assurance ou société de courtage
+Value='2    ';Auprès d’une compagnie d’assurance
+Value='3    ';Par mon employeur
+Value='4    ';Par un membre de ma famille (conjoint ou parent)
+Value='9    ';Autre (préciser)
+
+[Item]
+Label=IX.6.b.Autre à préciser
+Name=IX_6_B
+Start=231
+Len=70
+DataType=Alpha
+
+[Item]
+Label=IX.7.	Depuis combien de temps souscrivez-vous à une police d’assurance ou êtes-vous couvert ?
+Name=IX_7
+Start=301
+Len=1
+
+[ValueSet]
+Label=IX.7.	Depuis combien de temps souscrivez-vous à une police d’assurance ou êtes-vous couvert ?
+Name=IX_7_VS1
+Value=1;Depuis moins de 1 an
+Value=2;Depuis 1 à 5 ans
+Value=3;Depuis 6 à 10 ans
+Value=4; Depuis plus de 10 ans
+
+[Item]
+Label=IX.8 Quels types de risques sont couverts par votre (vos) police(s) d’assurance ?
+Name=IX_8_A
+Start=302
+Len=13
+DataType=Alpha
+
+[ValueSet]
+Label=IX.8 Quels types de risques sont couverts par votre (vos) police(s) d’assurance ?
+Name=IX_8_A_VS1
+Value='a            '; Assurance prévoyance décès
+Value='b            ';Assurance prêt / décès emprunteur
+Value='c            ';Assurance incendie, vol et risques divers
+Value='d            '; Assurance habitation
+Value='e            ';Assurance automobile
+Value='f            ';Assurance maladie
+Value='g            ';Assurance agricole / récolte
+Value='h            ';Assurance voyage
+Value='i            ';Assurance rente éducation
+Value='j            '; Plan d’épargne retraite
+Value='k            ';Assurance complémentaire retraite
+Value='l            ';Assurance responsabilité professionnelle
+Value='9            ';Autre (préciser)
+
+[Item]
+Label=IX.8.a Autre à préciser
+Name=IX_8_B
+Start=315
+Len=70
+DataType=Alpha
+
+[Item]
+Label=IX.9. A part vous, combien d’autres membres de votre famille sont couverts par cette(ces) police(s) ?
+Name=IX_9
+Start=385
+Len=1
+
+[ValueSet]
+Label=IX.9. A part vous, combien d’autres membres de votre famille sont couverts par cette(ces) police(s) ?
+Name=IX_9_VS1
+Value=1;Je suis le seul couvert
+Value=2;Une autre personne couverte
+Value=3;Deux autres personnes couvertes
+Value=4;Trois autres personnes couvertes
+Value=5;Plus de trois autres personnes couvertes
+
+[Item]
+Label=IX.10. Au cours des 12 derniers mois, avez-vous soumis une réclamation à votre assureur ?
+Name=IX_10
+Start=386
+Len=1
+
+[ValueSet]
+Label=IX.10. Au cours des 12 derniers mois, avez-vous soumis une réclamation à votre assureur ?
+Name=IX_10_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=IX.11.a Les procédures administratives à suivre
+Name=IX_11_A
+Start=387
+Len=1
+
+[ValueSet]
+Label=IX.11.a Les procédures administratives à suivre
+Name=IX_11_A_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=IX.11.b Les pièces justificatives à fournir
+Name=IX_11_B
+Start=388
+Len=1
+
+[ValueSet]
+Label=IX.11.b Les pièces justificatives à fournir
+Name=IX_11_B_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=IX.11.c Les délais de traitement
+Name=IX_11_C
+Start=389
+Len=1
+
+[ValueSet]
+Label=IX.11.c Les délais de traitement
+Name=IX_11_C_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Item]
+Label=IX.11.d Le montant remboursé
+Name=IX_11_D
+Start=390
+Len=1
+
+[ValueSet]
+Label=IX.11.d Le montant remboursé
+Name=IX_11_D_VS1
+Value=1;Très
+Value=2;Assez
+Value=3;Pas du tout
+Value=4;NSP/PDR
+
+[Record]
+Label=X.ACCÈS ET UTILISATION DES SERVICES FINANCIERS INFORMELS
+Name=SECTION_X
+RecordTypeValue='B'
+RecordLen=18
+
+[Item]
+Label=X.1.a Dans une tontine
+Name=X_1_A
+Start=5
+Len=1
+
+[ValueSet]
+Label=X.1.a Dans une tontine
+Name=X_1_A_VS1
+Value=1;Souvent
+Value=2;À l’occasion
+Value=3;Jamais
+
+[Item]
+Label=X.1.b Dans une association ou un groupement informel
+Name=X_1_B
+Start=6
+Len=1
+
+[ValueSet]
+Label=X.1.b Dans une association ou un groupement informel
+Name=X_1_B_VS1
+Value=1;Souvent
+Value=2;À l’occasion
+Value=3;Jamais
+
+[Item]
+Label=X.1.c Auprès d’une ONG ou d’un projet
+Name=X_1_C
+Start=7
+Len=1
+
+[ValueSet]
+Label=X.1.c Auprès d’une ONG ou d’un projet
+Name=X_1_C_VS1
+Value=1;Souvent
+Value=2;À l’occasion
+Value=3;Jamais
+
+[Item]
+Label=X.1.d Auprès d’une ONG ou d’un projet
+Name=X_1_D
+Start=8
+Len=1
+
+[ValueSet]
+Label=X.1.d Auprès d’une ONG ou d’un projet
+Name=X_1_D_VS1
+Value=1;Souvent
+Value=2;À l’occasion
+Value=3;Jamais
+
+[Item]
+Label=X.2. Quel montant épargnez-vous chaque semaine dans ce(s) système(s) ?
+Name=X_2
+Start=9
+Len=1
+
+[ValueSet]
+Label=X.2. Quel montant épargnez-vous chaque semaine dans ce(s) système(s) ?
+Name=X_2_VS1
+Value=1;N’ÉPARGNE PAS DANS CES SYSTÈMES
+Value=2;Moins de 500 FCFA par semaine
+Value=3;Entre 500 et 1 000 FCFA par semaine
+Value=4;Entre 1 000 et 2 000 FCFA par semaine
+Value=5;Entre 2 000 et 5 000 FCFA par semaine
+Value=6;Entre 5 000et 10 000 FCFA par semaine
+Value=7;Plus de 10 000 FCFA par semaine
+
+[Item]
+Label=X.3.a Une tontine
+Name=X_3_A
+Start=10
+Len=1
+
+[ValueSet]
+Label=X.3.a Une tontine
+Name=X_3_A_VS1
+Value=1;Oui
+Value=2;NON
+
+[Item]
+Label=X.3.b Une association ou un groupement
+Name=X_3_B
+Start=11
+Len=1
+
+[ValueSet]
+Label=X.3.b Une association ou un groupement
+Name=X_3_B_VS1
+Value=1;Oui
+Value=2;NON
+
+[Item]
+Label=X.3.c Une ONG, un projet ou un programme
+Name=X_3_C
+Start=12
+Len=1
+
+[ValueSet]
+Label=X.3.c Une ONG, un projet ou un programme
+Name=X_3_C_VS1
+Value=1;Oui
+Value=2;NON
+
+[Item]
+Label=X.3.d Votre employeur
+Name=X_3_D
+Start=13
+Len=1
+
+[ValueSet]
+Label=X.3.d Votre employeur
+Name=X_3_D_VS1
+Value=1;Oui
+Value=2;NON
+
+[Item]
+Label=X.3.e Un commerçant / une boutique
+Name=X_3_E
+Start=14
+Len=1
+
+[ValueSet]
+Label=X.3.e Un commerçant / une boutique
+Name=X_3_E_VS1
+Value=1;Oui
+Value=2;NON
+
+[Item]
+Label=X.3.f Un commissionnaire ou usurier
+Name=X_3_F
+Start=15
+Len=1
+
+[ValueSet]
+Label=X.3.f Un commissionnaire ou usurier
+Name=X_3_F_VS1
+Value=1;Oui
+Value=2;NON
+
+[Item]
+Label=X.3.g Un membre de la famille
+Name=X_2_G
+Start=16
+Len=1
+
+[ValueSet]
+Label=X.3.g Un membre de la famille
+Name=X_2_G_VS1
+Value=1;Oui
+Value=2;NON
+
+[Item]
+Label=X.3.h Un ami / proche de la famille
+Name=X_3_H
+Start=17
+Len=1
+
+[ValueSet]
+Label=X.3.h Un ami / proche de la famille
+Name=X_3_H_VS1
+Value=1;Oui
+Value=2;NON
+
+[Item]
+Label=X.4. Avez-vous plus, moins ou autant confiance dans ces systèmes informels que dans les institutions financières pour vos opérations d’épargne et de crédit ?
+Name=X_4
+Start=18
+Len=1
+
+[ValueSet]
+Label=X.4. Avez-vous plus, moins ou autant confiance dans ces systèmes informels que dans les institutions financières pour vos opérations d’épargne et de crédit ?
+Name=X_4_VS1
+Value=1;Plus confiance dans les systèmes informels
+Value=2;Moins confiance dans les systèmes informels
+Value=3;Autant confiance dans les systèmes informels
+
+[Record]
+Label=XI.BESOINS DE FINANCEMENT
+Name=SECTION_XI
+RecordTypeValue='C'
+RecordLen=695
+
+[Item]
+Label=XI.1. Êtes-vous un exploitant agricole ?
+Name=XI_1
+Start=5
+Len=1
+
+[ValueSet]
+Label=XI.1. Êtes-vous un exploitant agricole ?
+Name=XI_1_VS1
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=XI.2.a Cultures de rente (arachide, coton)
+Name=XI_2_A
+Start=6
+Len=1
+
+[ValueSet]
+Label=XI.2.a Cultures de rente (arachide, coton)
+Name=XI_2_A_VS1
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=XI.2.b Cultures céréalières (riz, mil, maïs, fonio, sorgho, etc.)
+Name=XI_2_B
+Start=7
+Len=1
+
+[ValueSet]
+Label=XI.2.b Cultures céréalières (riz, mil, maïs, fonio, sorgho, etc.)
+Name=XI_2_B_VS1
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=XI.2.c  Cultures maraîchères (tomate, oignon, salade, légumes, etc.)
+Name=XI_2_C
+Start=8
+Len=1
+
+[ValueSet]
+Label=XI.2.c  Cultures maraîchères (tomate, oignon, salade, légumes, etc.)
+Name=XI_2_C_VS1
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=XI.2.d Plantations et fruitières (canne à sucre, mangue, orange, citron, papaye, melon, etc.)
+Name=XI_2_D
+Start=9
+Len=1
+
+[ValueSet]
+Label=XI.2.d Plantations et fruitières (canne à sucre, mangue, orange, citron, papaye, melon, etc.)
+Name=XI_2_D_VS1
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=XI.2.e Cultures florales ou ornementales
+Name=XI_2_E
+Start=10
+Len=1
+
+[ValueSet]
+Label=XI.2.e Cultures florales ou ornementales
+Name=XI_2_E_VS1
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=XI.3. Quelles sont les principales contraintes ou difficultés rencontrées pour accroître le volume et améliorer la qualité de vos productions agricoles ?
+Name=XI_3
+Start=11
+Len=3
+DataType=Alpha
+
+[ValueSet]
+Label=XI.3. Quelles sont les principales contraintes ou difficultés rencontrées pour accroître le volume et améliorer la qualité de vos productions agricoles ?
+Name=XI_3_VS1
+Value='1  ';Accès à la terre
+Value='2  ';Accès à l’eau
+Value='3  ';Accès/coût de l’énergie (carburant, électricité)
+Value='4  ';Accès à des intrants de qualité (semences, plants, engrais, phytosanitaires, etc.)
+Value='5  ';Coût des intrants (semences, plants, engrais, phytosanitaires, etc.)
+Value='6  ';Accès/coût de la main d’oeuvre
+Value='7  ';Accès/coût de l’outillage (machettes, limes, bassines, etc.)
+Value='8  ';Accès/coût des équipements (motoculteurs, etc.)
+Value='9  ';Disponibilité/coût des pièces de rechange
+Value='A  ';Accès/coût du matériel roulant (tracteurs, camions)
+Value='B  ';Infestations par les insectes
+Value='C  ';Vols
+Value='D  ';Aléas climatiques
+Value='E  ';Accès aux services techniques et de formation
+Value='F  ';Accès au crédit / Manque de moyens financiers
+Value='G  ';Accès aux marchés / Débouchés
+Value='Z  ';Autre  :
+
+[Item]
+Label=XI.3.a Autre à preciser
+Name=XI_3_A
+Start=14
+Len=70
+DataType=Alpha
+
+[Item]
+Label=XI.4. Comment financez-vous vos activités agricoles?
+Name=XI_4
+Start=84
+Len=3
+DataType=Alpha
+
+[ValueSet]
+Label=XI.4. Comment financez-vous vos activités agricoles?
+Name=XI_4_VS1
+Value='1  ';Épargne personnelle
+Value='2  ';Argent de la famille et des proches
+Value='3  ';Financement fourni par une organisation de producteurs/coopérative
+Value='4  ';Financement des fournisseurs
+Value='5  ';Financement des acheteurs / clients
+Value='6  ';Crédit d’une tontine
+Value='7  ';Crédit d’un usurier, commerçant ou autre prêteur informel
+Value='8  ';Crédit d’une institution financière
+Value='9  ';Pas de besoin de financement
+Value='Z  ';Autre  :
+
+[Item]
+Label=XI.4.a Autre à preciser
+Name=XI_4_A
+Start=87
+Len=70
+DataType=Alpha
+
+[Item]
+Label=XI.5. A qui vendez-vous vos produits agricoles ?
+Name=XI_5
+Start=157
+Len=3
+DataType=Alpha
+
+[ValueSet]
+Label=XI.5. A qui vendez-vous vos produits agricoles ?
+Name=XI_5_VS1
+Value='1  ';Organisation de producteurs
+Value='2  ';Collecteur
+Value='3  ';Grossiste
+Value='4  ';Détaillant
+Value='5  ';Marché
+Value='6  ';Société agro-industrielle
+Value='7  ';Transformateur
+Value='8  ';Bord du champ
+Value='9  ';À personne (autoconsommation
+Value='Z  ';Autre :
+
+[Item]
+Label=XI.5.a Autre à preciser
+Name=XI_5_A
+Start=160
+Len=30
+DataType=Alpha
+
+[Item]
+Label=XI.6. Quelles sont les principales contraintes ou difficultés rencontrées au moment de commercialiser et vendre vos produits ?
+Name=XI_6
+Start=190
+Len=3
+DataType=Alpha
+
+[ValueSet]
+Label=XI.6. Quelles sont les principales contraintes ou difficultés rencontrées au moment de commercialiser et vendre vos produits ?
+Name=XI_6_VS1
+Value='1  ';Éloignement des centres / marchés
+Value='2  ';Mauvais état des routes
+Value='3  ';Absence de magasins de stockage
+Value='4  ';Mauvaise qualité des produits
+Value='5  ';Manque de contacts avec les acheteurs
+Value='6  ';Faible pouvoir de négociation avec les acheteurs
+Value='7  ';Prix de vente trop bas
+Value='8  ';Surplus des stocks / surabondance de produits
+Value='9  ';Absence d’équipements de froid
+Value='A  ';Formation des dirigeants
+Value='B  ';Accès au crédit / Manque de moyens financiers
+Value='Z  ';Autre :
+
+[Item]
+Label=XI.6.a Autre à preciser
+Name=XI_6_A
+Start=193
+Len=70
+DataType=Alpha
+
+[Item]
+Label=XI.7. Êtes-vous propriétaire ou dirigeant d’une micro, petite ou moyenne entreprise?
+Name=XI_7
+Start=263
+Len=1
+
+[ValueSet]
+Label=XI.7. Êtes-vous propriétaire ou dirigeant d’une micro, petite ou moyenne entreprise?
+Name=XI_7_VS1
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=XI.8. Conduisez-vous des activités génératrices de revenus à votre propre compte ?
+Name=XI_8
+Start=264
+Len=1
+
+[ValueSet]
+Label=XI.8. Conduisez-vous des activités génératrices de revenus à votre propre compte ?
+Name=XI_8_VS1
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=XI.9 Dans quel(s) secteur(s)?
+Name=XI_9
+Start=265
+Len=3
+DataType=Alpha
+
+[ValueSet]
+Label=XI.9 Dans quel(s) secteur(s)?
+Name=XI_9_VS1
+Value='1  ';Élevage – petit et gros bétail
+Value='2  ';Élevage -- volaille
+Value='3  ';Pêche / Pisciculture
+Value='4  ';Foresterie / Bois
+Value='5  ';Plantes médicinales
+Value='6  ';Artisanat
+Value='7  ';BTP
+Value='8  ';Commerce
+Value='9  ';Énergie
+Value='A  ';Transport
+Value='B  ';Usinage / Transformation / manufacture
+Value='C  ';Services (restauration, coiffure, couture, mécanique, électricité, plomberie, etc.)
+Value='Z  ';Autre:
+
+[Item]
+Label=XI.9.a Autre à preciser
+Name=XI_9_A
+Start=268
+Len=30
+DataType=Alpha
+
+[Item]
+Label=XI.10. Quel est approximativement le chiffre d’affaires annuel (recettes totales) généré par votre entreprise ou par vos activités génératrices de revenus ?
+Name=XI_10
+Start=298
+Len=1
+
+[ValueSet]
+Label=XI.10. Quel est approximativement le chiffre d’affaires annuel (recettes totales) généré par votre entreprise ou par vos activités génératrices de revenus ?
+Name=XI_10_VS1
+Value=1;Moins de 500 000
+Value=2;500 000 à 1 million
+Value=3;Entre 1 et 2 millions
+Value=4;Entre 2 et 5 millions
+Value=5;Entre 5 et 10 millions
+Value=6;Entre 10 et 20 millions
+Value=7;Entre 20 et 50 millions
+Value=8;Plus de 50 millions
+
+[Item]
+Label=XI.11. Quelles sont les sources de financement de votre entreprise ou de vos activités génératrices de revenus ?
+Name=XI_11
+Start=299
+Len=3
+DataType=Alpha
+
+[ValueSet]
+Label=XI.11. Quelles sont les sources de financement de votre entreprise ou de vos activités génératrices de revenus ?
+Name=XI_11_VS1
+Value='1  ';Épargne personnelle
+Value='2  ';Argent de la famille et des proches
+Value='3  ';Fonds propres de l’entreprise / profits accumulés
+Value='4  ';Financement des fournisseurs
+Value='5  ';Financement des acheteurs / clients
+Value='6  ';Crédit d’une tontine
+Value='7  ';Crédit d’un usurier, commerçant ou autre prêteur informel
+Value='8  ';Crédit d’une institution financière
+Value='9  ';Pas de besoin de financement
+Value='Z  ';Autre :
+
+[Item]
+Label=XI.11.a Autre à préciser
+Name=XI_11_A
+Start=302
+Len=30
+DataType=Alpha
+
+[Item]
+Label=XI.12. Avez-vous présentement des besoins de financement qui ne sont pas satisfaits, que ce soit pour des usages personnels ou pour développer vos activités ?
+Name=XI_12
+Start=332
+Len=1
+
+[ValueSet]
+Label=XI.12. Avez-vous présentement des besoins de financement qui ne sont pas satisfaits, que ce soit pour des usages personnels ou pour développer vos activités ?
+Name=XI_12_VS1
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=Usage et Montants
+Name=USAGE_ET_MONTANTS
+Start=333
+Len=11
+DataType=Alpha
+Occurrences=19
+OccurrenceLabel=1,Dépenses de consommation
+OccurrenceLabel=2,Dépenses scolaires
+OccurrenceLabel=3,Dépenses de santé
+OccurrenceLabel=4,Achat de meubles, d’appareil électro-ménager
+OccurrenceLabel=5,Achat d’un vélo, mobylette ou moto
+OccurrenceLabel=6,Achat d’une voiture
+OccurrenceLabel=7,Construction immobilière
+OccurrenceLabel=8,Achat d’une maison, d’un immeuble
+OccurrenceLabel=9,Rénovation/amélioration du logement
+OccurrenceLabel=10,Achat d’un terrain, d’une parcelle
+OccurrenceLabel=11,Achat d’un équipement, de machinerie
+OccurrenceLabel=12,Démarrage d’une entreprise, d’une activité génératrice de revenu
+OccurrenceLabel=13,Fonds de roulement pour mon entreprise
+OccurrenceLabel=14,Commerce / Achat de stock de marchandises
+OccurrenceLabel=15,Achat d’intrants agricoles (engrais, pesticides, semences)
+OccurrenceLabel=16,Achat de bétail
+OccurrenceLabel=17,Remboursement d’une dette
+OccurrenceLabel=18,Période de soudure
+OccurrenceLabel=19,Autre
+
+[Item]
+Label=Usage
+Name=USAGE
+Start=333
+Len=1
+ItemType=SubItem
+
+[ValueSet]
+Label=Usage
+Name=USAGE_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=Montant requis (FCFA)
+Name=MONTANT
+Start=334
+Len=10
+ItemType=SubItem
+
+[Item]
+Label=Préciser  l'usage
+Name=PRECISER_L_USAGE
+Start=542
+Len=50
+DataType=Alpha
+
+[Item]
+Label=Fin de l'interview
+Name=FIN_INTERVIEW
+Start=592
+Len=4
+
+[Item]
+Label=Heure2
+Name=HEURE2
+Start=592
+Len=2
+ItemType=SubItem
+
+[Item]
+Label=Minutes2
+Name=MINUTES2
+Start=594
+Len=2
+ItemType=SubItem
+
+[Item]
+Label=OBSERVATIONS
+Name=OBS
+Start=596
+Len=100
+DataType=Alpha

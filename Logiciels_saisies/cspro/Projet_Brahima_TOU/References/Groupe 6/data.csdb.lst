@@ -1,0 +1,1244 @@
+﻿Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 15, 2018
+Start Time      16:39:46
+End Time        16:39:52
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 15, 2018
+Start Time      16:40:00
+End Time        16:40:03
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 15, 2018
+Start Time      16:40:54
+End Time        16:41:13
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 15, 2018
+Start Time      16:43:04
+End Time        16:44:21
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    145       2    -   champs obligatoire                                      -
+    153       3    -   Le prénom n'est pas bien écrit                          -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 15, 2018
+Start Time      17:11:37
+End Time        17:11:48
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 15, 2018
+Start Time      17:11:49
+End Time        17:15:38
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    524       7    -   Donner des réponses correctes                           -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 15, 2018
+Start Time      17:17:29
+End Time        17:18:37
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    534       3    -   Vous ne pouvez pas choisir une raison 2 fois            -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 15, 2018
+Start Time      17:21:06
+End Time        17:21:55
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    524       2    -   Donner des réponses correctes                           -
+    534       1    -   Vous ne pouvez pas choisir une raison 2 fois            -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 16, 2018
+Start Time      19:38:51
+End Time        19:47:55
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            7   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    133       4    -   L'individu  N° %d (%s) a été indiqué comme étant        -
+    147       1    -   champs obligatoire                                      -
+    183       2    -   Le prénom n'est pas bien écrit                          -
+    192       1    -   Les minutes ne peuvent pas dépasser 60                  -
+    198       1    -   Les jours ne peuvent pas dépasser 31                    -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 16, 2018
+Start Time      19:48:54
+End Time        19:49:02
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 16, 2018
+Start Time      20:33:50
+End Time        20:34:04
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 16, 2018
+Start Time      20:34:04
+End Time        20:35:00
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            1   Operator entered a value out of range            
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 16, 2018
+Start Time      21:10:15
+End Time        21:10:19
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 16, 2018
+Start Time      21:10:19
+End Time        21:14:30
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    133       1    -   L'individu  N° %d (%s) a été indiqué comme étant        -
+    155       1    -   Le prénom n'est pas bien écrit                          -
+    279       5    -   Individu Kish doit être un adulte: au moins 18ans       -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 16, 2018
+Start Time      21:14:41
+End Time        23:10:23
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            1   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    133       1    -   L'individu  N° %d (%s) a été indiqué comme étant        -
+    269       1    -   le numero saisi est incorrecte,Veuillez rectifier       -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 17, 2018
+Start Time      20:09:05
+End Time        20:09:43
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    397       1    -   Vous ne pouvez pas choisir une meme plusieurs foi       -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 17, 2018
+Start Time      20:11:24
+End Time        20:11:46
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 17, 2018
+Start Time      20:14:08
+End Time        20:14:57
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    531       1    -   Vous ne pouvez pas choisir une meme plusieurs foi       -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 17, 2018
+Start Time      20:21:40
+End Time        20:22:50
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 17, 2018
+Start Time      20:26:25
+End Time        20:28:10
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 17, 2018
+Start Time      21:13:04
+End Time        21:14:01
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 17, 2018
+Start Time      21:41:19
+End Time        21:41:51
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 17, 2018
+Start Time      21:43:50
+End Time        21:45:24
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    557       5    -   error                                                   -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 17, 2018
+Start Time      21:54:06
+End Time        21:54:42
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 17, 2018
+Start Time      21:55:06
+End Time        21:56:17
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    557       2    -   error                                                   -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 17, 2018
+Start Time      21:57:30
+End Time        21:58:44
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 17, 2018
+Start Time      22:20:59
+End Time        22:22:44
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            1   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    753       3    -    vous devez choisir au plus 3 réponses différente       -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 17, 2018
+Start Time      22:23:31
+End Time        22:24:36
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    135       1    -   L'individu  N° %d (%s) a été indiqué comme étant        -
+    149       1    -   champs obligatoire                                      -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 17, 2018
+Start Time      22:28:24
+End Time        22:30:53
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 17, 2018
+Start Time      22:41:28
+End Time        22:43:37
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    231       2    -   La date de controle doit etre supérieur à la date       -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 17, 2018
+Start Time      23:00:51
+End Time        23:01:41
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    605       1    -    vous devez choisir au plus 3 réponses différente       -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 17, 2018
+Start Time      23:02:52
+End Time        23:04:22
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 17, 2018
+Start Time      23:04:57
+End Time        23:05:38
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    605       2    -   vos reponses doit etre parmis les reponses propos       -
+    617       2    -    vous devez choisir au plus 3 réponses différente       -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 17, 2018
+Start Time      23:06:07
+End Time        23:06:57
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    605       3    -   vos reponses doit etre parmis les reponses propos       -
+    617       1    -    vous devez choisir au plus 3 réponses différente       -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 17, 2018
+Start Time      23:08:04
+End Time        23:08:16
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    605       1    -   vos reponses doit etre parmis les reponses propos       -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 18, 2018
+Start Time      00:08:00
+End Time        00:11:21
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    787       4    -   vos reponses doit etre parmis les reponses propos       -
+    822       1    -   vos reponses doit etre parmis les reponses propos       -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 18, 2018
+Start Time      00:15:52
+End Time        00:17:55
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    787       2    -   vos reponses doit etre parmis les reponses propos       -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 18, 2018
+Start Time      00:18:04
+End Time        00:18:41
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    338       1    -   vos reponses doit etre parmis les reponses propos       -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 18, 2018
+Start Time      00:19:21
+End Time        00:20:53
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    701       7    -   vos reponses doit etre parmis les reponses propos       -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 18, 2018
+Start Time      00:21:34
+End Time        00:21:55
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 18, 2018
+Start Time      00:28:07
+End Time        00:32:05
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    822       2    -   vos reponses doit etre parmis les reponses propos       -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 18, 2018
+Start Time      00:32:13
+End Time        00:32:39
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    858       1    -   vos reponses doit etre parmis les reponses propos       -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 18, 2018
+Start Time      00:51:33
+End Time        01:03:15
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    858       8    -   vos reponses doit etre parmis les reponses propos       -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 18, 2018
+Start Time      01:03:48
+End Time        01:04:12
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    858       2    -   vos reponses doit etre parmis les reponses propos       -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 18, 2018
+Start Time      01:08:14
+End Time        01:23:58
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 18, 2018
+Start Time      01:25:25
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 18, 2018
+Start Time      11:37:07
+End Time        11:39:15
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            1   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    701       3    -   vos reponses doit etre parmis les reponses propos       -
+    713       4    -    vous devez choisir au plus 3 réponses différente       -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 18, 2018
+Start Time      11:52:11
+End Time        11:55:16
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  10107           12   Data source case construction warning: %s        
+  99990            2   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    923       1    -   vos reponses doit etre parmis les reponses propos       -
+    935       1    -    vous devez choisir au plus 3 réponses différente       -
+   1073       1    -    vous devez choisir au plus 3 réponses différente       -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 18, 2018
+Start Time      16:38:54
+End Time        16:45:53
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            1   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    135       1    -   L'individu  N° %d (%s) a été indiqué comme étant        -
+    194       1    -   l'heure ne peut pas depasser 24                         -
+    207       1    -   Les jours ne peuvent pas dépasser 31                    -
+    224       1    -   Les jours ne peuvent pas dépasser 31                    -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 18, 2018
+Start Time      16:46:05
+End Time        16:47:30
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            1   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    108       1    -   le numéro de Ménage ne peut pas être 0                  -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 18, 2018
+Start Time      16:57:31
+End Time        16:57:48
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 18, 2018
+Start Time      16:58:30
+End Time        16:59:38
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  92101            1   Case ids '%s' duplicate an existing case! Case id
+  99990            1   Operator entered a value out of range            
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 18, 2018
+Start Time      17:38:32
+End Time        17:38:38
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 18, 2018
+Start Time      17:38:55
+End Time        17:39:42
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 18, 2018
+Start Time      17:40:00
+End Time        17:40:13
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 18, 2018
+Start Time      17:40:55
+End Time        17:47:16
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  10107           12   Data source case construction warning: %s        
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 18, 2018
+Start Time      17:57:26
+End Time        17:57:39
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 18, 2018
+Start Time      17:58:02
+End Time        18:55:08
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            4   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    143       2    -   L'individu  N° %d (%s) a été indiqué comme étant        -
+    157       1    -   champs obligatoire                                      -
+    186       1    -   Vous devez préciser le Nom du chef de Ménage            -
+    193       2    -   Le prénom n'est pas bien écrit                          -
+    353       3    -   vos reponses doit etre parmis les reponses propos       -
+    366       1    -   vous devez choisir au plus 3 réponses différentes       -
+    377       1    -    Vous ne pouvez pas choisir *Aucun* et d'autres r       -
+    398       1    -   vos reponses doit etre parmis les reponses propos       -
+    476       1    -   vos reponses doit etre parmis les reponses propos       -
+    488       1    -   error                                                   -
+    530       1    -   vos reponses doit etre parmis les reponses propos       -
+    543       1    -    vous devez choisir au plus 3 réponses différente       -
+    566       1    -   vos reponses doit etre parmis les reponses propos       -
+    578       1    -    vous devez choisir au plus 3 réponses différente       -
+    615       2    -   vos reponses doit etre parmis les reponses propos       -
+    627       1    -    vous devez choisir au plus 3 réponses différente       -
+    655       1    -   vos reponses doit etre parmis les reponses propos       -
+    667       1    -    vous devez choisir au plus 3 réponses différente       -
+    716       2    -   vos reponses doit etre parmis les reponses propos       -
+    728       1    -    vous devez choisir au plus 3 réponses différente       -
+    758       1    -   vos reponses doit etre parmis les reponses propos       -
+    770       1    -    vous devez choisir au plus 3 réponses différente       -
+    838       1    -   vos reponses doit etre parmis les reponses propos       -
+    850       1    -    vous devez choisir au plus 3 réponses différente       -
+    938       2    -   vos reponses doit etre parmis les reponses propos       -
+    950       3    -    vous devez choisir au plus 3 réponses différente       -
+    972       1    -   vos reponses doit etre parmis les reponses propos       -
+    985       1    -    vous devez choisir au plus 3 réponses différente       -
+   1032       2    -   vos reponses doit etre parmis les reponses propos       -
+   1044       1    -    vous devez choisir au plus 3 réponses différente       -
+   1076       1    -   vos reponses doit etre parmis les reponses propos       -
+   1088       1    -    vous devez choisir au plus 3 réponses différente       -
+   1111       1    -   vos reponses doit etre parmis les reponses propos       -
+   1123       1    -    vous devez choisir au plus 3 réponses différente       -
+   1170       2    -   L'heure de fin doit etre supérieur à l'heure du d       -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 18, 2018
+Start Time      18:57:18
+End Time        19:11:18
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            2   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    143       2    -   L'individu  N° %d (%s) a été indiqué comme étant        -
+    222       1    -   Les mois ne peuvent pas dépasser 12                     -
+    353       1    -   vos reponses doit etre parmis les reponses propos       -
+    443       1    -   vos reponses doit etre parmis les reponses propos       -
+    455       2    -    vous devez choisir au plus 3 réponses différente       -
+    726       2    -   vos reponses doit etre parmis les reponses propos       -
+    768       1    -   vos reponses doit etre parmis les reponses propos       -
+    884       1    -   vos reponses doit etre parmis les reponses propos       -
+    948       1    -   vos reponses doit etre parmis les reponses propos       -
+    960       1    -    vous devez choisir au plus 3 réponses différente       -
+   1030       1    -    vous devez choisir au plus 3 réponses différente       -
+   1195       3    -   L'heure de fin doit etre supérieur à l'heure du d       -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\pro\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\pro\data.csdb
+<File>          FICHIER=
+
+Date            Feb 18, 2018
+Start Time      19:12:40
+End Time        19:19:14
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    143       1    -   L'individu  N° %d (%s) a été indiqué comme étant        -
+    186       1    -   Vous devez préciser le Nom du chef de Ménage            -
+    232       1    -   Les jours ne peuvent pas dépasser 31                    -
+    245       1    -   Les mois ne peuvent pas dépasser 12                     -
+    353       1    -   vos reponses doit etre parmis les reponses propos       -
+    455       1    -    vous devez choisir au plus 3 réponses différente       -
+    726       1    -   vos reponses doit etre parmis les reponses propos       -
+   1195       1    -   L'heure de fin doit etre supérieur à l'heure du d       -
+   1207       2    -   L'heure de fin doit etre supérieur à l'heure du d       -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\clement\Desktop\Groupe 6\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\clement\Desktop\Groupe 6\data.csdb
+<File>          FICHIER=
+
+Date            Feb 18, 2018
+Start Time      20:34:34
+End Time        20:34:43
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1197       1    -   Veuillez preciser l'usage                               -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\hp\Desktop\Groupe 6\Groupe 6\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\hp\Desktop\Groupe 6\Groupe 6\data.csdb
+<File>          FICHIER=
+
+Date            Feb 22, 2018
+Start Time      16:10:28
+End Time        16:10:55
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\hp\Desktop\Groupe 6\Groupe 6\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\hp\Desktop\Groupe 6\Groupe 6\data.csdb
+<File>          FICHIER=
+
+Date            Feb 22, 2018
+Start Time      16:11:01
+End Time        16:11:08
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\hp\Desktop\Groupe 6\Groupe 6\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\hp\Desktop\Groupe 6\Groupe 6\data.csdb
+<File>          FICHIER=
+
+Date            Feb 22, 2018
+Start Time      16:13:04
+End Time        16:13:45
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\hp\Desktop\Groupe 6\Groupe 6\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\hp\Desktop\Groupe 6\Groupe 6\data.csdb
+<File>          FICHIER=
+
+Date            Feb 22, 2018
+Start Time      16:15:03
+End Time        16:15:33
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\hp\Desktop\Groupe 6\Groupe 6\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\hp\Desktop\Groupe 6\Groupe 6\data.csdb
+<File>          FICHIER=
+
+Date            Feb 22, 2018
+Start Time      16:20:25
+End Time        16:25:11
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            6   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    109       1    -   le numéro de Ménage ne peut pas être 0                  -
+    144       1    -   L'individu  N° %d (%s) a été indiqué comme étant        -
+    166       1    -   Le prénom n'est pas bien écrit                          -
+    285       1    -   le numero saisi est incorrecte,Veuillez rectifier       -
+    354       1    -   vos reponses doit etre parmis les reponses propos       -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     D:\ITS2\programme\Groupe 6\Groupe 6\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> D:\ITS2\programme\Groupe 6\Groupe 6\data.csdb
+<File>          FICHIER=
+
+Date            May 19, 2018
+Start Time      16:16:32
+End Time        16:19:55
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     D:\ITS2\programme\Groupe 6\Groupe 6\formulaire.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> D:\ITS2\programme\Groupe 6\Groupe 6\data.csdb
+<File>          FICHIER=
+
+Date            Jul  2, 2019
+Start Time      07:37:11
+End Time        07:37:36
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------

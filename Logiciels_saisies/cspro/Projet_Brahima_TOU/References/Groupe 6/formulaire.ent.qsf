@@ -1,0 +1,969 @@
+﻿[CAPI QUESTIONS]
+Version=CSPro 7.0
+
+[LANGUAGES]
+ENG=English
+
+[QUESTION]
+Field=PROJET_DICT.AGE
+Occurrences=1:10
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 Donnez son \'e2ge\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.CHEF_EQUIPE
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 Donner le n\'b0 du Chef d'\'e9quipe\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.ENQUETEUR
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 Donner le n\'b0 de l'Enqueteur\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.HEURE1
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 Donner l'Heur de D\'e9but de l'interview\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.I_1
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1 
+ENG=\pard\cf1\fs24 I.1.  Donnez Sexe de la personne interview\'e9e\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.I_10
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 I.10. Par rapport \'e0 l\rquote ann\'e9e pr\'e9c\'e9dente, vos revenus ont-ils augment\'e9, diminu\'e9 ou demeur\'e9 stables ?\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.I_11_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 I.11. Indiquez l\rquote importance des sources suivantes dans vos revenus (tr\'e8s, assez, peu ou pas du tout importante) ? \par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.I_12_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 I.12. Durant la derni\'e8re ann\'e9e, vous est-il arriv\'e9 de manquer d\rquote argent pour payer les d\'e9penses suivantes (souvent, \'e0 l\rquote occasion ou jamais)\'85?\par
+ENG=\cf2  Lisez les \'e9nonc\'e9s suivants et cochez les r\'e9ponses appropri\'e9es\cf1 .\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.I_2
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\fs24 I.2. Quelle est la taille de votre m\'e9nage incluant vous-m\'eame ? \par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.I_3
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\fs24 I.3. Quelle est votre situation matrimoniale?\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.I_4
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\fs24 I.4. Donnez la  tranche d\rquote\'e2ge vous situez-vous ? \par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.I_5
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\fs24 I.5. Quel est votre niveau d\rquote instruction ? \par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.I_6
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Tahoma;}{\f1\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 I.6.   Quelle est votre profession? \f1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.I_6_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}{\f1\fnil\fcharset0 Tahoma;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 Pr\'e9cisez l'autre profession\f1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.I_7
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 I.7. \'cates-vous actuellement actif sur le march\'e9 du travail ? \par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.I_8
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 I.8.    Dans quel secteur d\rquote activit\'e9 ?\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.I_9
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 I.9.  Quel a \'e9t\'e9 votre revenu mensuel moyen au cours de la derni\'e8re ann\'e9e ? \par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.I_I13_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 I.13. \'cates-vous d\rquote accord ou en d\'e9saccord avec les \'e9nonc\'e9s suivants\'85.? \par
+ENG=\cf2 Lisez les \'e9nonc\'e9s suivants et cochez les r\'e9ponses appropri\'e9es. \cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.II_1
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 II.1. Quelles Banques implant\'e9es au S\'e9n\'e9gal connaissez-vous?\par
+ENG=\cf2 Cochez les r\'e9ponses donn\'e9es par le r\'e9pondant. Prendre trois (3) r\'e9ponses maximum.\cf1  \par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.II_2
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 II.2. Quels syst\'e8mesfinanciers d\'e9centralis\'e9s ou SFD (institutions de microfinance, mutuelleset coop\'e9ratives d\rquote\'e9pargne et de cr\'e9dit)implant\'e9s au S\'e9n\'e9gal connaissez-vous? \par
+ENG=\cf2 Cochez les r\'e9ponses donn\'e9es par le r\'e9pondant. Prendre trois (3) r\'e9ponses maximum.\cf1  \par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.II_3
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 II.3.  Connaissez-vous les services financiers offerts par la Poste?\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.II_4_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 II.4. Connaissez-vous la signification des termes suivants...? \par
+ENG=\cf2 Lisez les \'e9nonc\'e9s suivants et cochez les r\'e9ponses appropri\'e9es.\cf1  \par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.II_5_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 II.5. \'cates-vous plut\'f4t d\rquote accord ou en d\'e9saccord avec les \'e9nonc\'e9s suivants\'85? \par
+ENG=\cf2 Lisez les \'e9nonc\'e9s suivants et cochez les r\'e9ponses appropri\'e9es. \cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.II_6_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 II.6.   Avez-vous d\'e9j\'e0 suivi une formation sur les th\'e8mes suivants\'85?  \par
+ENG=\cf2  Lisez les \'e9nonc\'e9s suivants et cochez les r\'e9ponses appropri\'e9es\cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.III_1_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 III.1. D\rquote une mani\'e8re g\'e9n\'e9rale, diriez-vous que l\rquote acc\'e8s aux points de service des structures suivantes est tr\'e8s facile, facile, moyennement facile, difficile ou tr\'e8s difficile ? \par
+ENG=\cf2  Lisez les \'e9nonc\'e9s suivants et cochez les r\'e9ponses appropri\'e9es.\cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.III_2_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 III.2. A quelle distance de votre domicile se trouve le point de service le plus proche ?\par
+ENG=\cf2  Lisez les \'e9nonc\'e9s suivants et cochez les r\'e9ponses appropri\'e9es.\cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.III_3_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 III.3. Quel est le temps n\'e9cessaire pour aller de votre domicile au point de service le plus proche ? \par
+ENG=\cf2 Lisez les \'e9nonc\'e9s suivants et cochez les r\'e9ponses appropri\'e9es.\cf1  \par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.III_4_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 III.4. Est-ce que les horaires d\rquote ouverture et de fermeture des structures suivantes vous arrangent ?\par
+ENG=\cf2  Lisez les \'e9nonc\'e9s suivants et cochez les r\'e9ponses appropri\'e9es.\cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.III_5_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 III.5. Pouvez-vous utiliser unmoyen de transport public pour vous rendre aux endroits suivants\'85? \par
+ENG=\cf2 Lisez les \'e9nonc\'e9s suivants et cochez les r\'e9ponses appropri\'e9es. \cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.IV_1_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 IV.1. Poss\'e9dez-vous\'85? \par
+ENG=\cf2 Lisez les \'e9nonc\'e9s suivants et cochez les r\'e9ponses appropri\'e9es.\cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.IV_2_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 IV.2. A quelle fr\'e9quence utilisez-vous les moyens suivants pour payer vos achats et vos factures (souvent, \'e0 l\rquote occasion ou jamais) ? \par
+ENG=\cf2 Lisez les \'e9nonc\'e9s suivants et cochez les r\'e9ponses appropri\'e9es. \cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.IX_10
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 IX.10. Au cours des 12 derniers mois, avez-vous soumis une r\'e9clamation \'e0 votre assureur ?\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.IX_11_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 IX.11. \'cates-vous tr\'e8s satisfait, assez satisfait ou pas du tout satisfait des conditions suivantes de traitement de votre r\'e9clamation par l\rquote assureur?  \par
+ENG=\cf2 Lisez les \'e9nonc\'e9s suivants et cochez les r\'e9ponses appropri\'e9es.\cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.IX_1_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 IX.1. Quelles compagnies d\rquote assurance implant\'e9es au S\'e9n\'e9gal connaissez-vous ?\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.IX_2
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}{\f1\fnil\fcharset2 Wingdings;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 IX.2. Souscrivez-vous pr\'e9sentement \'e0 une police d\rquote assurance ou \'eates-vous couvert par une police d\rquote assurance? \f1 q\f0\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.IX_3
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 IX.3.  \'cates-vous int\'e9ress\'e9 \'e0 acheter une police d\rquote assurance ? \par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.IX_4_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 IX.4. Quels types de risques voudriez-vous faire couvrir par votre police d\rquote assurance ? \par
+ENG=\cf2 Cochez les r\'e9ponses donn\'e9es par le r\'e9pondant. Prendre trois (3) r\'e9ponses maximum.\cf1  \par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.IX_5_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 IX.5. Citez trois (3) raisons pour lesquelles vous n\rquote\'eates pas assur\'e9. \par
+ENG=\cf2 Cochez les r\'e9ponses donn\'e9es par le r\'e9pondant. Prendre trois (3) r\'e9ponses maximum.\cf1  \par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.IX_6
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 IX.6. Comment avez-vous acc\'e9d\'e9 \'e0 votre assurance ? \par
+ENG=\cf2 Cochez la ou les r\'e9ponses appropri\'e9es. \cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.IX_7
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 IX.7. Depuis combien de temps souscrivez-vous \'e0 une police d\rquote assurance ou \'eates-vous couvert ? \par
+ENG=\cf2 Cochez la r\'e9ponse appropri\'e9e.\cf1  \par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.IX_8_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 IX.8. Quels types de risques sont couverts par votre (vos) police(s) d\rquote assurance ? \par
+ENG=\cf2 Cochez les r\'e9ponses appropri\'e9es. R\'e9ponses multiples accept\'e9es.\cf1  \par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.IX_9
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 IX.9.  A part vous, combien d\rquote autres membres de votre famille sont couverts par cette(ces) police(s) ? \par
+ENG= \par
+ENG=\cf2 Cochez la r\'e9ponse appropri\'e9e.\cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.JOUR1
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 Donner la Date de l'interview\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.JOUR2
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 Donner la Date du controle\par
+ENG=\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.NOM_CM
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 Donner le Nom du Chef de M\'e9nage\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.NUM_QUEST
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}{\f1\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 Donnez le num\'e9ro du questionnaire\f1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.NUM_TEL1
+Occurrences=1:3
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 Donner le n\'b0 de t\'e9l\'e9phone 1 de l'Enqu\'eat\'e9\par
+ENG=\cf2 Si l'Enqu\'eat\'e9 n'a pas de num\'e9ro mettez 999999999 pour passer\cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.NUM_TEL2
+Occurrences=1:3
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 Donner le n\'b0 de t\'e9l\'e9phone 2 de l'Enqu\'eat\'e9\par
+ENG=\cf2 Si l'Enqu\'eat\'e9 n'a pas de num\'e9ro mettez 999999999 pour passer\cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.O_1
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 Donner la R\'e9gion\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.O_2
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 Donner le D\'e9partement\par
+ENG=\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.O_3
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 Donner l'arrondissement\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.O_4
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 Donner la Commune\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.O_5
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 Donner le  N\'b0 DR_RGPHAE \par
+ENG=\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.O_6
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 Donner le  N\'b0 DR _EIFIS \par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.O_7
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 Donner le Quartier\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.O_8
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 Donner le Milieu\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.O_9
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 Donner le Num\'e9ro du M\'e9nage\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.PRENOM_ET_NOMS
+Occurrences=1:10
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 Donnez le nom et  le pr\'e9nom des Membre du M\'e9nage\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.RESULT_VISITE
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 Quel est le R\'e9sultat de la Visite\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.V_1
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 V.1. Est-ce que vous arrivez \'e0 \'e9pargner (mettre de l\rquote argent de c\'f4t\'e9) sur une base r\'e9guli\'e8re ?\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.V_10_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 V.10. Indiquez si vous poss\'e9dez ce type de compte : \par
+ENG=\cf2 Lisez les \'e9nonc\'e9s suivants et cochez les r\'e9ponses appropri\'e9es. \cf1\par
+ENG=\cf3 Assurez-vous de couvrir tous les comptes d\'e9clar\'e9s \'e0 la question V.9. \cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.V_11_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 V.11.  Citez trois (3) raisons pour lesquelles vous avez ouvert un compte. \par
+ENG=\cf2\fs18 NE LISEZ PAS LES CHOIX DE R\'c9PONSE. \cf1\fs24\par
+ENG=\cf3 Cochez les r\'e9ponses donn\'e9es par le r\'e9pondant. Prendre trois (3) r\'e9ponses maximum. \cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.V_12_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24\par
+ENG= V.12.\'c0 quelle fr\'e9quence faites-vous les transactions suivantes dans votre compte (souvent, \'e0 l\rquote occasion ou jamais) ? \par
+ENG=\cf2  Lisez les \'e9nonc\'e9s suivants et cochez les r\'e9ponses appropri\'e9es. \par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.V_13_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 V.13.\'cates-vous tr\'e8s satisfait, assez satisfait ou pas du tout satisfait des conditions suivantes offertes par les institutions financi\'e8res ou par la Poste ? \par
+ENG=\cf2  Lisez les \'e9nonc\'e9s suivants et cochez les r\'e9ponses appropri\'e9es. \cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.V_14
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 V.14.  Avez-vous d\'e9j\'e0 formul\'e9 une r\'e9clamation aupr\'e8s de votre institution financi\'e8re ?\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.V_15
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 V.15.   Au cours des 12 derniers mois, avez-vous chang\'e9 d\rquote institution financi\'e8re?\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.V_16
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 V.16   Au cours des 12 derniers mois, avez-vous ferm\'e9 un compte dans une institution financi\'e8re? \par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.V_2_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 V.2. O\'f9 gardez-vous votre \'e9pargne, votre argent? \par
+ENG=\cf2 Cochez les r\'e9ponses donn\'e9es par le r\'e9pondant.  Prendre trois (3) r\'e9ponses maximum.\cf1  \par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.V_3
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 V.3. Avez-vous un compte dans une institution financi\'e8re ou \'e0 la Poste? \par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.V_4
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 V.4  \'cates-vous int\'e9ress\'e9 \'e0 ouvrir un compte dans une institution financi\'e8re ou \'e0 la Poste ?\par
+ENG=\cf2  Cochez la r\'e9ponse appropri\'e9e.\cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.V_5_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 V.5. Citez les trois (3) principales raisons ou conditions pour lesquelles vous n\rquote avez pas ouvert un compte dans une institutionfinanci\'e8re ou \'e0 la Poste.?\par
+ENG=\cf2 Cochez les r\'e9ponses donn\'e9es par le r\'e9pondant. Prendre trois (3) r\'e9ponses maximum.\cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.V_6
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 V.6. Vous arrive-t-il d\rquote utiliser le compte d\rquote une autre personne pour effectuer des transactions bancaires ? \par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.V_7_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 V.7.  Citez les trois (3) principaux crit\'e8res qui vous ont guid\'e9dans le choix d\rquote une institution financi\'e8re.\par
+ENG=\cf2 Cochez les r\'e9ponses donn\'e9es par le r\'e9pondant. Prendre trois (3) r\'e9ponses maximum. \par
+ENG=\cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.V_8
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 V.8. Depuis combien de temps avez-vous un compte dans une institution financi\'e8re ou \'e0 la Poste? \par
+ENG=\cf2 Cochez la r\'e9ponse appropri\'e9e. \cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.V_9_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 V.9. Combien de comptes avez-vous ? \par
+ENG=\cf2 Lisez les \'e9nonc\'e9s suivants et indiquez le nombre de comptes d\'e9tenus dans chaque type d\rquote institution.\cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.VI_1
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 VI.1. Au cours des 12 derniers mois, avez-vous demand\'e9 un cr\'e9dit ou un d\'e9couvert dans une institution financi\'e8re ? \par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.VI_2_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 VI.2. Citez trois (3) raisons vous ayant emp\'each\'e9 ou d\'e9courag\'e9 de demander un cr\'e9dit. \par
+ENG=\cf2 Cochez les r\'e9ponses donn\'e9es par le r\'e9pondant. Prendre trois (3) r\'e9ponses maximum.\cf1  \par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.VI_3
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 VI.3. Votre demande de cr\'e9ditou de d\'e9couvert a-t-elle \'e9t\'e9 accept\'e9e ?\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.VI_4_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 VI.4. Pour quelle(s) raison(s) votre demande a-t-elle \'e9t\'e9 refus\'e9e ? \par
+ENG=\cf2 Cochez les r\'e9ponses donn\'e9es par le r\'e9pondant. Prendre trois (3) r\'e9ponses maximum. \cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.VI_5_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 VI.5. Au cours des 12 derniers mois, combien de cr\'e9dit(s) avez-vous obtenu(s) ? \par
+ENG=\cf2  Lisez les \'e9nonc\'e9s suivants et cochez les r\'e9ponses appropri\'e9es.\cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.VI_6_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 VI.6. De quel(s) type(s) de cr\'e9dit s\rquote agit-il ? \par
+ENG=\cf2 Cochez la r\'e9ponse appropri\'e9e pour chacun des cr\'e9dits obtenus.\cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.VI_7_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 VI.7. Quelle est la dur\'e9e de ce(s) cr\'e9dit(s) ?\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.VI_8_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 VI.8. Quel est le montant de ce(s) cr\'e9dit(s) ? \par
+ENG=\cf2 Cochez la case appropri\'e9e (X) pour chacun des cr\'e9dits obtenus.\cf1  \par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.VI_9_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 VI.9.  \'cates-vous tr\'e8s satisfait, assez satisfait ou pas du tout satisfait des conditions offertes par les institutions financi\'e8res concernant le cr\'e9dit ?\par
+ENG=\cf2  Lisez les \'e9nonc\'e9s suivants et cochez les r\'e9ponses appropri\'e9es.\cf1  \par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.VII_1_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 VII.1.Au cours des 12 derniers mois, combien de fois avez-vous re\'e7u ou envoy\'e9 des transferts d\rquote argent \'e0 l\rquote int\'e9rieur du pays\'85..? \par
+ENG=\cf2  Lisez les \'e9nonc\'e9s suivants et cochez la r\'e9ponse appropri\'e9e.\cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.VII_2
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 VII.2.  Quel est le montant envoy\'e9 ou re\'e7u de l\rquote int\'e9rieur du pays \'e0 chaque fois en moyenne ? \par
+ENG=\cf2 Cochez la r\'e9ponse appropri\'e9e.\cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.VII_3_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 VII.3.Au cours des 12 derniers mois, combien de fois avez-vous re\'e7u ou envoy\'e9 des transferts d\rquote argent \'e0 l\rquote ext\'e9rieur du pays\'85.? \par
+ENG=\cf2  Lisez les \'e9nonc\'e9s suivants et cochez la r\'e9ponse appropri\'e9e.\cf1  \par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.VII_4
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 VII.4.   Quel est le montant envoy\'e9 ou re\'e7u de l\rquote ext\'e9rieur du pays \'e0 chaque fois en moyenne ? \par
+ENG=\cf2 Cochez la r\'e9ponse appropri\'e9e. \cf1\par
+ENG= \par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.VII_5_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 VII.5\'cates-vous tr\'e8s satisfait, assez satisfait ou pas du tout satisfait des conditions suivantes offertes par les   institutions financi\'e8res pour recevoir ou envoyer de l\rquote argent ? \par
+ENG=\cf2 Lisez les \'e9nonc\'e9s suivants et cochez la r\'e9ponse appropri\'e9e.\cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.VIII_1_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 VIII.1.  Poss\'e9dez-vous un compte de monnaie \'e9lectronique (mobile banking) aupr\'e8s des soci\'e9t\'e9s suivantes ?  \par
+ENG=\cf2 Lisez les \'e9nonc\'e9s suivants et cochez les r\'e9ponses appropri\'e9es.\cf1  \par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.VIII_2
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24\par
+ENG= VIII.2.  \'cates-vous int\'e9ress\'e9 \'e0 ouvrir un compte de monnaie \'e9lectronique ? \par
+ENG=\cf2 Cochez la r\'e9ponse appropri\'e9e\cf1 .\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.VIII_3_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 VIII.3.  Citez trois (3) raisons ou conditions qui vous emp\'eachent ou vous d\'e9couragent d\rquote utiliser les services de monnaie \'e9lectronique (mobile banking).\par
+ENG=\cf2 Cochez les r\'e9ponses donn\'e9es par le r\'e9pondant. Prendre trois (3) r\'e9ponses maximum. \cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.VIII_4_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 VIII.4.   A quelle fr\'e9quence faites-vous les op\'e9rations suivantes \'e0 partir de votre compte de monnaie \'e9lectronique         (souvent, \'e0 l\rquote occasion ou jamais) ? \par
+ENG=\cf2  Lisez les \'e9nonc\'e9s suivants et cochez les r\'e9ponses appropri\'e9es.\cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.VIII_5_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 VIII.5.\'cates-vous tr\'e8s satisfait, assez satisfait ou pas du tout satisfait des conditions suivantes offertes par les   soci\'e9t\'e9s de monnaie \'e9lectronique (mobile banking) ?    \par
+ENG=\cf2 Lisez les \'e9nonc\'e9s suivants et cochez la r\'e9ponse appropri\'e9e.\cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.VIII_6_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 VIII.6.Avez-vous d\'e9j\'e0 formul\'e9 une r\'e9clamation aupr\'e8s de votre fournisseur de monnaie \'e9lectronique ?\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.X_1_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\fs24 X.1. Au cours des 12 derniers mois, \'e0 quelle fr\'e9quence (souvent, \'e0 l\rquote occasion ou jamais) avez-vous \'e9pargn\'e9 ?\par
+ENG=\cf2\f1  Lisez les \'e9nonc\'e9s suivants et cochez les r\'e9ponses appropri\'e9es.\cf1\f0  \par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.X_2
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}{\f1\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 X.2. Quel montant \'e9pargnez-vous chaque semaine dans ce(s) syst\'e8me(s) ? \f1\par
+ENG=\cf2 Cochez la r\'e9ponse appropri\'e9e.\cf1  \par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.X_3_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 X.3. Au cours des 12 derniers mois, avez-vous obtenu un cr\'e9dit ou emprunt\'e9 de l\rquote argent aupr\'e8s de\'85?\par
+ENG=\cf2  Lisez les \'e9nonc\'e9s suivants et cochez les r\'e9ponses appropri\'e9es.\cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.X_4
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 X.4. Avez-vous plus, moins ou autant confiance dans ces syst\'e8mes informels que dans les institutions financi\'e8res pour vos op\'e9rations d\rquote\'e9pargne et de cr\'e9dit ? \par
+ENG=\cf2 Cochez la r\'e9ponse appropri\'e9e. \cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.XI_1
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 XI.1.  \'cates-vous un exploitant agricole \par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.XI_10
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 XI.10.  Quel est approximativement le chiffre d\rquote affaires annuel (recettes totales) g\'e9n\'e9r\'e9 par votre entreprise ou par  vos activit\'e9s g\'e9n\'e9ratrices de revenus ? \par
+ENG=\cf2 Cochez la r\'e9ponse appropri\'e9e. \cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.XI_11
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 XI.11. Quelles sont les sources de financement de votre entreprise ou de vos activit\'e9s g\'e9n\'e9ratrices de revenus ?  \par
+ENG=\cf2 Cochez les cases appropri\'e9es. Prendre trois (3) r\'e9ponses maximum.\cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.XI_12
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 XI.12.  Avez-vous pr\'e9sentement des besoins de financement qui ne sont pas satisfaits, que ce soit pour  des usages personnels ou pour d\'e9velopper vos activit\'e9s ?\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.XI_2_A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 XI.2.  Travaillez-vous dans les fili\'e8res agricoles suivantes?   \par
+ENG=\cf2 Lisez les \'e9nonc\'e9s suivants et cochez les r\'e9ponses appropri\'e9es.\cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.XI_3
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 XI.3. Quelles sont les principales contraintes ou difficult\'e9s rencontr\'e9es pour accro\'eetre le volume et am\'e9liorer la qualit\'e9 de vos productions agricoles ? \par
+ENG=\cf2 Cochez les cases appropri\'e9es. Prendre trois (3) r\'e9ponses maximum.\cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.XI_4
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 XI.4. Comment financez-vous vos activit\'e9s agricoles?\par
+ENG=\cf2 Cochez les cases appropri\'e9es. Prendre trois (3) r\'e9ponses maximum\cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.XI_5
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 XI.5. A qui vendez-vous vos produits agricoles ? \par
+ENG=\cf2 Cochez les cases appropri\'e9es. Prendre trois (3) r\'e9ponses maximum\cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.XI_6
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 XI.6. Quelles sont les principales contraintes ou difficult\'e9s rencontr\'e9es au moment de commercialiser et vendre vos produits ?\par
+ENG=\cf2 Cochez les cases appropri\'e9es. Prendre trois (3) r\'e9ponses maximum\cf1\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.XI_7
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 XI.7.  \'cates-vous propri\'e9taire ou dirigeant d\rquote une micro, petite ou moyenne entreprise?\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.XI_8
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 XI.8. Conduisez-vous des activit\'e9s g\'e9n\'e9ratrices de revenus \'e0 votre propre compte ?\par
+ENG=}
+
+[QUESTION]
+Field=PROJET_DICT.XI_9
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+ENG=\pard\cf1\f0\fs24 XI.9 Dans quel(s) secteur(s)? \par
+ENG=\cf2 Cochez les cases appropri\'e9es. Prendre trois (3) r\'e9ponses maximum\cf1 .\par
+ENG=}
+

@@ -1,0 +1,357 @@
+﻿Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP\MASQUE0_EXEMPLE1.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP\DONNEES_TEST_MASQUE.csdb
+
+Date            Oct 05, 2023
+Start Time      21:55:45
+End Time        22:07:55
+
+
+System messages:
+
+  Number        Freq         Message Text                                                                               
+  ------        ----         ------------                                                                               
+   88889           1         ATTENTION: Hors valeurs valides! Entrer une valeur valide pour %s%s                        
+   99990           1         Operator entered a value out of range                                                      
+
+User numbered messages:
+
+  Number        Freq    %    Message Text                                                                          Denom
+  ------        ----  -----  ------------                                                                          -----
+       3           1      -  Le GPS est fonctionnel sur le terminal                                                    -
+
+User unnumbered messages:
+
+    Line        Freq    %    Message Text                                                                          Denom
+    ----        ----  -----  ------------                                                                          -----
+      37           1      -  Le signal GPS ne peut etre acquis                                                         -
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP - essaie\MASQUE0_EXEMPLE1.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP - essaie\DONNEES_TEST_MASQUE.csdb
+
+Date            Oct 05, 2023
+Start Time      22:15:17
+End Time        22:15:43
+
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP - essaie\MASQUE0_EXEMPLE1.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP - essaie\DONNEES_TEST_MASQUE.csdb
+
+Date            Oct 05, 2023
+Start Time      22:20:27
+End Time        22:21:22
+
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP - essaie\MASQUE0_EXEMPLE1.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP - essaie\DONNEES_TEST_MASQUE.csdb
+
+Date            Oct 05, 2023
+Start Time      22:28:12
+End Time        23:28:10
+
+
+System messages:
+
+  Number        Freq         Message Text                                                                               
+  ------        ----         ------------                                                                               
+   88889           3         ATTENTION: Hors valeurs valides! Entrer une valeur valide pour %s%s                        
+   99990           3         Operator entered a value out of range                                                      
+
+User numbered messages:
+
+  Number        Freq    %    Message Text                                                                          Denom
+  ------        ----  -----  ------------                                                                          -----
+       3          14      -  Le GPS est fonctionnel sur le terminal                                                    -
+
+User unnumbered messages:
+
+    Line        Freq    %    Message Text                                                                          Denom
+    ----        ----  -----  ------------                                                                          -----
+      37          14      -  Le signal GPS ne peut etre acquis                                                         -
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP - essaie\MASQUE0_EXEMPLE1.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP - essaie\DONNEES_TEST_MASQUE.csdb
+
+Date            Oct 05, 2023
+Start Time      23:30:56
+End Time        23:31:09
+
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP - essaie\MASQUE0_EXEMPLE1.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP - essaie\DONNEES_TEST_MASQUE.csdb
+
+Date            Oct 05, 2023
+Start Time      23:31:09
+End Time        23:32:25
+
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP - essaie\MASQUE0_EXEMPLE1.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP - essaie\DONNEES_TEST_MASQUE.csdb
+
+Date            Oct 05, 2023
+Start Time      23:35:26
+End Time        23:36:27
+
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP - essaie\MASQUE0_EXEMPLE1.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP - essaie\DONNEES_TEST_MASQUE.csdb
+
+Date            Oct 05, 2023
+Start Time      23:36:31
+End Time        23:36:51
+
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP - essaie\MASQUE0_EXEMPLE1.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP - essaie\DONNEES_TEST_MASQUE.csdb
+
+Date            Oct 05, 2023
+Start Time      23:36:53
+End Time        23:36:57
+
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP - essaie\MASQUE0_EXEMPLE1.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP - essaie\DONNEES_TEST_MASQUE.csdb
+
+Date            Oct 05, 2023
+Start Time      23:38:45
+End Time        23:39:03
+
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP - essaie\MASQUE0_EXEMPLE1.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP - essaie\DONNEES_TEST_MASQUE.csdb
+
+Date            Oct 05, 2023
+Start Time      23:40:20
+End Time        23:41:01
+
+
+System messages:
+
+  Number        Freq         Message Text                                                                               
+  ------        ----         ------------                                                                               
+    1026           1         All of the ID fields were not filled, please reenter                                       
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP - essaie\MASQUE0_EXEMPLE1.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP - essaie\DONNEES_TEST_MASQUE.csdb
+
+Date            Oct 05, 2023
+Start Time      23:42:40
+End Time        23:59:20
+
+
+System messages:
+
+  Number        Freq         Message Text                                                                               
+  ------        ----         ------------                                                                               
+    1026           1         All of the ID fields were not filled, please reenter                                       
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP2\MASQUE0_EXEMPLE1.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP2\DONNEES_TEST_MASQUE.csdb
+
+Date            Oct 06, 2023
+Start Time      00:03:04
+End Time        00:03:08
+
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP2\MASQUE0_EXEMPLE1.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP2\DONNEES_TEST_MASQUE.csdb
+
+Date            Oct 06, 2023
+Start Time      00:03:08
+End Time        00:03:11
+
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP2\MASQUE0_EXEMPLE1.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP2\DONNEES_TEST_MASQUE.csdb
+
+Date            Oct 06, 2023
+Start Time      00:03:11
+End Time        00:03:28
+
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP2\MASQUE0_EXEMPLE1.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP2\DONNEES_TEST_MASQUE.csdb
+
+Date            Oct 06, 2023
+Start Time      00:11:26
+End Time        00:11:29
+
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP2\MASQUE0_EXEMPLE1.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP2\DONNEES_TEST_MASQUE.csdb
+
+Date            Oct 06, 2023
+Start Time      00:11:29
+End Time        00:11:31
+
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP2\MASQUE0_EXEMPLE1.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP2\DONNEES_TEST_MASQUE.csdb
+
+Date            Oct 06, 2023
+Start Time      00:11:31
+End Time        00:11:33
+
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP2\MASQUE0_EXEMPLE1.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP2\DONNEES_TEST_MASQUE.csdb
+
+Date            Oct 06, 2023
+Start Time      00:11:33
+End Time        00:11:34
+
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP2\MASQUE0_EXEMPLE1.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP2\DONNEES_TEST_MASQUE.csdb
+
+Date            Oct 06, 2023
+Start Time      00:11:34
+End Time        00:14:00
+
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP2\MASQUE0_EXEMPLE1.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP2\DONNEES_TEST_MASQUE.csdb
+
+Date            Oct 06, 2023
+Start Time      00:14:00
+End Time        00:42:45
+
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP2\MASQUE0_EXEMPLE1.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP2\DONNEES_TEST_MASQUE.csdb
+
+Date            Oct 06, 2023
+Start Time      00:43:47
+End Time        00:54:28
+
+
+System messages:
+
+  Number        Freq         Message Text                                                                               
+  ------        ----         ------------                                                                               
+   88889           1         ATTENTION: Hors valeurs valides! Entrer une valeur valide pour %s%s                        
+   99990           1         Operator entered a value out of range                                                      
+
+User numbered messages:
+
+  Number        Freq    %    Message Text                                                                          Denom
+  ------        ----  -----  ------------                                                                          -----
+       3           1      -  Le GPS est fonctionnel sur le terminal                                                    -
+
+User unnumbered messages:
+
+    Line        Freq    %    Message Text                                                                          Denom
+    ----        ----  -----  ------------                                                                          -----
+      37           1      -  Le signal GPS ne peut etre acquis                                                         -
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP2\MASQUE0_EXEMPLE1.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Users\HP\Desktop\ISE2_2023_2024\Logiciels_saisies\cspro\Masque0_ISE2_2023_2024 -2-18h - TP2\DONNEES_TEST_MASQUE.csdb
+
+Date            Oct 06, 2023
+Start Time      18:11:05
+End Time        22:05:45
+
+
+User numbered messages:
+
+  Number        Freq    %    Message Text                                                                          Denom
+  ------        ----  -----  ------------                                                                          -----
+       3           1      -  Le GPS est fonctionnel sur le terminal                                                    -
+
+User unnumbered messages:
+
+    Line        Freq    %    Message Text                                                                          Denom
+    ----        ----  -----  ------------                                                                          -----
+      37           1      -  Le signal GPS ne peut etre acquis                                                         -
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------

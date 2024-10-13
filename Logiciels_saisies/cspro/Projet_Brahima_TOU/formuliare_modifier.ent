@@ -1,0 +1,15 @@
+﻿[CSPro Application]
+Version=CSPro 7.7
+Label=ENTRY
+Name=ENTRY
+AppType=DataEntry
+[AppCode]
+File=.\formuliare_modifier.ent.apc
+[Message]
+File=.\formuliare_modifier.ent.mgf
+[Help]
+File=.\formuliare_modifier.ent.qsf
+[Forms]
+File=.\formuliare_modifier.fmf
+[Dictionary Types]
+Dict-Type=.\formuliare_modifier.dcf,Input,.\formuliare_modifier.fmf

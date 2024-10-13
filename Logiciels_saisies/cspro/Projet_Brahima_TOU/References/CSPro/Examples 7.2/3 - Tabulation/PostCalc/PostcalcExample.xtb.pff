@@ -1,0 +1,17 @@
+﻿[Run Information]
+Version=CSPro 7.2
+AppType=Tabulation
+Operation=All
+
+[Files]
+Application=.\PostcalcExample.xtb
+InputData=..\..\Popstan Census\Popstan Census.dat
+OutputTBW=.\PostcalcExample.xtb.tbw
+Listing=.\PostcalcExample.xtb.lst
+
+
+[Parameters]
+ViewListing=OnError
+ViewResults=No
+InputOrder=Sequential
+

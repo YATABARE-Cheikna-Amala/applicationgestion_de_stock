@@ -1,0 +1,6047 @@
+﻿[FormFile]
+Version=CSPro 7.0
+Name=PROJET_FF
+Label=formulaire
+DefaultTextFont=-017 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+FieldEntryFont=-018 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0049 Courier New
+Type=SystemControlled
+  
+[Dictionaries]
+File=.\projet.dcf
+  
+[Form]
+Name=FORM000
+Label=(Id Items)
+Level=1
+Size=999,467
+  
+Item=NUM_QUEST
+  
+Box=113,67,962,275,Etched
+Box=110,61,967,277,Etched
+Box=105,59,974,278,Etched
+Box=100,52,964,281,Etched
+Box=107,48,972,282,Etched
+  
+[Text]
+Name=TEXT79
+Position=236,76,827,144
+Text=ENQUÊTE NATIONALE
+Form=1
+Font=-048 0000 0000 0000 0900 0255 0000 0000 0000 0003 0002 0001 0034 Arial Black
+ 
+  
+[Text]
+Name=TEXT80
+Position=120,140,942,208
+Text=SUR L’INCLUSION FINANCIÈRE
+Form=1
+Font=-048 0000 0000 0000 0900 0255 0000 0000 0000 0003 0002 0001 0034 Arial Black
+ 
+  
+[Text]
+Name=TEXT81
+Position=289,201,636,269
+Text=AU SÉNÉGAL
+Form=1
+Font=-048 0000 0000 0000 0900 0255 0000 0000 0000 0003 0002 0001 0034 Arial Black
+ 
+[EndForm]
+  
+[Form]
+Name=FORM001
+Label=SECTION 0 : IDENTIFICATION DU MÉNAGE
+Level=1
+Size=1019,1420
+  
+Item=O_1
+Item=O_2
+Item=O_3
+Item=O_4
+Item=O_5
+Item=O_6
+Item=O_7
+Item=O_8
+Item=O_9
+Item=MEMBRE_MENAGE000
+Item=NOM_CM
+Item=HEURE1
+Item=MINUTES1
+Item=ENQUETEUR
+Item=CHEF_EQUIPE
+Item=RESULT_VISITE
+Item=COORD_REF000
+Item=JOUR1
+Item=MOIS1
+Item=ANNEE1
+Item=JOUR2
+Item=MOISA
+Item=ANNEE2
+  
+Box=251,49,731,119,Thick
+Box=46,154,994,1395,Thick
+  
+[Text]
+Name=TEXT82
+Position=67,1134,397,1153
+Text=Coordonnées des personnes de référence
+Form=2
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT83
+Position=277,72,669,95
+Text=SECTION 0 : IDENTIFICATION DU MÉNAGE
+Form=2
+Font=-019 0000 0000 0000 0700 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT84
+Position=73,924,304,943
+Text=12.Date de l'interview (jj/mm/aa)
+Form=2
+ 
+  
+[Text]
+Name=TEXT85
+Position=74,962,299,981
+Text=13.Date de contrôle  (jj/mm/aa)
+Form=2
+ 
+[EndForm]
+  
+[Form]
+Name=FORM003
+Label=I.SITUATIONS SOCIO-ECONOMIQUE
+Level=1
+Size=1084,1491
+  
+Item=I_1
+Item=I_2
+Item=I_3
+Item=I_4
+Item=I_5
+Item=I_6
+Item=I_6_A
+Item=I_7
+Item=I_8
+Item=I_8_A
+Item=I_9
+Item=I_10
+Item=I_11_A
+Item=I_11_B
+Item=I_11_C
+Item=I_11_D
+Item=I_11_E
+Item=I_11_F
+Item=I_11_G
+Item=I_11_H
+Item=I_11_I
+Item=I_11_J
+Item=I_11_K
+Item=I_12_A
+Item=I_12_B
+Item=I_12_C
+Item=I_12_D
+Item=I_12_E
+Item=I_12_F
+Item=I_12_G
+Item=I_I13_A
+Item=I_13_B
+Item=I_13_C
+  
+Box=205,16,721,86,Thick
+Box=31,120,1059,1466,Thick
+  
+[Text]
+Name=TEXT1
+Position=215,36,709,62
+Text=SECTION I – SITUATION SOCIOÉCONOMIQUE
+Form=3
+Font=-023 0000 0000 0000 0700 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT2
+Position=48,606,945,625
+Text=I.11. Indiquez l’importance des sources suivantes dans vos revenus (très, assez, peu ou pas du tout importante) ?
+Form=3
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT3
+Position=90,629,553,648
+Text=Lisez les énoncés suivants et cochez les réponses appropriées.
+Form=3
+ 
+  
+[Text]
+Name=TEXT4
+Position=51,1006,683,1044
+Text=I.12. Durant la dernière année, vous est-il arrivé de manquer d’argent pour payer\n             les dépenses suivantes (souvent, à l’occasion ou jamais)…?\n
+Form=3
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT5
+Position=125,1049,496,1065
+Text=Lisez les énoncés suivants et cochez les réponses appropriées.
+Form=3
+Font=-013 0000 0000 0000 0400 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT6
+Position=87,1332,458,1348
+Text=Lisez les énoncés suivants et cochez les réponses appropriées.
+Form=3
+Font=-013 0000 0000 0000 0400 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT7
+Position=50,1307,618,1326
+Text=I.13. Êtes-vous d’accord ou en désaccord avec les énoncés suivants….?
+Form=3
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+[EndForm]
+  
+[Form]
+Name=FORM004
+Label=II.CONNAISSANCE DES SERVICES FINANCIERS / ÉDUCATION FINANCIÈRE
+Level=1
+Size=1052,1406
+  
+Item=II_1
+Item=II_1A
+Item=II_2
+Item=II_2A
+Item=II_3
+Item=II_4_A
+Item=II_4_B
+Item=II_4_C
+Item=II_4_D
+Item=II_4_E
+Item=II_4_F
+Item=II_4_G
+Item=II_4_H
+Item=II_4_I
+Item=II_4_J
+Item=II_4_K
+Item=II_4_L
+Item=II_4_M
+Item=II_5_A
+Item=II_5_B
+Item=II_5_C
+Item=II_5_D
+Item=II_5_E
+Item=II_5_F
+Item=II_5_G
+Item=II_5_H
+Item=II_6_A
+Item=II_6_B
+Item=II_6_C
+Item=II_6_D
+Item=II_6_E
+Item=II_6_F
+Item=II_6_G2
+  
+Box=40,12,1018,71,Thick
+Box=16,89,1027,1381,Thick
+  
+[Text]
+Name=TEXT8
+Position=48,32,988,58
+Text=SECTION II – CONNAISSANCE DES SERVICES FINANCIERS / ÉDUCATION FINANCIÈRE
+Form=4
+Font=-023 0000 0000 0000 0700 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT9
+Position=50,179,787,217
+Text=II.2. Quels systèmesfinanciers décentralisés ou SFD (institutions de microfinance, mutuelleset \n            coopératives d’épargne et de crédit)implantés au Sénégal connaissez-vous?\n
+Form=4
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT10
+Position=103,220,305,236
+Text=Ne lisez pas les choix de réponses
+Form=4
+Font=-013 0000 0000 0000 0400 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT11
+Position=52,316,524,335
+Text=II.4. Connaissez-vous la signification des termes suivants...?
+Form=4
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT12
+Position=107,337,309,353
+Text=Ne lisez pas les choix de réponses
+Form=4
+Font=-013 0000 0000 0000 0400 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT13
+Position=110,801,481,817
+Text=Lisez les énoncés suivants et cochez les réponses appropriées.
+Form=4
+Font=-013 0000 0000 0000 0400 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT14
+Position=109,1123,480,1139
+Text=Lisez les énoncés suivants et cochez les réponses appropriées.
+Form=4
+Font=-013 0000 0000 0000 0400 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT15
+Position=53,780,662,799
+Text=II.5. Êtes-vous plutôt d’accord ou en désaccord avec les énoncés suivants…?
+Form=4
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT16
+Position=52,1097,576,1116
+Text=II.6. Avez-vous déjà suivi une formation sur les thèmes suivants…?
+Form=4
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+[EndForm]
+  
+[Form]
+Name=FORM005
+Label=III.ACCÈS PHYSIQUE AUX SERVICES FINANCIERS
+Level=1
+Size=991,1330
+  
+Item=III_1_A
+Item=III_1_B
+Item=III_1_C
+Item=III_1_D
+Item=III_1_E
+Item=III_2_A
+Item=III_2_B
+Item=III_2_C
+Item=III_2_D
+Item=III_2_E
+Item=III_3_A
+Item=III_3_B
+Item=III_3_C
+Item=III_3_D
+Item=III_3_E
+Item=III_4_A
+Item=III_4_B
+Item=III_4_C
+Item=III_4_D
+Item=III_4_E
+Item=III_5_A
+Item=III_5_B
+Item=III_5_C
+Item=III_5_D
+Item=III_5_E
+Item=III_5_F
+  
+Box=149,7,851,61,Thick
+Box=11,75,966,1305,Thick
+  
+[Text]
+Name=TEXT17
+Position=162,21,828,47
+Text=SECTION III – ACCÈS PHYSIQUE AUX SERVICES FINANCIERS
+Form=5
+Font=-023 0000 0000 0000 0700 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT18
+Position=47,84,750,122
+Text=III.1. D’une manière générale, diriez-vous que l’accès aux points de service des structures\n           suivantes est très facile, facile, moyennement facile, difficile ou très difficile ?\n
+Form=5
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT19
+Position=123,127,494,143
+Text=Lisez les énoncés suivants et cochez les réponses appropriées.
+Form=5
+Font=-013 0000 0000 0000 0400 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT20
+Position=46,328,712,347
+Text=III.2. A quelle distance de votre domicile se trouve le point de service le plus proche ?
+Form=5
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT21
+Position=48,583,813,602
+Text=III.3. Quel est le temps nécessaire pour aller de votre domicile au point de service le plus proche ?
+Form=5
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT22
+Position=50,816,829,835
+Text=III.4. Est-ce que les horaires d’ouverture et de fermeture des structures suivantes vous arrangent ?
+Form=5
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT23
+Position=49,1048,825,1067
+Text=III.5. Pouvez-vous utiliser un moyen de transport public pour vous rendre aux endroits suivants…?
+Form=5
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT24
+Position=99,358,470,374
+Text=Lisez les énoncés suivants et cochez les réponses appropriées.
+Form=5
+Font=-013 0000 0000 0000 0400 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT25
+Position=108,608,479,624
+Text=Lisez les énoncés suivants et cochez les réponses appropriées.
+Form=5
+Font=-013 0000 0000 0000 0400 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT26
+Position=103,841,474,857
+Text=Lisez les énoncés suivants et cochez les réponses appropriées.
+Form=5
+Font=-013 0000 0000 0000 0400 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT27
+Position=99,1075,470,1091
+Text=Lisez les énoncés suivants et cochez les réponses appropriées.
+Form=5
+Font=-013 0000 0000 0000 0400 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+[EndForm]
+  
+[Form]
+Name=FORM006
+Label=IV.ACCÈS ET UTILISATION DES MOYENS DE PAIEMENT
+Level=1
+Size=1024,694
+  
+Item=IV_1_A
+Item=IV_1_B
+Item=IV_1_C
+Item=IV_1_D
+Item=IV_1_E
+Item=IV_1_F
+Item=IV_1_G
+Item=IV_2_A
+Item=IV_2_B
+Item=IV_2_C
+Item=IV_2_D
+Item=IV_2_E
+Item=IV_2_F
+Item=IV_2_G
+  
+Box=143,11,924,71,Thick
+Box=36,89,999,669,Thick
+  
+[Text]
+Name=TEXT28
+Position=164,31,895,57
+Text=SECTION IV – ACCÈS ET UTILISATION DES MOYENS DE PAIEMENT
+Form=6
+Font=-023 0000 0000 0000 0700 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT29
+Position=51,96,237,115
+Text=IV.1. Possédez-vous…?
+Form=6
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT30
+Position=101,118,472,134
+Text=Lisez les énoncés suivants et cochez les réponses appropriées.
+Form=6
+Font=-013 0000 0000 0000 0400 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT31
+Position=110,412,481,428
+Text=Lisez les énoncés suivants et cochez les réponses appropriées.
+Form=6
+Font=-013 0000 0000 0000 0400 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT32
+Position=51,368,684,406
+Text=IV.2. A quelle fréquence utilisez-vous les moyens suivants pour payer vos achats\n             et vos factures (souvent, à l’occasion ou jamais) ?\n
+Form=6
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+[EndForm]
+  
+[Form]
+Name=FORM007
+Label=V.ACCÈS ET UTILISATION DE L’ÉPARGNE
+Level=1
+Size=1092,2111
+  
+Item=V_1
+Item=V_2_A
+Item=V_2_B
+Item=V_3
+Item=V_4
+Item=V_5_A
+Item=V_5_B
+Item=V_6
+Item=V_6_A
+Item=V_6_B
+Item=V_7_A
+Item=V_7_B
+Item=V_8
+Item=V_9_A
+Item=V_9_B
+Item=V_9_C
+Item=V_10_A
+Item=V_10_B
+Item=V_10_C
+Item=V_10_D
+Item=V_10_E
+Item=V_10_F
+Item=V_10_G
+Item=V_10_H
+Item=V_11_A
+Item=V_11_B
+Item=V_12_A
+Item=V_12_B
+Item=V_12_C
+Item=V_12_D
+Item=V_13_A
+Item=V_13_B
+Item=V_13_C
+Item=V_13_D
+Item=V_13_E
+Item=V_13_F
+Item=V_13_G
+Item=V_13_H
+Item=V_13_I
+Item=V_13_J
+Item=V_13_K
+Item=V_13_L
+Item=V_13_M
+Item=V_13_N
+Item=V_13_O
+Item=V_13_P
+Item=V_14
+Item=V_14_A
+Item=V_15
+Item=V_15_A
+Item=V_16
+  
+Box=201,38,816,88,Thick
+Box=29,120,1067,2086,Thick
+  
+[Text]
+Name=TEXT33
+Position=47,613,347,632
+Text=V.9. Combien de comptes avez-vous ?
+Form=7
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT34
+Position=76,638,663,654
+Text=Lisez les énoncés suivants et indiquez le nombre de comptes détenus dans chaque type d’institution.
+Form=7
+Font=-013 0000 0000 0000 0400 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT35
+Position=47,754,440,773
+Text=V.10.	Indiquez si vous possédez ce type de compte
+Form=7
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT37
+Position=47,1117,961,1136
+Text=V.12.À quelle fréquence faites-vous les transactions suivantes dans votre compte (souvent, à l’occasion ou jamais) ?
+Form=7
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT36
+Position=49,1309,781,1347
+Text=V.13. Êtes-vous très satisfait, assez satisfait ou pas du tout satisfait des conditions suivantes\n            offertes par les institutions financières ou par la Poste ?\n
+Form=7
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT38
+Position=113,1352,484,1368
+Text=Lisez les énoncés suivants et cochez les réponses appropriées.
+Form=7
+Font=-013 0000 0000 0000 0400 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT39
+Position=122,1141,493,1157
+Text=Lisez les énoncés suivants et cochez les réponses appropriées.
+Form=7
+Font=-013 0000 0000 0000 0400 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT40
+Position=85,776,456,792
+Text=Lisez les énoncés suivants et cochez les réponses appropriées.
+Form=7
+Font=-013 0000 0000 0000 0400 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT41
+Position=94,1064,278,1080
+Text=Ne lisez pas les choix réponses
+Form=7
+Font=-013 0000 0000 0000 0400 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT42
+Position=212,54,792,80
+Text=SECTION V - ACCÈS ET UTILISATION DE L’ÉPARGNE
+Form=7
+Font=-023 0000 0000 0000 0700 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+[EndForm]
+  
+[Form]
+Name=FORM008
+Label=VI.ACCÈS ET UTILISATION DU CRÉDIT
+Level=1
+Size=997,1895
+  
+Item=VI_1
+Item=VI_2_A
+Item=VI_2_B
+Item=VI_3
+Item=VI_4_A
+Item=VI_4_B
+Item=VI_5_A
+Item=VI_5_B
+Item=VI_5_C
+Item=VI_6_A
+Item=VI_6_B
+Item=VI_6_C
+Item=VI_6_D
+Item=VI_6_E
+Item=VI_6_F
+Item=VI_6_G
+Item=VI_6_H
+Item=VI_6_I
+Item=VI_6_J
+Item=VI_6_K
+Item=VI_7_A
+Item=VI_7_B
+Item=VI_7_C
+Item=VI_8_A
+Item=VI_8_B
+Item=VI_8_C
+Item=VI_8_D
+Item=VI_8_E
+Item=VI_8_F
+Item=VI_8_G
+Item=VI_9_A
+Item=VI_9_B
+Item=VI_9_C
+Item=VI_9_D
+Item=VI_9_E
+Item=VI_9_F
+Item=VI_9_G
+Item=VI_9_H
+Item=VI_9_I
+Item=VI_9_J
+Item=VI_9_K
+Item=VI_9_L
+  
+Box=193,7,798,57,Thick
+Box=38,68,972,1870,Thick
+  
+[Text]
+Name=TEXT43
+Position=216,17,758,43
+Text=SECTION VI – ACCÈS ET UTILISATION DU CRÉDIT
+Form=8
+Font=-023 0000 0000 0000 0700 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT44
+Position=52,338,667,357
+Text=VI.5. Au cours des 12 derniers mois, combien de crédit(s) avez-vous obtenu(s)
+Form=8
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT45
+Position=115,358,486,374
+Text=Lisez les énoncés suivants et cochez les réponses appropriées.
+Form=8
+Font=-013 0000 0000 0000 0400 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT46
+Position=54,480,384,499
+Text=VI.6. De quel(s) type(s) de crédit s’agit-il ?
+Form=8
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT47
+Position=119,501,301,517
+Text=ne lisez pas les choix réponses
+Form=8
+Font=-013 0000 0000 0000 0400 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT48
+Position=52,908,391,927
+Text=VI.7. Quelle est la durée de ce(s) crédit(s) ?
+Form=8
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT49
+Position=116,935,300,951
+Text=Ne lisez pas les choix réponses
+Form=8
+Font=-013 0000 0000 0000 0400 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT50
+Position=54,1097,400,1116
+Text=VI.8. Quel est le montant de ce(s) crédit(s) ?
+Form=8
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT51
+Position=49,1390,515,1409
+Text=VI.9.  Êtes-vous très satisfait, assez satisfait ou pas du tout
+Form=8
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT52
+Position=125,1467,496,1483
+Text=Lisez les énoncés suivants et cochez les réponses appropriées.
+Form=8
+Font=-013 0000 0000 0000 0400 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT88
+Position=44,1417,708,1436
+Text=satisfait des conditions offertes par les institutions financières concernant le crédit ?
+Form=8
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT89
+Position=90,98,476,117
+Text=ou un découvert dans une institution financière ?
+Form=8
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+[EndForm]
+  
+[Form]
+Name=FORM009
+Label=VII.ACCES ET UTILISATION DU TRANSFERT D'ARGENT
+Level=1
+Size=1093,1068
+  
+Item=VII_1_A
+Item=VII_1_B
+Item=VII_1_C
+Item=VII_1_D
+Item=VII_1_E
+Item=VII_1_F
+Item=VII_2
+Item=VII_3_A
+Item=VII_3_B
+Item=VII_3_C
+Item=VII_3_D
+Item=VII_3_E
+Item=VII_3_F
+Item=VII_4
+Item=VII_5_A
+Item=VII_5_B
+Item=VII_5_C
+Item=VII_5_D
+Item=VII_5_E
+Item=VII_5_F
+Item=VII_5_G
+Item=VII_5_H
+Item=VII_5_I
+  
+Box=79,10,904,68,Thick
+Box=18,90,1068,1043,Thick
+  
+[Text]
+Name=TEXT53
+Position=117,28,847,54
+Text=SECTION VII – ACCÈS ET UTILISATION DU TRANSFERT D’ARGENT
+Form=9
+Font=-023 0000 0000 0000 0700 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT54
+Position=53,96,1063,115
+Text=VII.1. Au cours des 12 derniers mois, combien de fois avez-vous reçu ou envoyé des transferts d’argent à l’intérieur du pays…..?
+Form=9
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT55
+Position=119,122,469,138
+Text=Lisez les énoncés suivants et cochez la réponse appropriée.
+Form=9
+Font=-013 0000 0000 0000 0400 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT56
+Position=53,397,1062,416
+Text=VII.3. Au cours des 12 derniers mois, combien de fois avez-vous reçu ou envoyé des transferts d’argent à l’extérieur du pays….?
+Form=9
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT57
+Position=125,422,475,438
+Text=Lisez les énoncés suivants et cochez la réponse appropriée.
+Form=9
+Font=-013 0000 0000 0000 0400 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT58
+Position=52,694,906,732
+Text=VII.5. Êtes-vous très satisfait, assez satisfait ou pas du tout satisfait des conditions suivantes offertes par les\n         institutions financières pour recevoir ou envoyer de l’argent ?\n
+Form=9
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT59
+Position=125,736,475,752
+Text=Lisez les énoncés suivants et cochez la réponse appropriée.
+Form=9
+Font=-013 0000 0000 0000 0400 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+[EndForm]
+  
+[Form]
+Name=FORM010
+Label=VIII.ACCES ET UTILISATION DE LA MONNAIE ELECTRONIQUE(mobile banking)
+Level=1
+Size=1085,1384
+  
+Item=VIII_1_A
+Item=VIII_1_B
+Item=VIII_1_C
+Item=VIII_1_D
+Item=VIII_1_E
+Item=VIII_2
+Item=VIII_3_A
+Item=VIII_3_B
+Item=VIII_4_A
+Item=VIII_4_B
+Item=VIII_4_C
+Item=VIII_4_D
+Item=VIII_4_E
+Item=VIII_4_F
+Item=VIII_4_G
+Item=VIII_4_H
+Item=VIII_4_I
+Item=VIII_4_J
+Item=VIII_5_A
+Item=VIII_5_B
+Item=VIII_5_C
+Item=VIII_5_D
+Item=VIII_5_E
+Item=VIII_5_F
+Item=VIII_5_G
+Item=VIII_6_A
+Item=VIII_6_B
+  
+Box=43,32,968,113,Thick
+Box=33,121,1060,1359,Thick
+  
+[Text]
+Name=TEXT60
+Position=95,47,893,73
+Text=SECTION VIII – ACCÈS ET UTILISATION DE LA MONNAIE ÉLECTRONIQUE
+Form=10
+Font=-023 0000 0000 0000 0700 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT61
+Position=48,133,897,152
+Text=VIII.1.  Possédez-vous un compte de monnaie électronique (mobile banking) auprès des sociétés suivantes ?
+Form=10
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT62
+Position=162,160,533,176
+Text=Lisez les énoncés suivants et cochez les réponses appropriées.
+Form=10
+Font=-013 0000 0000 0000 0400 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT63
+Position=49,554,670,573
+Text=VIII.4.  A quelle fréquence faites-vous les opérations  suivantes à partir de votre
+Form=10
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT64
+Position=86,625,457,641
+Text=Lisez les énoncés suivants et cochez les réponses appropriées.
+Form=10
+Font=-013 0000 0000 0000 0400 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT65
+Position=45,975,908,1013
+Text=VIII.5. Êtes-vous très satisfait, assez satisfait ou pas du tout satisfait des conditions suivantes offertes par les \n             sociétés de monnaie électronique (mobile banking) ?\n
+Form=10
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT66
+Position=142,1020,492,1036
+Text=Lisez les énoncés suivants et cochez la réponse appropriée.
+Form=10
+Font=-013 0000 0000 0000 0400 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT90
+Position=96,584,611,603
+Text=compte de monnaie électronique (souvent, à l’occasion ou jamais) ?
+Form=10
+Font=-016 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT91
+Position=87,431,573,450
+Text=d’utiliser les services de monnaie électronique (mobile banking).
+Form=10
+Font=-016 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT92
+Position=382,79,533,98
+Text=(MOBILE BANKING)
+Form=10
+Font=-016 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+[EndForm]
+  
+[Form]
+Name=FORM011
+Label=IX.ACCES ET UTILISATION DES ASSURANCES
+Level=1
+Size=1078,1013
+  
+Item=IX_1_A
+Item=IX_1_B
+Item=IX_2
+Item=IX_3
+Item=IX_4_A
+Item=IX_4_B
+Item=IX_5_A
+Item=IX_5_B
+Item=IX_6
+Item=IX_6_B
+Item=IX_7
+Item=IX_8_A
+Item=IX_8_B
+Item=IX_9
+Item=IX_10
+Item=IX_11_A
+Item=IX_11_B
+Item=IX_11_C
+Item=IX_11_D
+  
+Box=50,24,964,80,Thick
+Box=28,110,1053,988,Thick
+  
+[Text]
+Name=TEXT67
+Position=139,39,771,65
+Text=SECTION IX – ACCÈS ET UTILISATION DES ASSURANCES
+Form=11
+Font=-023 0000 0000 0000 0700 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT68
+Position=53,754,632,773
+Text=IX.11. Êtes-vous très satisfait, assez satisfait ou pas du tout  satisfait  des
+Form=11
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT69
+Position=88,823,459,839
+Text=Lisez les énoncés suivants et cochez les réponses appropriées.
+Form=11
+Font=-013 0000 0000 0000 0400 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT99
+Position=93,784,637,803
+Text=conditions suivantes de  traitement de votre réclamation par l’assureur?
+Form=11
+Font=-016 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT100
+Position=97,244,454,263
+Text=êtes-vous couvert par une police d’assurance?
+Form=11
+Font=-016 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+[EndForm]
+  
+[Form]
+Name=FORM012
+Label=X.ACCÈS ET UTILISATION DES SERVICES FINANCIERS INFORMELS
+Level=1
+Size=1066,781
+  
+Item=X_1_A
+Item=X_1_B
+Item=X_1_C
+Item=X_1_D
+Item=X_2
+Item=X_3_A
+Item=X_3_B
+Item=X_3_C
+Item=X_3_D
+Item=X_3_E
+Item=X_3_F
+Item=X_2_G
+Item=X_3_H
+Item=X_4
+  
+Box=39,8,961,72,Thick
+Box=14,83,1041,756,Thick
+  
+[Text]
+Name=TEXT70
+Position=57,21,920,47
+Text=SECTION X – ACCÈS ET UTILISATION DES SERVICES FINANCIERS INFORMELS
+Form=12
+Font=-023 0000 0000 0000 0700 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT71
+Position=56,94,909,113
+Text=X.1.	Au cours des 12 derniers mois, à quelle fréquence (souvent, à l’occasion ou jamais) avez-vous épargné ?
+Form=12
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT72
+Position=116,118,487,134
+Text=Lisez les énoncés suivants et cochez les réponses appropriées.
+Form=12
+Font=-013 0000 0000 0000 0400 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT73
+Position=50,348,848,367
+Text=X.3.	Au cours des 12 derniers mois, avez-vous obtenu un crédit ou emprunté de l’argent auprès de…?
+Form=12
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT74
+Position=115,373,486,389
+Text=Lisez les énoncés suivants et cochez les réponses appropriées.
+Form=12
+Font=-013 0000 0000 0000 0400 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT98
+Position=119,697,544,716
+Text=financières pour vos opérations d’épargne et de crédit ?
+Form=12
+Font=-016 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+[EndForm]
+  
+[Form]
+Name=FORM013
+Label=XI.13Pour quels usages ? Et pour quels montants ?
+Level=1
+Size=1067,2185
+  
+Item=XI_1
+Item=XI_2_A
+Item=XI_2_B
+Item=XI_2_C
+Item=XI_2_D
+Item=XI_2_E
+Item=XI_3
+Item=XI_3_A
+Item=XI_4
+Item=XI_4_A
+Item=XI_5
+Item=XI_5_A
+Item=XI_6
+Item=XI_6_A
+Item=XI_7
+Item=XI_8
+Item=XI_9
+Item=XI_9_A
+Item=XI_10
+Item=XI_11
+Item=XI_11_A
+Item=XI_12
+Item=USAGE_ET_MONTANTS000
+Item=PRECISER_L_USAGE
+Item=OBS
+Item=HEURE2
+Item=MINUTES2
+  
+Box=190,5,749,50,Thick
+Box=23,62,1042,1068,Thick
+Box=54,1982,939,2160,Thick
+  
+[Text]
+Name=TEXT75
+Position=212,15,675,41
+Text=SECTION XI – BESOINS DE FINANCEMENT
+Form=13
+Font=-023 0000 0000 0000 0700 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT76
+Position=50,110,504,129
+Text=XI.2.  Travaillez-vous dans les filières agricoles suivantes?
+Form=13
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT77
+Position=110,131,481,147
+Text=Lisez les énoncés suivants et cochez les réponses appropriées.
+Form=13
+Font=-013 0000 0000 0000 0400 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT78
+Position=57,1032,531,1054
+Text=XI.13Pour quels usages ? Et pour quels montants ?
+Form=13
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT86
+Position=88,2058,240,2076
+Text=FIN DE L'INTERVIEW
+Form=13
+Font=-016 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT87
+Position=298,2054,304,2078
+Text=/
+Form=13
+Font=-021 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT93
+Position=98,340,499,359
+Text=et améliorer la qualité de vos productions agricoles ?
+Form=13
+Font=-016 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT94
+Position=113,996,685,1015
+Text=que ce soit pour des usages personnels ou pour développer vos activités ?
+Form=13
+Font=-016 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT95
+Position=107,884,575,903
+Text=votre entreprise ou de vos activités génératrices de revenus ?
+Form=13
+Font=-016 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT96
+Position=100,829,685,848
+Text=généré par votre entreprise ou par vos activités génératrices de revenus ?
+Form=13
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT97
+Position=93,592,606,611
+Text=rencontrées au moment de commercialiser et vendre vos produits ?
+Form=13
+Font=-016 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+[EndForm]
+  
+[Level]
+Name=PROJET
+Label=Projet questionnaire
+  
+[Group]
+Required=Yes
+Name=IDS0_FORM
+Label=(Id Items)
+Form=1
+LogicControl=No
+Max=1
+  
+[Field]
+Name=NUM_QUEST
+Position=346,416,389,438
+Item=NUM_QUEST,PROJET_DICT
+AutoIncrement=Yes
+FieldLabelType=DictionaryLabel
+Form=1
+  
+[Text]
+Position=90,423,271,442
+Text=numero du questionnaire
+ 
+[EndGroup]
+  
+[Group]
+Required=Yes
+Name=SECTION_0_IDENTIFICATION_DU_FORM
+Label=SECTION 0 : IDENTIFICATION DU MÉNAGE
+Form=2
+LogicControl=No
+Max=1
+  
+[Field]
+Name=O_1
+Position=296,182,325,204
+Item=O_1,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=2
+  
+[Text]
+Position=67,185,146,204
+Text=01: Région
+ 
+  
+[Field]
+Name=O_2
+Position=296,212,339,234
+Item=O_2,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=2
+  
+[Text]
+Position=67,215,188,234
+Text=02: Département
+ 
+  
+[Field]
+Name=O_3
+Position=296,242,381,264
+Item=O_3,PROJET_DICT
+FieldLabelType=DictionaryLabel
+Form=2
+  
+[Text]
+Position=67,245,219,264
+Text=03 : Arrondissement.
+ 
+  
+[Field]
+Name=O_4
+Position=296,273,409,295
+Item=O_4,PROJET_DICT
+FieldLabelType=DictionaryLabel
+Form=2
+  
+[Text]
+Position=67,275,202,294
+Text=04 : Commune/CR
+ 
+  
+[Field]
+Name=O_5
+Position=296,302,339,324
+Item=O_5,PROJET_DICT
+HideInCaseTree=Yes
+FieldLabelType=DictionaryLabel
+Form=2
+  
+[Text]
+Position=67,305,222,324
+Text=05 : N° DR_RGPHAE
+ 
+  
+[Field]
+Name=O_6
+Position=296,332,339,354
+Item=O_6,PROJET_DICT
+HideInCaseTree=Yes
+FieldLabelType=DictionaryLabel
+Form=2
+  
+[Text]
+Position=67,335,202,354
+Text=06 : N° DR _EIFIS
+ 
+  
+[Field]
+Name=O_7
+Position=296,360,479,382
+Item=O_7,PROJET_DICT
+FieldLabelType=DictionaryLabel
+Form=2
+  
+[Text]
+Position=67,365,277,384
+Text=07 : Quartier/Village/Hameau
+ 
+  
+[Field]
+Name=O_8
+Position=296,389,311,411
+Item=O_8,PROJET_DICT
+HideInCaseTree=Yes
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=2
+  
+[Text]
+Position=67,395,142,414
+Text=08 : Milieu
+ 
+  
+[Field]
+Name=O_9
+Position=296,419,325,441
+Item=O_9,PROJET_DICT
+FieldLabelType=DictionaryLabel
+Form=2
+  
+[Text]
+Position=67,425,181,444
+Text=09 : N° Ménage
+ 
+  
+[Grid]
+Name=MEMBRE_MENAGE000
+Label=Membre ménage
+Form=2
+Required=Yes
+Type=Item
+TypeName=MEMBRE_MENAGE
+Max=10
+DisplaySize=66,476,852,822
+Orientation=Horizontal
+FieldRowHeight=0
+HeadingRowHeight=0
+UseOccurrenceLabels=Yes
+FreeMovement=No
+ 
+[Text]
+Position=9,3,26,30
+Text=1
+ 
+  
+[Text]
+Position=9,3,26,30
+Text=2
+ 
+  
+[Text]
+Position=9,3,26,30
+Text=3
+ 
+  
+[Text]
+Position=9,3,26,30
+Text=4
+ 
+  
+[Text]
+Position=9,3,26,30
+Text=5
+ 
+  
+[Text]
+Position=9,3,26,30
+Text=6
+ 
+  
+[Text]
+Position=9,3,26,30
+Text=7
+ 
+  
+[Text]
+Position=9,3,26,30
+Text=8
+ 
+  
+[Text]
+Position=9,3,26,30
+Text=9
+ 
+  
+[Text]
+Position=0,3,26,30
+Text=10
+ 
+  
+[Column]
+Width=10
+[EndColumn]
+  
+[Column]
+Width=709
+  
+[HeaderText]
+Position=190,0,518,27
+Text=Prenom  et  Noms des membres du ménage
+HorizontalAlignment=Center
+ 
+[Field]
+Name=PRENOM_ET_NOMS
+Position=0,0,701,22
+Item=PRENOM_ET_NOMS,PROJET_DICT
+UseUnicodeTextBox=Yes
+  
+[Text]
+Text=Prenom  et  Noms des membres du ménage
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[Column]
+Width=51
+  
+[HeaderText]
+Position=14,0,51,27
+Text=Age
+ 
+[Field]
+Name=AGE
+Position=0,0,43,22
+Item=AGE,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+  
+[Text]
+Text=Age
+ 
+[EndColumn]
+  
+[EndGrid]
+ 
+  
+[Field]
+Name=NOM_CM
+Position=308,843,718,865
+Item=NOM_CM,PROJET_DICT
+UseUnicodeTextBox=Yes
+Form=2
+  
+[Text]
+Position=66,845,268,864
+Text=10.Nom du chef de ménage
+ 
+  
+[Field]
+Name=HEURE1
+Position=316,885,345,907
+Item=HEURE1,PROJET_DICT
+Form=2
+  
+[Text]
+Position=71,888,205,907
+Text=11.Début interview
+ 
+  
+[Field]
+Name=MINUTES1
+Position=361,883,390,905
+Item=MINUTES1,PROJET_DICT
+Form=2
+  
+  
+[Field]
+Name=JOUR1
+Position=315,919,344,941
+Item=JOUR1,PROJET_DICT
+Form=2
+  
+  
+[Field]
+Name=MOIS1
+Position=357,921,386,943
+Item=MOIS1,PROJET_DICT
+HideInCaseTree=Yes
+Form=2
+  
+  
+[Field]
+Name=ANNEE1
+Position=396,919,453,941
+Item=ANNEE1,PROJET_DICT
+HideInCaseTree=Yes
+Form=2
+  
+  
+[Field]
+Name=JOUR2
+Position=315,953,344,975
+Item=JOUR2,PROJET_DICT
+Form=2
+  
+  
+[Field]
+Name=MOISA
+Position=359,953,388,975
+Item=MOISA,PROJET_DICT
+Form=2
+  
+  
+[Field]
+Name=ANNEE2
+Position=399,952,456,974
+Item=ANNEE2,PROJET_DICT
+Form=2
+  
+  
+[Field]
+Name=ENQUETEUR
+Position=319,1002,362,1024
+Item=ENQUETEUR,PROJET_DICT
+Form=2
+  
+[Text]
+Position=81,1008,179,1027
+Text=14.Enquêteur
+ 
+  
+[Field]
+Name=CHEF_EQUIPE
+Position=319,1032,348,1054
+Item=CHEF_EQUIPE,PROJET_DICT
+Form=2
+  
+[Text]
+Position=81,1038,206,1057
+Text=15.Chef d’équipe
+ 
+  
+[Field]
+Name=RESULT_VISITE
+Position=319,1062,334,1084
+Item=RESULT_VISITE,PROJET_DICT
+DataCaptureType=RadioButton
+Form=2
+  
+[Text]
+Position=81,1068,242,1087
+Text=16.Résultat de la visite
+ 
+  
+[Grid]
+Name=COORD_REF000
+Label=Coordonnées des personnes de référence
+Form=2
+Required=Yes
+Type=Item
+TypeName=COORD_REF
+Max=3
+DisplaySize=61,1160,889,1371
+Orientation=Horizontal
+FieldRowHeight=46
+HeadingRowHeight=0
+FreeMovement=No
+ 
+[Text]
+Position=0,0,159,46
+Text=Individu Kish
+HorizontalAlignment=Left
+ 
+  
+[Text]
+Position=0,0,159,46
+Text=Personne de référence 2
+HorizontalAlignment=Left
+ 
+  
+[Text]
+Position=0,0,159,46
+Text=Personne de référence 3
+HorizontalAlignment=Left
+ 
+  
+[Column]
+Width=10
+[EndColumn]
+  
+[Column]
+Width=396
+  
+[HeaderText]
+Position=0,38,121,65
+Text=Prenom et Nom
+HorizontalAlignment=Left
+ 
+[Field]
+Name=PRENOM_NOM
+Position=0,0,385,22
+Item=PRENOM_NOM,PROJET_DICT
+UseUnicodeTextBox=Yes
+FieldLabelType=DictionaryLabel
+  
+[Text]
+Position=621,19,709,65
+Text=Prenom et Nom
+HorizontalAlignment=Left
+ 
+[EndColumn]
+  
+[Column]
+Width=135
+  
+[HeaderText]
+Position=0,0,83,65
+Text=N° téléphone 1
+HorizontalAlignment=Left
+ 
+[Field]
+Name=NUM_TEL1
+Position=0,0,127,22
+Item=NUM_TEL1,PROJET_DICT
+FieldLabelType=DictionaryLabel
+  
+[Text]
+Position=52,0,135,65
+Text=N° téléphone 1
+HorizontalAlignment=Left
+ 
+[EndColumn]
+  
+[Column]
+Width=135
+  
+[HeaderText]
+Position=0,0,83,65
+Text=N° téléphone 2
+HorizontalAlignment=Left
+ 
+[Field]
+Name=NUM_TEL2
+Position=0,0,127,22
+Item=NUM_TEL2,PROJET_DICT
+FieldLabelType=DictionaryLabel
+  
+[Text]
+Position=52,0,135,65
+Text=N° téléphone 2
+HorizontalAlignment=Left
+ 
+[EndColumn]
+  
+[EndGrid]
+ 
+[EndGroup]
+  
+[Group]
+Required=Yes
+Name=SECTION_I_FORM
+Label=I.SITUATIONS SOCIO-ECONOMIQUE
+Form=3
+LogicControl=No
+Max=1
+  
+[Field]
+Name=I_1
+Position=851,131,866,153
+Item=I_1,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=3
+  
+[Text]
+Position=51,133,327,152
+Text=I.1.	Sexe de la personne interviewée
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=I_2
+Position=850,170,865,192
+Item=I_2,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=3
+  
+[Text]
+Position=50,172,508,191
+Text=I.2.	Quelle est la taille de votre ménage incluant vous-même
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=I_3
+Position=851,209,866,231
+Item=I_3,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=3
+  
+[Text]
+Position=51,211,389,230
+Text=I.3.	Quelle est votre situation matrimoniale
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=I_4
+Position=850,241,865,263
+Item=I_4,PROJET_DICT
+DataCaptureType=ComboBox
+Form=3
+  
+[Text]
+Position=50,243,436,262
+Text=I.4. Dans quelle tranche d’âge vous situez-vous ?
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=I_5
+Position=851,282,866,304
+Item=I_5,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=3
+  
+[Text]
+Position=51,284,346,303
+Text=I.5.	Quel est votre niveau d’instruction
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=I_6
+Position=851,320,880,342
+Item=I_6,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=3
+  
+[Text]
+Position=51,322,291,341
+Text=I.6. Quelle est votre profession
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=I_6_A
+Position=852,349,1019,371
+Item=I_6_A,PROJET_DICT
+UseUnicodeTextBox=Yes
+FieldLabelType=DictionaryLabel
+Form=3
+  
+[Text]
+Position=51,352,288,371
+Text=I.6.a Autre profession à préciser
+ 
+  
+[Field]
+Name=I_7
+Position=851,390,866,412
+Item=I_7,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=3
+  
+[Text]
+Position=51,392,485,411
+Text=I.7.	Êtes-vous actuellement actif sur le marché du travail
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=I_8
+Position=852,427,881,449
+Item=I_8,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=3
+  
+[Text]
+Position=52,429,298,448
+Text=I.8. Dans quel secteur d’activité
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=I_8_A
+Position=854,461,1028,483
+Item=I_8_A,PROJET_DICT
+UseUnicodeTextBox=Yes
+FieldLabelType=DictionaryLabel
+Form=3
+  
+[Text]
+Position=52,459,334,478
+Text=I.8.a Autre secteur d'activité à préciser
+ 
+  
+[Field]
+Name=I_9
+Position=852,505,867,527
+Item=I_9,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=3
+  
+[Text]
+Position=52,507,634,526
+Text=I.9.  Quel a été votre revenu mensuel moyen au cours de la dernière année
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=I_10
+Position=853,545,868,567
+Item=I_10,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=3
+  
+[Text]
+Position=52,548,815,567
+Text=I.10.	Par rapport à l’année précédente, vos revenus ont-ils augmenté, diminué ou demeuré stables
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=I_11_A
+Position=852,649,867,671
+Item=I_11_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=3
+  
+[Text]
+Position=50,655,285,674
+Text=I.11.a Salaire régulier (mensuel)
+ 
+  
+[Field]
+Name=I_11_B
+Position=852,679,867,701
+Item=I_11_B,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=3
+  
+[Text]
+Position=50,685,317,704
+Text=I.11.b Salaire journalier (contractuel)
+ 
+  
+[Field]
+Name=I_11_C
+Position=852,709,867,731
+Item=I_11_C,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=3
+  
+[Text]
+Position=50,715,274,734
+Text=I.11.c Revenu d’une entreprise
+ 
+  
+[Field]
+Name=I_11_D
+Position=852,739,867,761
+Item=I_11_D,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=3
+  
+[Text]
+Position=50,745,296,764
+Text=I.11.d Vente de produits agricoles
+ 
+  
+[Field]
+Name=I_11_E
+Position=852,769,867,791
+Item=I_11_E,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=3
+  
+[Text]
+Position=50,775,380,794
+Text=I.11.e Vente d’autres produits (non agricoles)
+ 
+  
+[Field]
+Name=I_11_F
+Position=852,799,867,821
+Item=I_11_F,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=3
+  
+[Text]
+Position=50,805,252,824
+Text=I.11.f Revenu tiré d’un loyer
+ 
+  
+[Field]
+Name=I_11_G
+Position=852,829,867,851
+Item=I_11_G,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=3
+  
+[Text]
+Position=50,835,236,854
+Text=I.11.g Revenu de pension
+ 
+  
+[Field]
+Name=I_11_H
+Position=852,859,867,881
+Item=I_11_H,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=3
+  
+[Text]
+Position=50,865,226,884
+Text=I.11.h Transfert d’argent
+ 
+  
+[Field]
+Name=I_11_I
+Position=852,889,867,911
+Item=I_11_I,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=3
+  
+[Text]
+Position=50,895,333,914
+Text=I.11.i État sénégalais (bourse familiale)
+ 
+  
+[Field]
+Name=I_11_J
+Position=853,928,1030,950
+Item=I_11_J,PROJET_DICT
+UseUnicodeTextBox=Yes
+FieldLabelType=DictionaryLabel
+Form=3
+  
+[Text]
+Position=50,923,264,942
+Text=I.11.j Autre source à préciser
+ 
+  
+[Field]
+Name=I_11_K
+Position=853,960,868,982
+Item=I_11_K,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=3
+  
+[Text]
+Position=51,962,385,981
+Text=I.11.k Qualificatiion de l'autre source précisée
+ 
+  
+[Field]
+Name=I_12_A
+Position=852,1079,867,1101
+Item=I_12_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=3
+  
+[Text]
+Position=50,1081,439,1100
+Text=I.12.a Loyer et services publics (eau, électricité, etc.)
+ 
+  
+[Field]
+Name=I_12_B
+Position=852,1109,867,1131
+Item=I_12_B,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=3
+  
+[Text]
+Position=50,1111,238,1130
+Text=I.12.b Achat de nourriture
+ 
+  
+[Field]
+Name=I_12_C
+Position=852,1139,867,1161
+Item=I_12_C,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=3
+  
+[Text]
+Position=50,1141,394,1160
+Text=I.12.c Frais de scolarité et fournitures scolaires
+ 
+  
+[Field]
+Name=I_12_D
+Position=852,1169,867,1191
+Item=I_12_D,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=3
+  
+[Text]
+Position=50,1171,384,1190
+Text=I.12.d rais de scolarité et fournitures scolaires
+ 
+  
+[Field]
+Name=I_12_E
+Position=852,1199,867,1221
+Item=I_12_E,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=3
+  
+[Text]
+Position=50,1201,487,1220
+Text=I.12.e Fêtes religieuses (Tabaski, Magal, Gamou, Noël, etc.)
+ 
+  
+[Field]
+Name=I_12_F
+Position=852,1230,1021,1252
+Item=I_12_F,PROJET_DICT
+UseUnicodeTextBox=Yes
+FieldLabelType=DictionaryLabel
+Form=3
+  
+[Text]
+Position=50,1231,295,1250
+Text=I.12.f Autres dépences à préciser
+ 
+  
+[Field]
+Name=I_12_G
+Position=856,1269,871,1291
+Item=I_12_G,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=3
+  
+[Text]
+Position=50,1261,422,1280
+Text=I.12.g Qualification des autres dépenses à préciser
+ 
+  
+[Field]
+Name=I_I13_A
+Position=853,1371,868,1393
+Item=I_I13_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=3
+  
+[Text]
+Position=47,1363,490,1382
+Text=I.13.a Je dispose d’une réserve pour faire face aux imprévus
+ 
+  
+[Field]
+Name=I_13_B
+Position=853,1401,868,1423
+Item=I_13_B,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=3
+  
+[Text]
+Position=47,1393,516,1412
+Text=I.13.b Je dois ajuster mes dépenses en fonction de mes revenus
+ 
+  
+[Field]
+Name=I_13_C
+Position=853,1431,868,1453
+Item=I_13_C,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=3
+  
+[Text]
+Position=47,1423,435,1442
+Text=I.13.c Mes dépenses dépassent souvent mes revenus
+ 
+[EndGroup]
+  
+[Group]
+Required=Yes
+Name=SECTION_II_FORM
+Label=II.CONNAISSANCE DES SERVICES FINANCIERS / ÉDUCATION FINANCIÈRE
+Form=4
+LogicControl=No
+Max=1
+  
+[Field]
+Name=II_1
+Position=823,97,866,119
+Item=II_1,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=4
+  
+[Text]
+Position=48,106,532,125
+Text=II.1.Quelles banques implantées au Sénégal connaissez-vous?
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=II_1A
+Position=824,144,905,166
+Item=II_1A,PROJET_DICT
+UseUnicodeTextBox=Yes
+FieldLabelType=DictionaryLabel
+Form=4
+  
+[Text]
+Position=47,146,264,165
+Text=II.1a Autre Banque à préciser
+ 
+  
+[Field]
+Name=II_2
+Position=822,176,865,198
+Item=II_2,PROJET_DICT
+DataCaptureType=CheckBox
+Form=4
+  
+  
+[Field]
+Name=II_2A
+Position=823,235,927,257
+Item=II_2A,PROJET_DICT
+UseUnicodeTextBox=Yes
+FieldLabelType=DictionaryLabel
+Form=4
+  
+[Text]
+Position=48,244,492,263
+Text=II.2a Autre systeme financier décentralisé ou SFD à préciser
+ 
+  
+[Field]
+Name=II_3
+Position=823,265,838,287
+Item=II_3,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=4
+  
+[Text]
+Position=48,274,571,293
+Text=II.3. 	Connaissez-vous les services financiers offerts par la Poste?
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=II_4_A
+Position=828,350,843,372
+Item=II_4_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=4
+  
+[Text]
+Position=53,359,230,378
+Text=II.4.a Compte d’épargne
+ 
+  
+[Field]
+Name=II_4_B
+Position=828,380,843,402
+Item=II_4_B,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=4
+  
+[Text]
+Position=53,389,199,408
+Text=II.4.b Dépôt à terme
+ 
+  
+[Field]
+Name=II_4_C
+Position=828,410,843,432
+Item=II_4_C,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=4
+  
+[Text]
+Position=53,419,239,438
+Text=II.4.c Découvert bancaire
+ 
+  
+[Field]
+Name=II_4_D
+Position=828,440,843,462
+Item=II_4_D,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=4
+  
+[Text]
+Position=53,449,205,468
+Text=II.4.d Carte bancaire
+ 
+  
+[Field]
+Name=II_4_E
+Position=831,475,846,497
+Item=II_4_E,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=4
+  
+[Text]
+Position=53,479,153,498
+Text=II.4.e Chèque
+ 
+  
+[Field]
+Name=II_4_F
+Position=831,505,846,527
+Item=II_4_F,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=4
+  
+[Text]
+Position=53,509,310,528
+Text=II.4.f Guichet automatique bancaire
+ 
+  
+[Field]
+Name=II_4_G
+Position=831,535,846,557
+Item=II_4_G,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=4
+  
+[Text]
+Position=53,539,178,558
+Text=II.4.g Microcrédit
+ 
+  
+[Field]
+Name=II_4_H
+Position=831,565,846,587
+Item=II_4_H,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=4
+  
+[Text]
+Position=53,569,240,588
+Text=II.4.h Différé de paiement
+ 
+  
+[Field]
+Name=II_4_I
+Position=831,595,846,617
+Item=II_4_I,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=4
+  
+[Text]
+Position=53,599,353,618
+Text=II.4.i Banque à distance (mobile banking)
+ 
+  
+[Field]
+Name=II_4_J
+Position=831,625,846,647
+Item=II_4_J,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=4
+  
+[Text]
+Position=53,629,270,648
+Text=II.4.j Transfert rapide d’argent
+ 
+  
+[Field]
+Name=II_4_K
+Position=831,655,846,677
+Item=II_4_K,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=4
+  
+[Text]
+Position=53,659,386,678
+Text=II.4..k Taux effectif global / Coût réel du crédit
+ 
+  
+[Field]
+Name=II_4_L
+Position=831,685,846,707
+Item=II_4_L,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=4
+  
+[Text]
+Position=53,689,388,708
+Text=II.4.l Terminal de paiement électronique (TPE)
+ 
+  
+[Field]
+Name=II_4_M
+Position=831,715,846,737
+Item=II_4_M,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=4
+  
+[Text]
+Position=53,719,232,738
+Text=II.4.m Finance islamique
+ 
+  
+[Field]
+Name=II_5_A
+Position=847,832,862,854
+Item=II_5_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=4
+  
+[Text]
+Position=54,843,519,862
+Text=II.5.a J’arrive à épargner même quand mes revenus sont faibles
+ 
+  
+[Field]
+Name=II_5_B
+Position=847,862,862,884
+Item=II_5_B,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=4
+  
+[Text]
+Position=54,873,713,892
+Text=II.5.b Je préfère garder mon épargne chez moi ou dans une tontine plutôt que dans une IF
+ 
+  
+[Field]
+Name=II_5_C
+Position=847,892,862,914
+Item=II_5_C,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=4
+  
+[Text]
+Position=54,903,577,922
+Text=II.5.c Seuls les employés salariés peuvent ouvrir un compte dans une IF
+ 
+  
+[Field]
+Name=II_5_D
+Position=847,922,862,944
+Item=II_5_D,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=4
+  
+[Text]
+Position=54,933,547,952
+Text=II.5.d On peut facilement vivre sa vie sans avoir un compte bancaire
+ 
+  
+[Field]
+Name=II_5_E
+Position=847,952,862,974
+Item=II_5_E,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=4
+  
+[Text]
+Position=54,963,614,982
+Text=II.5.e Je préfère compter sur mes propres ressources plutôt que d’emprunter
+ 
+  
+[Field]
+Name=II_5_F
+Position=848,987,863,1009
+Item=II_5_F,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=4
+  
+[Text]
+Position=54,993,512,1012
+Text=II.5.f J’accepterais de payer des intérêts pour obtenir un crédit
+ 
+  
+[Field]
+Name=II_5_G
+Position=848,1017,863,1039
+Item=II_5_G,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=4
+  
+[Text]
+Position=54,1023,508,1042
+Text=II.5.g Il est important de rembourser une dette à la date prévue
+ 
+  
+[Field]
+Name=II_5_H
+Position=848,1047,863,1069
+Item=II_5_H,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=4
+  
+[Text]
+Position=54,1053,723,1072
+Text=II.5.h Détenir une police d’assurance est une bonne façon de se protéger contre les risques
+ 
+  
+[Field]
+Name=II_6_A
+Position=849,1151,864,1173
+Item=II_6_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=4
+  
+[Text]
+Position=54,1153,367,1172
+Text=II.6.a Mobilisation et utilisation de l’épargne
+ 
+  
+[Field]
+Name=II_6_B
+Position=849,1181,864,1203
+Item=II_6_B,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=4
+  
+[Text]
+Position=54,1183,371,1202
+Text=II.6.b Utilisation et remboursement d’un prêt
+ 
+  
+[Field]
+Name=II_6_C
+Position=849,1211,864,1233
+Item=II_6_C,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=4
+  
+[Text]
+Position=54,1213,336,1232
+Text=II.6.c Budget et planification financière
+ 
+  
+[Field]
+Name=II_6_D
+Position=849,1241,864,1263
+Item=II_6_D,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=4
+  
+[Text]
+Position=54,1243,249,1262
+Text=II.6.d Comptabilité de base
+ 
+  
+[Field]
+Name=II_6_E
+Position=849,1271,864,1293
+Item=II_6_E,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=4
+  
+[Text]
+Position=54,1273,615,1292
+Text=II.6.e Gestion d’une petite entreprise ou d’une activité génératrice de revenus
+ 
+  
+[Field]
+Name=II_6_F
+Position=849,1301,864,1323
+Item=II_6_F,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=4
+  
+[Text]
+Position=54,1303,569,1322
+Text=II.6.f Gestion d’une association, d’un groupement ou d’une coopérative
+ 
+  
+[Field]
+Name=II_6_G2
+Position=846,1333,964,1355
+Item=II_6_G2,PROJET_DICT
+UseUnicodeTextBox=Yes
+FieldLabelType=DictionaryLabel
+Form=4
+  
+[Text]
+Position=54,1329,215,1348
+Text=II.6.g Autre à préciser
+ 
+[EndGroup]
+  
+[Group]
+Required=Yes
+Name=SECTION_III_FORM
+Label=III.ACCÈS PHYSIQUE AUX SERVICES FINANCIERS
+Form=5
+LogicControl=No
+Max=1
+  
+[Field]
+Name=III_1_A
+Position=769,156,784,178
+Item=III_1_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=5
+  
+[Text]
+Position=50,158,249,177
+Text=III.1.a Accès à une banque
+ 
+  
+[Field]
+Name=III_1_B
+Position=769,186,784,208
+Item=III_1_B,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=5
+  
+[Text]
+Position=50,188,696,207
+Text=III.1.b Accès à un SFD (mutuelle ou coopérative d’épargne et de crédit, association, SA)
+ 
+  
+[Field]
+Name=III_1_C
+Position=769,216,784,238
+Item=III_1_C,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=5
+  
+[Text]
+Position=50,218,304,237
+Text=III.1.c Accès à un bureau de poste
+ 
+  
+[Field]
+Name=III_1_D
+Position=769,246,784,268
+Item=III_1_D,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=5
+  
+[Text]
+Position=50,248,329,267
+Text=III.1.d Accès à une boutique/supérette
+ 
+  
+[Field]
+Name=III_1_E
+Position=769,276,784,298
+Item=III_1_E,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=5
+  
+[Text]
+Position=50,278,322,297
+Text=III.1.e Accès à une station de service
+ 
+  
+[Field]
+Name=III_2_A
+Position=767,402,782,424
+Item=III_2_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=5
+  
+[Text]
+Position=48,404,198,423
+Text=III.2.a D’une banque
+ 
+  
+[Field]
+Name=III_2_B
+Position=767,432,782,454
+Item=III_2_B,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=5
+  
+[Text]
+Position=48,434,644,453
+Text=III.2.b D'un SFD (mutuelle ou coopérative d’épargne et de crédit, association, SA)
+ 
+  
+[Field]
+Name=III_2_C
+Position=767,462,782,484
+Item=III_2_C,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=5
+  
+[Text]
+Position=48,464,252,483
+Text=III.2.c D'un bureau de poste
+ 
+  
+[Field]
+Name=III_2_D
+Position=767,492,782,514
+Item=III_2_D,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=5
+  
+[Text]
+Position=48,494,277,513
+Text=III.2.d D'une boutique/supérette
+ 
+  
+[Field]
+Name=III_2_E
+Position=767,522,782,544
+Item=III_2_E,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=5
+  
+[Text]
+Position=48,524,270,543
+Text=III.2.e D'une station de service
+ 
+  
+[Field]
+Name=III_3_A
+Position=767,644,782,666
+Item=III_3_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=5
+  
+[Text]
+Position=48,646,198,665
+Text=III.3.a D’une banque
+ 
+  
+[Field]
+Name=III_3_B
+Position=767,674,782,696
+Item=III_3_B,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=5
+  
+[Text]
+Position=48,676,644,695
+Text=III.3.b D'un SFD (mutuelle ou coopérative d’épargne et de crédit, association, SA)
+ 
+  
+[Field]
+Name=III_3_C
+Position=767,704,782,726
+Item=III_3_C,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=5
+  
+[Text]
+Position=48,706,252,725
+Text=III.3.c D'un bureau de poste
+ 
+  
+[Field]
+Name=III_3_D
+Position=767,734,782,756
+Item=III_3_D,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=5
+  
+[Text]
+Position=48,736,277,755
+Text=III.3.d D'une boutique/supérette
+ 
+  
+[Field]
+Name=III_3_E
+Position=767,764,782,786
+Item=III_3_E,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=5
+  
+[Text]
+Position=48,766,270,785
+Text=III.3.e D'une station de service
+ 
+  
+[Field]
+Name=III_4_A
+Position=767,872,782,894
+Item=III_4_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=5
+  
+[Text]
+Position=48,874,184,893
+Text=III.4.a Des banque
+ 
+  
+[Field]
+Name=III_4_B
+Position=767,902,782,924
+Item=III_4_B,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=5
+  
+[Text]
+Position=48,904,645,923
+Text=III.4.b  Des SFD (mutuelle ou coopérative d’épargne et de crédit, association, SA)
+ 
+  
+[Field]
+Name=III_4_C
+Position=767,932,782,954
+Item=III_4_C,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=5
+  
+[Text]
+Position=48,934,240,953
+Text=III.4.c Du bureau de poste
+ 
+  
+[Field]
+Name=III_4_D
+Position=767,962,782,984
+Item=III_4_D,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=5
+  
+[Text]
+Position=48,964,264,983
+Text=III.4.d Des boutique/supérette
+ 
+  
+[Field]
+Name=III_4_E
+Position=768,995,783,1017
+Item=III_4_E,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=5
+  
+[Text]
+Position=48,994,257,1013
+Text=III.4.e Des station de service
+ 
+  
+[Field]
+Name=III_5_A
+Position=768,1114,783,1136
+Item=III_5_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=5
+  
+[Text]
+Position=48,1113,311,1132
+Text=III.5.a École primaire ou secondaire
+ 
+  
+[Field]
+Name=III_5_B
+Position=768,1144,783,1166
+Item=III_5_B,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=5
+  
+[Text]
+Position=48,1143,212,1162
+Text=III.5.b Centre de santé
+ 
+  
+[Field]
+Name=III_5_C
+Position=768,1174,783,1196
+Item=III_5_C,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=5
+  
+[Text]
+Position=48,1173,193,1192
+Text=III.5.c Gare routière
+ 
+  
+[Field]
+Name=III_5_D
+Position=768,1204,783,1226
+Item=III_5_D,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=5
+  
+[Text]
+Position=48,1203,216,1222
+Text=III.5.d Bureau de poste
+ 
+  
+[Field]
+Name=III_5_E
+Position=768,1234,783,1256
+Item=III_5_E,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=5
+  
+[Text]
+Position=48,1233,152,1252
+Text=III.5.e Banque
+ 
+  
+[Field]
+Name=III_5_F
+Position=768,1264,783,1286
+Item=III_5_F,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=5
+  
+[Text]
+Position=48,1263,602,1282
+Text=III.5.f SFD (mutuelle ou coopérative d’épargne et de crédit, association, SA)
+ 
+[EndGroup]
+  
+[Group]
+Required=Yes
+Name=SECTION_IV_FORM
+Label=IV.ACCÈS ET UTILISATION DES MOYENS DE PAIEMENT
+Form=6
+LogicControl=No
+Max=1
+  
+[Field]
+Name=IV_1_A
+Position=927,142,942,164
+Item=IV_1_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=6
+  
+[Text]
+Position=50,146,432,165
+Text=IV.1.a Une carte nationale d’identité ou un passeport
+ 
+  
+[Field]
+Name=IV_1_B
+Position=927,172,942,194
+Item=IV_1_B,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=6
+  
+[Text]
+Position=50,176,257,195
+Text=IV.1.b Un téléphone portable
+ 
+  
+[Field]
+Name=IV_1_C
+Position=927,202,942,224
+Item=IV_1_C,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=6
+  
+[Text]
+Position=50,206,364,225
+Text=IV.1.c Une adresse de messagerie (e-mail)
+ 
+  
+[Field]
+Name=IV_1_D
+Position=927,232,942,254
+Item=IV_1_D,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=6
+  
+[Text]
+Position=50,236,478,255
+Text=IV.1.d Une carte de guichet automatique ou carte bancaire
+ 
+  
+[Field]
+Name=IV_1_E
+Position=927,262,942,284
+Item=IV_1_E,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=6
+  
+[Text]
+Position=50,266,244,285
+Text=IV.1.e Une carte prépayée
+ 
+  
+[Field]
+Name=IV_1_F
+Position=927,292,942,314
+Item=IV_1_F,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=6
+  
+[Text]
+Position=50,296,184,315
+Text=IV.1.f Un chéquier
+ 
+  
+[Field]
+Name=IV_1_G
+Position=927,322,942,344
+Item=IV_1_G,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=6
+  
+[Text]
+Position=50,326,905,345
+Text=IV.1.g Un carnet ou une carte de membre d’un SFD (mutuelle ou coopérative d’épargne et de crédit, association, SA)
+ 
+  
+[Field]
+Name=IV_2_A
+Position=926,440,941,462
+Item=IV_2_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=6
+  
+[Text]
+Position=49,444,269,463
+Text=IV.2.a Argent comptant (cash)
+ 
+  
+[Field]
+Name=IV_2_B
+Position=926,470,941,492
+Item=IV_2_B,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=6
+  
+[Text]
+Position=49,474,207,493
+Text=IV.2.b Carte bancaire
+ 
+  
+[Field]
+Name=IV_2_C
+Position=926,500,941,522
+Item=IV_2_C,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=6
+  
+[Text]
+Position=49,504,155,523
+Text=IV.2.c Chèque
+ 
+  
+[Field]
+Name=IV_2_D
+Position=926,530,941,552
+Item=IV_2_D,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=6
+  
+[Text]
+Position=49,534,413,553
+Text=IV.2.d Ordre de prélèvement ou virement bancaire
+ 
+  
+[Field]
+Name=IV_2_E
+Position=926,560,941,582
+Item=IV_2_E,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=6
+  
+[Text]
+Position=49,564,260,583
+Text=IV.2.e Crédit du commerçant
+ 
+  
+[Field]
+Name=IV_2_F
+Position=926,590,941,612
+Item=IV_2_F,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=6
+  
+[Text]
+Position=49,594,232,613
+Text=IV.2.f Téléphone portable
+ 
+  
+[Field]
+Name=IV_2_G
+Position=926,620,941,642
+Item=IV_2_G,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=6
+  
+[Text]
+Position=49,624,341,643
+Text=IV.2.g Paiement en marchandises (troc)
+ 
+[EndGroup]
+  
+[Group]
+Required=Yes
+Name=SECTION_V_FORM
+Label=V.ACCÈS ET UTILISATION DE L’ÉPARGNE
+Form=7
+LogicControl=No
+Max=1
+  
+[Field]
+Name=V_1
+Position=880,143,895,165
+Item=V_1,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=51,145,773,164
+Text=V.1 Est-ce que vous arrivez à épargner (mettre de l’argent de côté) sur une base régulière ?
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=V_2_A
+Position=879,181,922,203
+Item=V_2_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=CheckBox
+Form=7
+  
+[Text]
+Position=51,175,332,194
+Text=V.2 Où gardez-vous votre epargne?
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=V_2_B
+Position=882,215,1000,237
+Item=V_2_B,PROJET_DICT
+UseUnicodeTextBox=Yes
+FieldLabelType=DictionaryLabel
+Form=7
+  
+[Text]
+Position=51,222,213,241
+Text=V.2.a Autre à preciser
+ 
+  
+[Field]
+Name=V_3
+Position=884,250,899,272
+Item=V_3,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=51,257,251,276
+Text=V.3 Avez-vous un compte
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=V_4
+Position=883,285,898,307
+Item=V_4,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=51,291,251,310
+Text=V.4 Etes- vous interessés
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=V_5_A
+Position=880,320,923,342
+Item=V_5_A,PROJET_DICT
+DataCaptureType=CheckBox
+Form=7
+  
+[Text]
+Position=51,319,797,357
+Text=V.5. Citez les trois (3) principales raisons ou conditions pour lesquelles vous n’avez pas ouvert\n	  un compte dans une institutionfinancière ou à la Poste.\n
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=V_5_B
+Position=883,351,1003,373
+Item=V_5_B,PROJET_DICT
+UseUnicodeTextBox=Yes
+FieldLabelType=DictionaryLabel
+Form=7
+  
+[Text]
+Position=54,362,214,381
+Text=V.5.a Autre (preciser)
+ 
+  
+[Field]
+Name=V_6
+Position=879,393,894,415
+Item=V_6,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=52,395,867,414
+Text=V.6 Vous arrive-t-il d'utiliser le compte d'une autre personne pour effectuer des transactions bancaires?
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=V_6_A
+Position=879,423,908,445
+Item=V_6_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=52,425,223,444
+Text=V.6.a Quelle personne?
+ 
+  
+[Field]
+Name=V_6_B
+Position=881,456,1006,478
+Item=V_6_B,PROJET_DICT
+UseUnicodeTextBox=Yes
+FieldLabelType=DictionaryLabel
+Form=7
+  
+[Text]
+Position=52,455,212,474
+Text=V.6.b Autre (preciser)
+ 
+  
+[Field]
+Name=V_7_A
+Position=880,510,923,532
+Item=V_7_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=CheckBox
+Form=7
+  
+[Text]
+Position=51,508,829,527
+Text=V.7 Citez les trois (3) principaux critères qui vous ont guidé dans le choix d'une institution finacière
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=V_7_B
+Position=881,539,1010,561
+Item=V_7_B,PROJET_DICT
+UseUnicodeTextBox=Yes
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=51,538,211,557
+Text=V.7.a Autre( preciser)
+ 
+  
+[Field]
+Name=V_8
+Position=878,573,893,595
+Item=V_8,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=50,566,814,585
+Text=V.8 Depuis combien de temps avez-vous un compte dans une institution financière ou à la Poste?
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=V_9_A
+Position=873,663,888,685
+Item=V_9_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=46,665,220,684
+Text=V.9.a Dans les banques
+ 
+  
+[Field]
+Name=V_9_B
+Position=873,693,888,715
+Item=V_9_B,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=46,695,751,714
+Text=V.9.b Dans un SFD (institution de miocrofinance ou mutuelle/ coopérative d'épargne et de crédit)
+ 
+  
+[Field]
+Name=V_9_C
+Position=873,723,888,745
+Item=V_9_C,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=46,725,162,744
+Text=V.9.c A la poste
+ 
+  
+[Field]
+Name=V_10_A
+Position=873,778,888,800
+Item=V_10_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=48,803,217,822
+Text=V.10.a Compte courant
+ 
+  
+[Field]
+Name=V_10_B
+Position=873,808,888,830
+Item=V_10_B,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=48,833,316,852
+Text=V.10.b Compte courant postal (CCP)
+ 
+  
+[Field]
+Name=V_10_C
+Position=873,838,888,860
+Item=V_10_C,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=48,863,235,882
+Text=V.10.c Compte d’épargne
+ 
+  
+[Field]
+Name=V_10_D
+Position=873,868,888,890
+Item=V_10_D,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=48,893,268,912
+Text=V.10.d Plan épargne logement
+ 
+  
+[Field]
+Name=V_10_E
+Position=873,898,888,920
+Item=V_10_E,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=48,923,268,942
+Text=V.10.e Plan épargne logement
+ 
+  
+[Field]
+Name=V_10_F
+Position=873,928,888,950
+Item=V_10_F,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=48,953,324,972
+Text=V.10.f Compte d’épargne pour mineur
+ 
+  
+[Field]
+Name=V_10_G
+Position=873,958,888,980
+Item=V_10_G,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=48,983,253,1002
+Text=V.10.g Dépôt à terme (DAT)
+ 
+  
+[Field]
+Name=V_10_H
+Position=873,988,888,1010
+Item=V_10_H,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=48,1013,231,1032
+Text=V.10.h Compte en devise
+ 
+  
+[Field]
+Name=V_11_A
+Position=873,1018,916,1040
+Item=V_11_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=CheckBox
+Form=7
+  
+[Text]
+Position=48,1043,614,1062
+Text=V.11 Citez trois (3) raisons pour lesquelles vous avez ouvert un compte.
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=V_11_B
+Position=875,1066,996,1088
+Item=V_11_B,PROJET_DICT
+UseUnicodeTextBox=Yes
+FieldLabelType=DictionaryLabel
+Form=7
+  
+[Text]
+Position=50,1082,221,1101
+Text=V.11.a Autre (Preciser)
+ 
+  
+[Field]
+Name=V_12_A
+Position=877,1151,892,1173
+Item=V_12_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=50,1176,361,1195
+Text=V.12.a Déposer de l’argent dans le compte
+ 
+  
+[Field]
+Name=V_12_B
+Position=877,1181,892,1203
+Item=V_12_B,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=50,1206,314,1225
+Text=V.12.b Retirer de l’argent du compte
+ 
+  
+[Field]
+Name=V_12_C
+Position=877,1211,892,1233
+Item=V_12_C,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=50,1236,331,1255
+Text=V.12.c Demander un relevé de compte
+ 
+  
+[Field]
+Name=V_12_D
+Position=877,1241,892,1263
+Item=V_12_D,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=50,1266,321,1285
+Text=V.12.d Signer ou remettre un chèque
+ 
+  
+[Field]
+Name=V_13_A
+Position=881,1377,896,1399
+Item=V_13_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=50,1380,423,1399
+Text=V.13.a La localisation et l’accessibilité des agences
+ 
+  
+[Field]
+Name=V_13_B
+Position=881,1407,896,1429
+Item=V_13_B,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=50,1410,252,1429
+Text=V.13.b La sécurité des lieux
+ 
+  
+[Field]
+Name=V_13_C
+Position=881,1437,896,1459
+Item=V_13_C,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=50,1440,270,1459
+Text=V.13.c Les heures d’ouverture
+ 
+  
+[Field]
+Name=V_13_D
+Position=881,1467,896,1489
+Item=V_13_D,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=50,1470,384,1489
+Text=V.13.d Les procédures d’ouverture de compte
+ 
+  
+[Field]
+Name=V_13_E
+Position=881,1497,896,1519
+Item=V_13_E,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=50,1500,279,1519
+Text=V.13.e Le dépôt minimum exigé
+ 
+  
+[Field]
+Name=V_13_F
+Position=881,1527,896,1549
+Item=V_13_F,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=50,1530,437,1549
+Text=V.13.f Les frais de transaction et de tenue de compte
+ 
+  
+[Field]
+Name=V_13_G
+Position=881,1557,896,1579
+Item=V_13_G,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=50,1560,339,1579
+Text=V.13.g Les temps d’attente aux guichets
+ 
+  
+[Field]
+Name=V_13_H
+Position=881,1587,896,1609
+Item=V_13_H,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=50,1590,422,1609
+Text=V.13.h Le taux de rémunération offert sur l’épargne
+ 
+  
+[Field]
+Name=V_13_I
+Position=881,1617,896,1639
+Item=V_13_I,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=50,1620,417,1639
+Text=V.13.i Le taux de rémunération offert sur l’épargne
+ 
+  
+[Field]
+Name=V_13_J
+Position=881,1647,896,1669
+Item=V_13_J,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=50,1650,470,1669
+Text=V.13.j L’adéquation des produits offerts avec mes besoins
+ 
+  
+[Field]
+Name=V_13_K
+Position=881,1677,896,1699
+Item=V_13_K,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=50,1680,220,1699
+Text=V.13.k Le service offert
+ 
+  
+[Field]
+Name=V_13_L
+Position=881,1707,896,1729
+Item=V_13_L,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=50,1710,273,1729
+Text=V.13.l L’amabilité du personnel
+ 
+  
+[Field]
+Name=V_13_M
+Position=881,1737,896,1759
+Item=V_13_M,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=50,1740,505,1759
+Text=V.13.m La communication des tarifs et conditions des services
+ 
+  
+[Field]
+Name=V_13_N
+Position=881,1767,896,1789
+Item=V_13_N,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=50,1770,482,1789
+Text=V.13.n La disponibilité et l’exactitude des relevés de compte
+ 
+  
+[Field]
+Name=V_13_O
+Position=881,1797,896,1819
+Item=V_13_O,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=50,1800,391,1819
+Text=V.13.o L’appui conseil et l’éducation financière
+ 
+  
+[Field]
+Name=V_13_P
+Position=881,1827,896,1849
+Item=V_13_P,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=50,1830,397,1849
+Text=V.13.p Le traitement et le suivi des réclamations
+ 
+  
+[Field]
+Name=V_14
+Position=881,1875,896,1897
+Item=V_14,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=52,1878,713,1897
+Text=V.14 Avez-vous déjà formulé une réclamation auprès de votre institution financière ?
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=V_14_A
+Position=881,1905,896,1927
+Item=V_14_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=52,1908,370,1927
+Text=V.14.a Quel est votre dégré de satisfaction?
+ 
+  
+[Field]
+Name=V_15
+Position=881,1970,896,1992
+Item=V_15,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=53,1973,673,1992
+Text=V.15 Au cours des 12 derniers mois, avez-vous changé d’institution financière?
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=V_15_A
+Position=881,2000,896,2022
+Item=V_15_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=53,2003,191,2022
+Text=V.15.a Lesquelles?
+ 
+  
+[Field]
+Name=V_16
+Position=881,2051,896,2073
+Item=V_16,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=7
+  
+[Text]
+Position=52,2054,819,2073
+Text=V.16   Au cours des 12 derniers mois, avez-vous fermé un compte dans une institution financière?
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+[EndGroup]
+  
+[Group]
+Required=Yes
+Name=SECTION_VI_FORM
+Label=VI.ACCÈS ET UTILISATION DU CRÉDIT
+Form=8
+LogicControl=No
+Max=1
+  
+[Field]
+Name=VI_1
+Position=806,91,821,113
+Item=VI_1,PROJET_DICT
+DataCaptureType=RadioButton
+Form=8
+  
+[Text]
+Position=46,79,565,98
+Text=VI.1  Au cours des 12 derniers mois, avez-vous demandé un crédit
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=VI_2_A
+Position=810,154,853,176
+Item=VI_2_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=CheckBox
+Form=8
+  
+[Text]
+Position=50,149,715,168
+Text=VI.2 Citez trois (3) raisons vous ayant empêché ou découragé de demander un crédit
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=VI_2_B
+Position=810,184,931,206
+Item=VI_2_B,PROJET_DICT
+UseUnicodeTextBox=Yes
+FieldLabelType=DictionaryLabel
+Form=8
+  
+[Text]
+Position=50,179,138,198
+Text=VI.2.a Autre
+ 
+  
+[Field]
+Name=VI_3
+Position=810,234,825,256
+Item=VI_3,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=8
+  
+[Text]
+Position=50,229,587,248
+Text=VI.3 Votre demande de crédit ou de découvert a-t-elle été acceptée ?
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=VI_4_A
+Position=809,273,852,295
+Item=VI_4_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=CheckBox
+Form=8
+  
+[Text]
+Position=49,268,555,287
+Text=VI.4 Pour quelle(s) raison(s) votre demande a-t-elle été refusée ?
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=VI_4_B
+Position=809,303,939,325
+Item=VI_4_B,PROJET_DICT
+UseUnicodeTextBox=Yes
+FieldLabelType=DictionaryLabel
+Form=8
+  
+[Text]
+Position=49,298,214,317
+Text=VI.4.a Autre (préciser)
+ 
+  
+[Field]
+Name=VI_5_A
+Position=811,387,826,409
+Item=VI_5_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=8
+  
+[Text]
+Position=51,382,229,401
+Text=VI.5.a Dans une banque
+ 
+  
+[Field]
+Name=VI_5_B
+Position=811,417,826,439
+Item=VI_5_B,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=8
+  
+[Text]
+Position=51,412,676,431
+Text=VI.5.b Dans un SFD (mutuelle ou coopérative d’épargne et de crédit, association, SA)
+ 
+  
+[Field]
+Name=VI_5_C
+Position=811,447,826,469
+Item=VI_5_C,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=8
+  
+[Text]
+Position=51,442,172,461
+Text=VI.5.c A la poste
+ 
+  
+[Field]
+Name=VI_6_A
+Position=818,534,833,556
+Item=VI_6_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=8
+  
+[Text]
+Position=48,542,321,561
+Text=VI.6.a Avance sur salaire / Decouvert
+ 
+  
+[Field]
+Name=VI_6_B
+Position=818,564,833,586
+Item=VI_6_B,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=8
+  
+[Text]
+Position=48,572,394,591
+Text=VI.6.b Prêt personnel / Crédit a la cosommation
+ 
+  
+[Field]
+Name=VI_6_C
+Position=818,594,833,616
+Item=VI_6_C,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=8
+  
+[Text]
+Position=48,602,245,621
+Text=VI.6.c Crédit de campagne
+ 
+  
+[Field]
+Name=VI_6_D
+Position=818,624,833,646
+Item=VI_6_D,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=8
+  
+[Text]
+Position=48,632,230,651
+Text=VI.6.d Crédit équipement
+ 
+  
+[Field]
+Name=VI_6_E
+Position=818,654,833,676
+Item=VI_6_E,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=8
+  
+[Text]
+Position=48,662,251,681
+Text=VI.6.e Crédit investissement
+ 
+  
+[Field]
+Name=VI_6_F
+Position=818,684,833,706
+Item=VI_6_F,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=8
+  
+[Text]
+Position=48,692,279,711
+Text=VI.6.f Crédit immobilier / habitat
+ 
+  
+[Field]
+Name=VI_6_G
+Position=818,714,833,736
+Item=VI_6_G,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=8
+  
+[Text]
+Position=48,722,241,741
+Text=VI.6.g Fonds de roulement
+ 
+  
+[Field]
+Name=VI_6_H
+Position=818,744,833,766
+Item=VI_6_H,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=8
+  
+[Text]
+Position=48,752,184,771
+Text=VI.6.h Micro crédit
+ 
+  
+[Field]
+Name=VI_6_I
+Position=818,774,833,796
+Item=VI_6_I,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=8
+  
+[Text]
+Position=48,782,292,801
+Text=VI.6.I Crédit de groupe / solidaire
+ 
+  
+[Field]
+Name=VI_6_J
+Position=818,804,948,826
+Item=VI_6_J,PROJET_DICT
+UseUnicodeTextBox=Yes
+FieldLabelType=DictionaryLabel
+Form=8
+  
+[Text]
+Position=48,812,207,831
+Text=VI.6.j Autre (préciser)
+ 
+  
+[Field]
+Name=VI_6_K
+Position=818,834,833,856
+Item=VI_6_K,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=8
+  
+[Text]
+Position=48,842,351,861
+Text=VI.6.k correspondant de l'autre à préciser
+ 
+  
+[Field]
+Name=VI_7_A
+Position=819,938,834,960
+Item=VI_7_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=8
+  
+[Text]
+Position=49,971,315,990
+Text=VI.7.a A court terme (moins d'un an)
+ 
+  
+[Field]
+Name=VI_7_B
+Position=819,968,834,990
+Item=VI_7_B,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=8
+  
+[Text]
+Position=49,1001,340,1020
+Text=VI.7.b A moyen terme (entre 1 et 3 ans)
+ 
+  
+[Field]
+Name=VI_7_C
+Position=819,998,834,1020
+Item=VI_7_C,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=8
+  
+[Text]
+Position=49,1031,304,1050
+Text=VI.7.c A long terme (plus de 3 ans)
+ 
+  
+[Field]
+Name=VI_8_A
+Position=823,1144,838,1166
+Item=VI_8_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=8
+  
+[Text]
+Position=49,1158,267,1177
+Text=VI.8.a Moins de 50 000 FCFA
+ 
+  
+[Field]
+Name=VI_8_B
+Position=823,1174,838,1196
+Item=VI_8_B,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=8
+  
+[Text]
+Position=49,1188,322,1207
+Text=VI.8.b Entre 50 000 et 100 000 FCFA
+ 
+  
+[Field]
+Name=VI_8_C
+Position=823,1204,838,1226
+Item=VI_8_C,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=8
+  
+[Text]
+Position=49,1218,331,1237
+Text=VI.8.c Entre 100 000 et 200 000 FCFA
+ 
+  
+[Field]
+Name=VI_8_D
+Position=823,1234,838,1256
+Item=VI_8_D,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=8
+  
+[Text]
+Position=49,1248,331,1267
+Text=VI.8.d Entre 200 000 et 500 000 FCFA
+ 
+  
+[Field]
+Name=VI_8_E
+Position=823,1264,838,1286
+Item=VI_8_E,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=8
+  
+[Text]
+Position=49,1278,331,1297
+Text=VI.8.e Entre 500 000 et 1 million FCFA
+ 
+  
+[Field]
+Name=VI_8_F
+Position=823,1294,838,1316
+Item=VI_8_F,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=8
+  
+[Text]
+Position=49,1308,335,1327
+Text=VI.8.f Entre 1 million et 5 millions FCFA
+ 
+  
+[Field]
+Name=VI_8_G
+Position=823,1324,838,1346
+Item=VI_8_G,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=8
+  
+[Text]
+Position=49,1338,272,1357
+Text=VI.8.g Plus de 5 millions FCFA
+ 
+  
+[Field]
+Name=VI_9_A
+Position=819,1508,834,1530
+Item=VI_9_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=8
+  
+[Text]
+Position=49,1501,468,1520
+Text=VI.9.a Les différents types de produits de crédit proposés
+ 
+  
+[Field]
+Name=VI_9_B
+Position=819,1538,834,1560
+Item=VI_9_B,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=8
+  
+[Text]
+Position=49,1531,393,1550
+Text=VI.9.b Les procédures administratives à remplir
+ 
+  
+[Field]
+Name=VI_9_C
+Position=819,1568,834,1590
+Item=VI_9_C,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=8
+  
+[Text]
+Position=49,1561,445,1580
+Text=VI.9.c Les frais de dossier et les commissions à payer
+ 
+  
+[Field]
+Name=VI_9_D
+Position=819,1598,834,1620
+Item=VI_9_D,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=8
+  
+[Text]
+Position=49,1591,360,1610
+Text=VI.9.d Les délais d’approbation des crédits
+ 
+  
+[Field]
+Name=VI_9_E
+Position=819,1628,834,1650
+Item=VI_9_E,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=8
+  
+[Text]
+Position=49,1621,345,1640
+Text=VI.9.e Les garanties ou cautions exigées
+ 
+  
+[Field]
+Name=VI_9_F
+Position=819,1658,834,1680
+Item=VI_9_F,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=8
+  
+[Text]
+Position=49,1651,331,1670
+Text=VI.9.f Les montants de crédit proposés
+ 
+  
+[Field]
+Name=VI_9_G
+Position=819,1688,834,1710
+Item=VI_9_G,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=8
+  
+[Text]
+Position=49,1681,248,1700
+Text=VI.9.g La durée des crédits
+ 
+  
+[Field]
+Name=VI_9_H
+Position=819,1718,834,1740
+Item=VI_9_H,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=8
+  
+[Text]
+Position=49,1711,351,1730
+Text=VI.9.h Le calendrier des remboursements
+ 
+  
+[Field]
+Name=VI_9_I
+Position=819,1748,834,1770
+Item=VI_9_I,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=8
+  
+[Text]
+Position=49,1741,397,1760
+Text=VI.9.i Les taux d’intérêt appliqués sur les crédits
+ 
+  
+[Field]
+Name=VI_9_J
+Position=819,1778,834,1800
+Item=VI_9_J,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=8
+  
+[Text]
+Position=49,1771,473,1790
+Text=VI.9.J Les pénalités à payer en cas de retard de paiement
+ 
+  
+[Field]
+Name=VI_9_K
+Position=819,1808,834,1830
+Item=VI_9_K,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=8
+  
+[Text]
+Position=49,1801,322,1820
+Text=VI.9.k Les pratiques de recouvrement
+ 
+  
+[Field]
+Name=VI_9_L
+Position=819,1838,834,1860
+Item=VI_9_L,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=8
+  
+[Text]
+Position=49,1831,406,1850
+Text=VI.9.l L’accompagnement et le conseil aux clients
+ 
+[EndGroup]
+  
+[Group]
+Required=Yes
+Name=SECTION_VII_FORM
+Label=VII.ACCES ET UTILISATION DU TRANSFERT D'ARGENT
+Form=9
+LogicControl=No
+Max=1
+  
+[Field]
+Name=VII_1_A
+Position=932,142,947,164
+Item=VII_1_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=9
+  
+[Text]
+Position=49,147,220,166
+Text=VII.1.a Par une banque
+ 
+  
+[Field]
+Name=VII_1_B
+Position=932,172,947,194
+Item=VII_1_B,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=9
+  
+[Text]
+Position=49,177,190,196
+Text=VII.1.b Par un SFD
+ 
+  
+[Field]
+Name=VII_1_C
+Position=932,202,947,224
+Item=VII_1_C,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=9
+  
+[Text]
+Position=49,207,192,226
+Text=VII.1.c Par la Poste
+ 
+  
+[Field]
+Name=VII_1_D
+Position=932,232,947,254
+Item=VII_1_D,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=9
+  
+[Text]
+Position=49,237,354,256
+Text=VII.1.d Par un agent indépendant autorisé
+ 
+  
+[Field]
+Name=VII_1_E
+Position=932,262,947,284
+Item=VII_1_E,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=9
+  
+[Text]
+Position=49,267,267,286
+Text=VII.1.e Par téléphone portable
+ 
+  
+[Field]
+Name=VII_1_F
+Position=932,292,947,314
+Item=VII_1_F,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=9
+  
+[Text]
+Position=49,297,413,316
+Text=VII.1.f Par un autre moyen (famille, proches, etc.)
+ 
+  
+[Field]
+Name=VII_2
+Position=933,349,948,371
+Item=VII_2,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=9
+  
+[Text]
+Position=50,354,767,373
+Text=VII.2  Quel est le montant envoyé ou reçu de l’intérieur du pays à chaque fois en moyenne ?
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=VII_3_A
+Position=932,449,947,471
+Item=VII_3_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=9
+  
+[Text]
+Position=49,454,220,473
+Text=VII.3.a Par une banque
+ 
+  
+[Field]
+Name=VII_3_B
+Position=932,479,947,501
+Item=VII_3_B,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=9
+  
+[Text]
+Position=49,484,190,503
+Text=VII.3.b Par un SFD
+ 
+  
+[Field]
+Name=VII_3_C
+Position=932,509,947,531
+Item=VII_3_C,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=9
+  
+[Text]
+Position=49,514,192,533
+Text=VII.3.c Par la Poste
+ 
+  
+[Field]
+Name=VII_3_D
+Position=932,539,947,561
+Item=VII_3_D,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=9
+  
+[Text]
+Position=49,544,354,563
+Text=VII.3.d Par un agent independant autorisé
+ 
+  
+[Field]
+Name=VII_3_E
+Position=932,569,947,591
+Item=VII_3_E,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=9
+  
+[Text]
+Position=49,574,267,593
+Text=VII.3.e Par téléphone portable
+ 
+  
+[Field]
+Name=VII_3_F
+Position=932,599,947,621
+Item=VII_3_F,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=9
+  
+[Text]
+Position=49,604,413,623
+Text=VII.3.f Par un autre moyen (famille, proches, etc.)
+ 
+  
+[Field]
+Name=VII_4
+Position=932,648,947,670
+Item=VII_4,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=9
+  
+[Text]
+Position=49,653,765,672
+Text=VII.4 Quel est le montant envoyé ou reçu de l’extérieur du pays à chaque fois en moyenne ?
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=VII_5_A
+Position=932,757,947,779
+Item=VII_5_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=9
+  
+[Text]
+Position=49,762,279,781
+Text=VII.5.a Les procédures à suivre
+ 
+  
+[Field]
+Name=VII_5_B
+Position=932,787,947,809
+Item=VII_5_B,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=9
+  
+[Text]
+Position=49,792,351,811
+Text=VII.5.b Les pièces et documents à fournir
+ 
+  
+[Field]
+Name=VII_5_C
+Position=932,817,947,839
+Item=VII_5_C,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=9
+  
+[Text]
+Position=49,822,316,841
+Text=VII.5.c Le temps d’attente au guichet
+ 
+  
+[Field]
+Name=VII_5_D
+Position=932,847,947,869
+Item=VII_5_D,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=9
+  
+[Text]
+Position=49,852,376,871
+Text=VII.5.d Les délais de transmission de l’argent
+ 
+  
+[Field]
+Name=VII_5_E
+Position=932,877,947,899
+Item=VII_5_E,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=9
+  
+[Text]
+Position=49,882,227,901
+Text=VII.5.e Les frais à payer
+ 
+  
+[Field]
+Name=VII_5_F
+Position=932,907,947,929
+Item=VII_5_F,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=9
+  
+[Text]
+Position=49,912,249,931
+Text=VII.5.f La qualité du service
+ 
+  
+[Field]
+Name=VII_5_G
+Position=932,937,947,959
+Item=VII_5_G,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=9
+  
+[Text]
+Position=49,942,279,961
+Text=VII.5.g L’amabilité du personnel
+ 
+  
+[Field]
+Name=VII_5_H
+Position=932,967,947,989
+Item=VII_5_H,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=9
+  
+[Text]
+Position=49,972,252,991
+Text=VII.5.h La sécurité des lieux
+ 
+  
+[Field]
+Name=VII_5_I
+Position=932,997,947,1019
+Item=VII_5_I,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=9
+  
+[Text]
+Position=49,1002,275,1021
+Text=VII.5.i Les horaires d’ouverture
+ 
+[EndGroup]
+  
+[Group]
+Required=Yes
+Name=SECTION_VIII_FORM
+Label=VIII.ACCES ET UTILISATION DE LA MONNAIE ELECTRONIQUE(mobile banking)
+Form=10
+LogicControl=No
+Max=1
+  
+[Field]
+Name=VIII_1_A
+Position=934,178,949,200
+Item=VIII_1_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=10
+  
+[Text]
+Position=63,196,230,215
+Text=VIII.1.a Orange Money
+ 
+  
+[Field]
+Name=VIII_1_B
+Position=934,208,949,230
+Item=VIII_1_B,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=10
+  
+[Text]
+Position=63,226,196,245
+Text=VIII.1.b Tigo Cash
+ 
+  
+[Field]
+Name=VIII_1_C
+Position=934,238,949,260
+Item=VIII_1_C,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=10
+  
+[Text]
+Position=63,256,158,275
+Text=VIII.1.c Wari
+ 
+  
+[Field]
+Name=VIII_1_D
+Position=934,268,949,290
+Item=VIII_1_D,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=10
+  
+[Text]
+Position=63,286,189,305
+Text=VIII.1.d Joni Joni
+ 
+  
+[Field]
+Name=VIII_1_E
+Position=934,298,949,320
+Item=VIII_1_E,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=10
+  
+[Text]
+Position=63,316,193,335
+Text=VIII.1.e Gim Ferlo
+ 
+  
+[Field]
+Name=VIII_2
+Position=934,342,949,364
+Item=VIII_2,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=10
+  
+[Text]
+Position=56,357,630,376
+Text=VIII.2.  Êtes-vous intéressé à ouvrir un compte de monnaie électronique ?
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=VIII_3_A
+Position=924,428,967,450
+Item=VIII_3_A,PROJET_DICT
+DataCaptureType=CheckBox
+Form=10
+  
+[Text]
+Position=51,405,715,424
+Text=VIII.3 Citez trois (3) raisons ou conditions qui vous empêchent  ou vous découragent
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=VIII_3_B
+Position=906,490,1037,512
+Item=VIII_3_B,PROJET_DICT
+UseUnicodeTextBox=Yes
+FieldLabelType=DictionaryLabel
+Form=10
+  
+[Text]
+Position=62,485,247,504
+Text=VIII.3.a Autres à preciser
+ 
+  
+[Field]
+Name=VIII_4_A
+Position=921,657,936,679
+Item=VIII_4_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=10
+  
+[Text]
+Position=41,653,328,672
+Text=VIII.4.a Envoyer ou recevoir de l’argent
+ 
+  
+[Field]
+Name=VIII_4_B
+Position=921,687,936,709
+Item=VIII_4_B,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=10
+  
+[Text]
+Position=41,683,344,702
+Text=VIII.4.b Acheter des unités ou des crédits
+ 
+  
+[Field]
+Name=VIII_4_C
+Position=921,717,936,739
+Item=VIII_4_C,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=10
+  
+[Text]
+Position=41,713,437,732
+Text=VIII.4.c Déposer ou retirer de l’argent sur mon compte
+ 
+  
+[Field]
+Name=VIII_4_D
+Position=921,747,936,769
+Item=VIII_4_D,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=10
+  
+[Text]
+Position=41,743,368,762
+Text=VIII.4.d Virer de l’argent sur un autre compte
+ 
+  
+[Field]
+Name=VIII_4_E
+Position=921,777,936,799
+Item=VIII_4_E,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=10
+  
+[Text]
+Position=41,773,365,792
+Text=VIII.4.e Recevoir ma pension ou mon salaire
+ 
+  
+[Field]
+Name=VIII_4_F
+Position=921,807,936,829
+Item=VIII_4_F,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=10
+  
+[Text]
+Position=41,803,244,822
+Text=VIII.4.f Consulter mon solde
+ 
+  
+[Field]
+Name=VIII_4_G
+Position=921,837,936,859
+Item=VIII_4_G,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=10
+  
+[Text]
+Position=41,833,288,852
+Text=VIII.4.g Recevoir des alertes SMS
+ 
+  
+[Field]
+Name=VIII_4_H
+Position=921,867,936,889
+Item=VIII_4_H,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=10
+  
+[Text]
+Position=41,863,319,882
+Text=VIII.4.h Payer des factures à distance
+ 
+  
+[Field]
+Name=VIII_4_I
+Position=921,897,936,919
+Item=VIII_4_I,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=10
+  
+[Text]
+Position=41,893,468,912
+Text=VIII.4.i Payer des achats au marché ou dans une boutique
+ 
+  
+[Field]
+Name=VIII_4_J
+Position=921,929,936,951
+Item=VIII_4_J,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=10
+  
+[Text]
+Position=41,923,239,942
+Text=VIII.4.j Rembourser un prêt
+ 
+  
+[Field]
+Name=VIII_5_A
+Position=922,1041,937,1063
+Item=VIII_5_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=10
+  
+[Text]
+Position=46,1056,386,1075
+Text=VIII.5.a Les procédures d’ouverture de compte
+ 
+  
+[Field]
+Name=VIII_5_B
+Position=922,1071,937,1093
+Item=VIII_5_B,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=10
+  
+[Text]
+Position=46,1086,388,1105
+Text=VIII.5.b La couverture géographique du réseau
+ 
+  
+[Field]
+Name=VIII_5_C
+Position=922,1101,937,1123
+Item=VIII_5_C,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=10
+  
+[Text]
+Position=46,1116,257,1135
+Text=VIII.5.c La fiabilité du réseau
+ 
+  
+[Field]
+Name=VIII_5_D
+Position=922,1131,937,1153
+Item=VIII_5_D,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=10
+  
+[Text]
+Position=46,1146,328,1165
+Text=VIII.5.d La gamme des services offerts
+ 
+  
+[Field]
+Name=VIII_5_E
+Position=922,1161,937,1183
+Item=VIII_5_E,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=10
+  
+[Text]
+Position=46,1176,283,1195
+Text=VIII.5.e Le coût des transactions
+ 
+  
+[Field]
+Name=VIII_5_F
+Position=924,1199,939,1221
+Item=VIII_5_F,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=10
+  
+[Text]
+Position=51,1209,311,1228
+Text=VIII.5.f La sécurité des transactions
+ 
+  
+[Field]
+Name=VIII_5_G
+Position=925,1236,940,1258
+Item=VIII_5_G,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=10
+  
+[Text]
+Position=51,1235,394,1254
+Text=VIII.5.g L’accès aux informations sur le compte
+ 
+  
+[Field]
+Name=VIII_6_A
+Position=926,1267,941,1289
+Item=VIII_6_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=ComboBox
+Form=10
+  
+[Text]
+Position=37,1272,828,1291
+Text=VIII.6.Avez-vous déjà formulé une réclamation auprès de votre fournisseur de monnaie électronique ?
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=VIII_6_B
+Position=926,1306,941,1328
+Item=VIII_6_B,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=10
+  
+[Text]
+Position=43,1313,192,1332
+Text=VIII.6.a Qualification
+ 
+[EndGroup]
+  
+[Group]
+Required=Yes
+Name=SECTION_IX_FORM
+Label=IX.ACCES ET UTILISATION DES ASSURANCES
+Form=11
+LogicControl=No
+Max=1
+  
+[Field]
+Name=IX_1_A
+Position=869,144,912,166
+Item=IX_1_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=CheckBox
+Form=11
+  
+[Text]
+Position=51,144,675,163
+Text=IX.1 Quelles compagnies d’assurance implantées au Sénégal connaissez-vous ?
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=IX_1_B
+Position=869,174,976,196
+Item=IX_1_B,PROJET_DICT
+UseUnicodeTextBox=Yes
+FieldLabelType=DictionaryLabel
+Form=11
+  
+[Text]
+Position=51,174,218,193
+Text=IX.1.a Autre à preciser
+ 
+  
+[Field]
+Name=IX_2
+Position=869,243,884,265
+Item=IX_2,PROJET_DICT
+DataCaptureType=RadioButton
+Form=11
+  
+[Text]
+Position=48,220,551,239
+Text=IX.2.	Souscrivez-vous présentement à une police d’assurance ou
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=IX_3
+Position=869,294,884,316
+Item=IX_3,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=11
+  
+[Text]
+Position=48,294,527,313
+Text=IX.3.  Êtes-vous intéressé à acheter une police d’assurance ?
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=IX_4_A
+Position=869,333,912,355
+Item=IX_4_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=CheckBox
+Form=11
+  
+[Text]
+Position=50,333,725,352
+Text=IX.4 Quels types de risques voudriez-vous faire couvrir par votre police d’assurance ?
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=IX_4_B
+Position=869,363,988,385
+Item=IX_4_B,PROJET_DICT
+UseUnicodeTextBox=Yes
+FieldLabelType=DictionaryLabel
+Form=11
+  
+[Text]
+Position=50,363,217,382
+Text=IX.4.a Autre à préciser
+ 
+  
+[Field]
+Name=IX_5_A
+Position=869,409,912,431
+Item=IX_5_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=CheckBox
+Form=11
+  
+[Text]
+Position=45,412,565,431
+Text=IX.5 Citez trois (3) raisons pour lesquelles vous n’êtes pas assuré.
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=IX_5_B
+Position=869,439,984,461
+Item=IX_5_B,PROJET_DICT
+UseUnicodeTextBox=Yes
+FieldLabelType=DictionaryLabel
+Form=11
+  
+[Text]
+Position=45,442,212,461
+Text=IX.5.a Autre à préciser
+ 
+  
+[Field]
+Name=IX_6
+Position=869,479,940,501
+Item=IX_6,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=CheckBox
+Form=11
+  
+[Text]
+Position=47,482,476,501
+Text=IX.6.a.Comment avez-vous accédé à votre assurance ?
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=IX_6_B
+Position=869,509,991,531
+Item=IX_6_B,PROJET_DICT
+UseUnicodeTextBox=Yes
+FieldLabelType=DictionaryLabel
+Form=11
+  
+[Text]
+Position=47,512,214,531
+Text=IX.6.b.Autre à préciser
+ 
+  
+[Field]
+Name=IX_7
+Position=869,547,884,569
+Item=IX_7,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=11
+  
+[Text]
+Position=46,553,803,572
+Text=IX.7.	Depuis combien de temps souscrivez-vous à une police d’assurance ou êtes-vous couvert ?
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=IX_8_A
+Position=869,593,1052,615
+Item=IX_8_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=CheckBox
+Form=11
+  
+[Text]
+Position=49,599,687,618
+Text=IX.8 Quels types de risques sont couverts par votre (vos) police(s) d’assurance ?
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=IX_8_B
+Position=869,624,1048,646
+Item=IX_8_B,PROJET_DICT
+UseUnicodeTextBox=Yes
+FieldLabelType=DictionaryLabel
+Form=11
+  
+[Text]
+Position=49,630,216,649
+Text=IX.8.a Autre à préciser
+ 
+  
+[Field]
+Name=IX_9
+Position=869,680,884,702
+Item=IX_9,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=11
+  
+[Text]
+Position=52,675,844,694
+Text=IX.9. A part vous, combien d’autres membres de votre famille sont couverts par cette(ces) police(s) ?
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=IX_10
+Position=869,725,884,747
+Item=IX_10,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=11
+  
+[Text]
+Position=50,717,768,736
+Text=IX.10. Au cours des 12 derniers mois, avez-vous soumis une réclamation à votre assureur ?
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=IX_11_A
+Position=869,855,884,877
+Item=IX_11_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=11
+  
+[Text]
+Position=45,860,391,879
+Text=IX.11.a Les procédures administratives à suivre
+ 
+  
+[Field]
+Name=IX_11_B
+Position=869,885,884,907
+Item=IX_11_B,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=11
+  
+[Text]
+Position=45,890,341,909
+Text=IX.11.b Les pièces justificatives à fournir
+ 
+  
+[Field]
+Name=IX_11_C
+Position=869,915,884,937
+Item=IX_11_C,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=11
+  
+[Text]
+Position=45,920,275,939
+Text=IX.11.c Les délais de traitement
+ 
+  
+[Field]
+Name=IX_11_D
+Position=869,945,884,967
+Item=IX_11_D,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=11
+  
+[Text]
+Position=45,950,266,969
+Text=IX.11.d Le montant remboursé
+ 
+[EndGroup]
+  
+[Group]
+Required=Yes
+Name=SECTION_X_FORM
+Label=X.ACCÈS ET UTILISATION DES SERVICES FINANCIERS INFORMELS
+Form=12
+LogicControl=No
+Max=1
+  
+[Field]
+Name=X_1_A
+Position=930,140,945,162
+Item=X_1_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=12
+  
+[Text]
+Position=52,144,219,163
+Text=X.1.a Dans une tontine
+ 
+  
+[Field]
+Name=X_1_B
+Position=930,170,945,192
+Item=X_1_B,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=12
+  
+[Text]
+Position=52,174,453,193
+Text=X.1.b Dans une association ou un groupement informel
+ 
+  
+[Field]
+Name=X_1_C
+Position=930,200,945,222
+Item=X_1_C,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=12
+  
+[Text]
+Position=52,204,337,223
+Text=X.1.c Auprès d’une ONG ou d’un projet
+ 
+  
+[Field]
+Name=X_1_D
+Position=930,230,945,252
+Item=X_1_D,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=12
+  
+[Text]
+Position=52,234,337,253
+Text=X.1.d Auprès d’une ONG ou d’un projet
+ 
+  
+[Field]
+Name=X_2
+Position=930,282,945,304
+Item=X_2,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=12
+  
+[Text]
+Position=50,286,637,305
+Text=X.2. Quel montant épargnez-vous chaque semaine dans ce(s) système(s) ?
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=X_3_A
+Position=932,396,947,418
+Item=X_3_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=12
+  
+[Text]
+Position=49,408,175,427
+Text=X.3.a Une tontine
+ 
+  
+[Field]
+Name=X_3_B
+Position=932,426,947,448
+Item=X_3_B,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=12
+  
+[Text]
+Position=49,438,346,457
+Text=X.3.b Une association ou un groupement
+ 
+  
+[Field]
+Name=X_3_C
+Position=932,456,947,478
+Item=X_3_C,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=12
+  
+[Text]
+Position=49,468,369,487
+Text=X.3.c Une ONG, un projet ou un programme
+ 
+  
+[Field]
+Name=X_3_D
+Position=932,486,947,508
+Item=X_3_D,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=12
+  
+[Text]
+Position=49,498,213,517
+Text=X.3.d Votre employeur
+ 
+  
+[Field]
+Name=X_3_E
+Position=932,516,947,538
+Item=X_3_E,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=12
+  
+[Text]
+Position=49,528,317,547
+Text=X.3.e Un commerçant / une boutique
+ 
+  
+[Field]
+Name=X_3_F
+Position=932,546,947,568
+Item=X_3_F,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=12
+  
+[Text]
+Position=49,558,316,577
+Text=X.3.f Un commissionnaire ou usurier
+ 
+  
+[Field]
+Name=X_2_G
+Position=932,576,947,598
+Item=X_2_G,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=12
+  
+[Text]
+Position=49,588,268,607
+Text=X.3.g Un membre de la famille
+ 
+  
+[Field]
+Name=X_3_H
+Position=932,606,947,628
+Item=X_3_H,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=12
+  
+[Text]
+Position=49,618,301,637
+Text=X.3.h Un ami / proche de la famille
+ 
+  
+[Field]
+Name=X_4
+Position=934,689,949,711
+Item=X_4,PROJET_DICT
+DataCaptureType=RadioButton
+Form=12
+  
+[Text]
+Position=47,669,847,688
+Text=X.4. Avez-vous plus, moins ou autant confiance dans ces systèmes informels que dans les institutions
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+[EndGroup]
+  
+[Group]
+Required=Yes
+Name=SECTION_XI_FORM
+Label=XI.BESOINS DE FINANCEMENT
+Form=13
+LogicControl=No
+Max=1
+  
+[Field]
+Name=XI_1
+Position=831,79,846,101
+Item=XI_1,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=13
+  
+[Text]
+Position=49,81,356,100
+Text=XI.1. Êtes-vous un exploitant agricole ?
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=XI_2_A
+Position=831,142,846,164
+Item=XI_2_A,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=13
+  
+[Text]
+Position=49,152,354,171
+Text=XI.2.a Cultures de rente (arachide, coton)
+ 
+  
+[Field]
+Name=XI_2_B
+Position=831,172,846,194
+Item=XI_2_B,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=13
+  
+[Text]
+Position=49,182,497,201
+Text=XI.2.b Cultures céréalières (riz, mil, maïs, fonio, sorgho, etc.)
+ 
+  
+[Field]
+Name=XI_2_C
+Position=831,202,846,224
+Item=XI_2_C,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=13
+  
+[Text]
+Position=49,212,548,231
+Text=XI.2.c  Cultures maraîchères (tomate, oignon, salade, légumes, etc.)
+ 
+  
+[Field]
+Name=XI_2_D
+Position=831,232,846,254
+Item=XI_2_D,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=13
+  
+[Text]
+Position=49,242,720,261
+Text=XI.2.d Plantations et fruitières (canne à sucre, mangue, orange, citron, papaye, melon, etc.)
+ 
+  
+[Field]
+Name=XI_2_E
+Position=831,262,846,284
+Item=XI_2_E,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=13
+  
+[Text]
+Position=49,272,340,291
+Text=XI.2.e Cultures florales ou ornementales
+ 
+  
+[Field]
+Name=XI_3
+Position=826,342,869,364
+Item=XI_3,PROJET_DICT
+DataCaptureType=CheckBox
+Form=13
+  
+[Text]
+Position=50,317,804,336
+Text=XI.3. Quelles sont les principales contraintes ou difficultés  rencontrées pour accroître le volume
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=XI_3_A
+Position=826,380,1005,402
+Item=XI_3_A,PROJET_DICT
+UseUnicodeTextBox=Yes
+FieldLabelType=DictionaryLabel
+Form=13
+  
+[Text]
+Position=55,367,222,386
+Text=XI.3.a Autre à preciser
+ 
+  
+[Field]
+Name=XI_4
+Position=826,423,869,445
+Item=XI_4,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=CheckBox
+Form=13
+  
+[Text]
+Position=52,418,469,437
+Text=XI.4. Comment financez-vous vos activités agricoles?
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=XI_4_A
+Position=826,462,1010,484
+Item=XI_4_A,PROJET_DICT
+UseUnicodeTextBox=Yes
+FieldLabelType=DictionaryLabel
+Form=13
+  
+[Text]
+Position=52,448,219,467
+Text=XI.4.a Autre à preciser
+ 
+  
+[Field]
+Name=XI_5
+Position=826,498,869,520
+Item=XI_5,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=CheckBox
+Form=13
+  
+[Text]
+Position=50,488,429,507
+Text=XI.5. A qui vendez-vous vos produits agricoles ?
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=XI_5_A
+Position=826,528,1009,550
+Item=XI_5_A,PROJET_DICT
+UseUnicodeTextBox=Yes
+FieldLabelType=DictionaryLabel
+Form=13
+  
+[Text]
+Position=50,518,217,537
+Text=XI.5.a Autre à preciser
+ 
+  
+[Field]
+Name=XI_6
+Position=820,579,863,601
+Item=XI_6,PROJET_DICT
+DataCaptureType=CheckBox
+Form=13
+  
+[Text]
+Position=52,567,505,586
+Text=XI.6. Quelles sont les principales contraintes ou difficultés
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=XI_6_A
+Position=820,618,1007,640
+Item=XI_6_A,PROJET_DICT
+UseUnicodeTextBox=Yes
+FieldLabelType=DictionaryLabel
+Form=13
+  
+[Text]
+Position=50,624,217,643
+Text=XI.6.a Autre à preciser
+ 
+  
+[Field]
+Name=XI_7
+Position=820,658,835,680
+Item=XI_7,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=13
+  
+[Text]
+Position=50,658,712,677
+Text=XI.7. Êtes-vous propriétaire ou dirigeant d’une micro, petite ou moyenne entreprise?
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=XI_8
+Position=820,697,835,719
+Item=XI_8,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=13
+  
+[Text]
+Position=50,695,710,714
+Text=XI.8. Conduisez-vous des activités génératrices de revenus à votre propre compte ?
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=XI_9
+Position=820,739,863,761
+Item=XI_9,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=CheckBox
+Form=13
+  
+[Text]
+Position=52,733,280,752
+Text=XI.9 Dans quel(s) secteur(s)?
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=XI_9_A
+Position=820,771,1016,793
+Item=XI_9_A,PROJET_DICT
+UseUnicodeTextBox=Yes
+FieldLabelType=DictionaryLabel
+Form=13
+  
+[Text]
+Position=52,763,219,782
+Text=XI.9.a Autre à preciser
+ 
+  
+[Field]
+Name=XI_10
+Position=820,824,835,846
+Item=XI_10,PROJET_DICT
+DataCaptureType=RadioButton
+Form=13
+  
+[Text]
+Position=53,801,665,820
+Text=XI.10. Quel est approximativement le chiffre d’affaires annuel (recettes totales)
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=XI_11
+Position=820,877,863,899
+Item=XI_11,PROJET_DICT
+DataCaptureType=CheckBox
+Form=13
+  
+[Text]
+Position=57,861,446,880
+Text=XI.11. Quelles sont les sources de financement de
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=XI_11_A
+Position=819,926,1026,948
+Item=XI_11_A,PROJET_DICT
+UseUnicodeTextBox=Yes
+FieldLabelType=DictionaryLabel
+Form=13
+  
+[Text]
+Position=55,917,231,936
+Text=XI.11.a Autre à préciser
+ 
+  
+[Field]
+Name=XI_12
+Position=820,994,835,1016
+Item=XI_12,PROJET_DICT
+DataCaptureType=RadioButton
+Form=13
+  
+[Text]
+Position=57,966,729,985
+Text=XI.12. Avez-vous présentement des besoins de financement qui ne sont pas satisfaits,
+Font=-017 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Grid]
+Name=USAGE_ET_MONTANTS000
+Label=Usage et Montants
+Form=13
+Required=Yes
+Type=Item
+TypeName=USAGE_ET_MONTANTS
+Max=19
+DisplaySize=80,1106,779,1954
+Orientation=Horizontal
+FieldRowHeight=42
+HeadingRowHeight=0
+FreeMovement=No
+ 
+[Text]
+Position=0,0,483,42
+Text=Dépenses de consommation
+ 
+  
+[Text]
+Position=0,0,483,42
+Text=Dépenses scolaires
+ 
+  
+[Text]
+Position=0,0,483,42
+Text=Dépenses de santé
+ 
+  
+[Text]
+Position=0,0,483,42
+Text=Achat de meubles, d’appareil électro-ménager
+ 
+  
+[Text]
+Position=0,0,483,42
+Text=Achat d’un vélo, mobylette ou moto
+ 
+  
+[Text]
+Position=0,0,483,42
+Text=Achat d’une voiture
+ 
+  
+[Text]
+Position=0,0,483,42
+Text=Construction immobilière
+ 
+  
+[Text]
+Position=0,0,483,42
+Text=Achat d’une maison, d’un immeuble
+ 
+  
+[Text]
+Position=0,0,483,42
+Text=Rénovation/amélioration du logement
+ 
+  
+[Text]
+Position=0,0,483,42
+Text=Achat d’un terrain, d’une parcelle
+ 
+  
+[Text]
+Position=0,0,483,42
+Text=Achat d’un équipement, de machinerie
+ 
+  
+[Text]
+Position=0,0,483,42
+Text=Démarrage d’une entreprise, d’une activité génératrice de revenu
+ 
+  
+[Text]
+Position=0,0,483,42
+Text=Fonds de roulement pour mon entreprise
+ 
+  
+[Text]
+Position=0,0,483,42
+Text=Commerce / Achat de stock de marchandises
+ 
+  
+[Text]
+Position=0,0,483,42
+Text=Achat d’intrants agricoles (engrais, pesticides, semences)
+ 
+  
+[Text]
+Position=0,0,483,42
+Text=Achat de bétail
+ 
+  
+[Text]
+Position=0,0,483,42
+Text=Remboursement d’une dette
+ 
+  
+[Text]
+Position=0,0,483,42
+Text=Période de soudure
+ 
+  
+[Text]
+Position=0,0,483,42
+Text=Autre (préciser) :
+ 
+  
+[Column]
+Width=10
+[EndColumn]
+  
+[Column]
+Width=66
+  
+[HeaderText]
+Position=12,0,66,27
+Text=Usage
+ 
+[Field]
+Name=USAGE
+Position=31,0,46,22
+Item=USAGE,PROJET_DICT
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+  
+[Text]
+Text=Usage
+ 
+[EndColumn]
+  
+[Column]
+Width=508
+  
+[HeaderText]
+Position=0,0,174,27
+Text=Montant requis (FCFA)
+HorizontalAlignment=Left
+ 
+[Field]
+Name=MONTANT
+Position=0,0,141,22
+Item=MONTANT,PROJET_DICT
+FieldLabelType=DictionaryLabel
+  
+[Text]
+Position=334,38,508,65
+Text=Montant requis (FCFA)
+HorizontalAlignment=Left
+ 
+[EndColumn]
+  
+[EndGrid]
+ 
+  
+[Field]
+Name=PRECISER_L_USAGE
+Position=248,2009,607,2031
+Item=PRECISER_L_USAGE,PROJET_DICT
+UseUnicodeTextBox=Yes
+FieldLabelType=DictionaryLabel
+Form=13
+  
+[Text]
+Position=91,2012,213,2031
+Text=Préciser  l'usage
+ 
+  
+[Field]
+Name=HEURE2
+Position=259,2055,288,2077
+Item=HEURE2,PROJET_DICT
+Form=13
+  
+  
+[Field]
+Name=MINUTES2
+Position=309,2056,338,2078
+Item=MINUTES2,PROJET_DICT
+Form=13
+  
+  
+[Field]
+Name=OBS
+Position=255,2104,607,2126
+Item=OBS,PROJET_DICT
+UseUnicodeTextBox=Yes
+FieldLabelType=DictionaryLabel
+Form=13
+  
+[Text]
+Position=97,2107,223,2126
+Text=OBSERVATIONS
+ 
+[EndGroup]
+  
